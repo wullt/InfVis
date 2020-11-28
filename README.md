@@ -136,6 +136,8 @@ Longitude|`#geo+lon`|66.02621828
 Continent|`#region+main+name+preferred`|Asia
 Region in continent|`#region+name+preferred+sub`|Southern Asia
 
+This was done for each country in both files.
+
 
 
 ### Getting to know the data
