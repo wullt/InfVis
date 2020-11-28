@@ -1,0 +1,58 @@
+version: "2.4"
+
+
+services: 
+  postgres:
+    image: postgres:12-alpine
+    container_name: psql
+    restart: always
+    environment:
+      POSTGRES_USER: postgres     # define credentials
+      POSTGRES_PASSWORD: postgres # define credentials
+      POSTGRES_DB: reldb       # define database
+
+    ports: 
+      - 5432:5432
+
+    volumes:
+      - psql-infvis-data:/var/lib/postgresql/data
+      #- "./infvis/init.sql:/docker-entrypoint-initdb.d/init.sql"
+      - "./infvis/data:/home/files"
+
+
+        
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    restart: always
+    ports:
+      - 3000:3000
+#    networks:
+#      - traefik
+#      - data-access
+    volumes:
+      - grafana-storage-infvis:/var/lib/grafana
+    environment:
+      - GF_INSTALL_PLUGINS=grafana-worldmap-panel
+      - GF_INSTALL_PLUGINS=natel-plotly-panel
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "100m"
+        max-file: "5"
+      
+
+    
+
+
+
+volumes:
+  psql-infvis-data:
+  grafana-storage-infvis:
+
+
+    
+    
+
+
+

@@ -65,7 +65,46 @@ The second dataset has following structure:
 232                      840                    United States of America  ...         7.0         7.0
 ```
 
+### Adding latitude and longitude to the countries
+
+
+
+
 ### Getting to know the data
+
+To explore the data, i used Grafana and a PostgreSQL database. To have a simple setup, i used docker-compose. 
+[The docker-compose file is here](docker/docker-compose.yml). 
+
+To import the data into the db, i created a table `countries` and imported the [dataset](docker/infvis/data/wlatlong.csv):
+```sql
+CREATE TABLE "countries" (
+    "ISO_code" integer,
+    "Location" text,
+    "1950_1955" integer,
+    "1955_1960" integer,
+    "1960_1965" integer,
+    "1965_1970" integer,
+    "1970_1975" integer,
+    "1975_1980" integer,
+    "1980_1985" integer,
+    "1985_1990" integer,
+    "1990_1995" integer,
+    "1995_2000" integer,
+    "2000_2005" integer,
+    "2005_2010" integer,
+    "2010_2015" integer,
+    "2015_2020" integer,
+    "region" text,
+    "continent" text,
+    "latitude" double precision,
+    "longitude" double precision
+);
+```
+
+```sql
+\copy countries FROM '/home/files/wlatlong.csv' DELIMITER ',' CSV HEADER;
+```
+
 
 
 ## Plot 1 - Change over the last 50y
