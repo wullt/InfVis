@@ -74,9 +74,67 @@ The second dataset has following structure:
 
 Both datasets include the `ISO 3166-1 code` for each country.
 
+## Preparing the data
+
+The dataset only contains data of countries with more than 90 000 inhabitants in 2019. However, some countries with less than 90 000 inhabitants are listed too so they had to be removed. This was done manually.
+
 ### Adding latitude and longitude to the countries
 
+To create a visualization with geographical informations, latitude and longitude are needed.
+The python library [hdx](https://pypi.org/project/hdx-python-country/) was used to get additional information for each country.
 
+This snippet shows how it was done (Afghanistan as example):
+
+```py
+>>> from hdx.location.country import Country
+>>> Country.get_country_info_from_m49(4)
+```
+The result of this command is a dict
+
+```json
+{
+    "#meta+id": "1",
+    "#country+code+v_hrinfo_country": "181",
+    "#country+code+v_reliefweb": "13",
+    "#country+code+num+v_m49": "4",
+    "#country+code+v_fts": "1",
+    "#country+code+v_iso2": "AF",
+    "#country+code+v_iso3": "AFG",
+    "#country+name+preferred": "Afghanistan",
+    "#country+alt+name+v_m49": "",
+    "#country+alt+name+v_iso": "",
+    "#country+alt+name+v_unterm": "",
+    "#country+alt+name+v_fts": "",
+    "#country+alt+name+v_hrinfo_country": "",
+    "#country+name+short+v_reliefweb": "",
+    "#country+alt+name+v_reliefweb": "",
+    "#country+alt+i_en+name+v_unterm": "Afghanistan",
+    "#country+alt+i_fr+name+v_unterm": "\"Afghanistan (l\") [masc.]\"",
+    "#country+alt+i_es+name+v_unterm": "Afganistán (el)",
+    "#country+alt+i_ru+name+v_unterm": "Афганистан",
+    "#country+alt+i_zh+name+v_unterm": "阿富汗",
+    "#country+alt+i_ar+name+v_unterm": "أفغانستان",
+    "#geo+admin_level": "0",
+    "#geo+lat": "33.83147477",
+    "#geo+lon": "66.02621828",
+    "#region+code+main": "142",
+    "#region+main+name+preferred": "Asia",
+    "#region+code+sub": "34",
+    "#region+name+preferred+sub": "Southern Asia",
+    "#region+code+intermediate": "",
+    "#region+intermediate+name+preferred": "",
+    "#country+regex": "afghan"
+}
+```
+
+Following metadata was appended to the dataset:
+
+name|key|example value from above
+-|-|-
+Latitude|`#geo+lat`|33.83147477
+Longitude|`#geo+lon`|66.02621828
+Continent|`#region+main+name+preferred`|Asia
+Region in continent|`#region+name+preferred+sub`|Southern Asia
 
 
 
