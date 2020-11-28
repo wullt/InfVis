@@ -14,6 +14,13 @@
 
 Tools & libraries used
 
+Data exploration and preparation
+* Docker
+* Grafana
+* PostgreSQL
+* Google sheets
+
+Vizualisation
 * Python
 * Plotly
 * PowerPoint
@@ -65,7 +72,10 @@ The second dataset has following structure:
 232                      840                    United States of America  ...         7.0         7.0
 ```
 
+Both datasets include the `ISO 3166-1 code` for each country.
+
 ### Adding latitude and longitude to the countries
+
 
 
 
