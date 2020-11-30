@@ -205,7 +205,7 @@ The result can be seen below:
 ![continentcolors](https://external-preview.redd.it/rJbzdofonDMvwf8IvTfpYKPsAJP53I_WbZU9kxsJNS4.png?auto=webp&s=285617d92bda53bc08fa24a75016dddffcef99da)
 
 
-To find the suitable color palette, i made use of [VIZ PALETTE](https://projects.susielu.com/viz-palette) and adjusted the colors as below:
+To find the suitable color palette, i made use of [VIZ PALETTE](https://projects.susielu.com/viz-palette) and adjusted the colors:
 
 ![vizpalette_screenshot](images/colorpalette.PNG)
 The resulting colors for the continents are:
@@ -219,6 +219,10 @@ indigo|`rgb(0,0,255)`|Europe
 green|`rgb(0,180,0)`|Southern America
 magenta|`rgb(152,0,133)`|Oceania
 
+![legend](images/legend_infvis.png)
+
+### Type of plot
+
 
 
 ### Anotations
@@ -227,5 +231,10 @@ magenta|`rgb(152,0,133)`|Oceania
 * Cambodia 1975-1979
 
 
+## Plot 2
+Geographig distribution and change over time
 
-## Geographig distribution and change over time
+## Layout of the info graphic
+
+
+![layout](images/infvis_layout.png)
