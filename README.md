@@ -175,6 +175,21 @@ CREATE TABLE "countries" (
 \copy countries FROM '/home/files/wlatlong.csv' DELIMITER ',' CSV HEADER;
 ```
 
+In Grafana, i created a dashboard to analyze the values in relation to the geographic location.
+
+Between 1975 and 1980, Cambodia was significantly higher than the other countries.
+
+![explore_75](images/grafana_screenshot_explore_75.PNG)
+
+The average of the years from 1990 to 1995 indicated that something happend in Rwanda:
+
+![explore_90](images/grafana_screenshot_explore_90.PNG)
+
+To compare the values of different times, another section was added:
+
+![compare](images/grafana_screenshot_compare.PNG)
+
+
 
 
 ## Plot 1 - Change over the last 50y
