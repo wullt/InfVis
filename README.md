@@ -221,7 +221,15 @@ magenta|`rgb(152,0,133)`|Oceania
 
 ![legend](images/legend_infvis.png)
 
+
+
 ### Type of plot
+
+
+
+>TODO
+
+![lineplotv0](images/line_plot_continents.PNG)
 
 
 
