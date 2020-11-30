@@ -192,7 +192,32 @@ To compare the values of different times, another section was added:
 
 
 
-## Plot 1 - Change over the last 50y
+## Visualization 1
+
+In the first vizualisation, the goal is to show how the u5mr values have decreased over the last 40 years. The data was categorized in the continents.
+To 
+
+### Colors
+
+many people associate continents with colors. An example is the olympic rings (although the colors were not officially chosen for that reason). While doing research about this, i came accross this [Reddit post](https://www.reddit.com/r/MapPorn/comments/ajlphq/poll_results_what_color_is_each_continent/), where the user made a survey about this. 
+
+The result can be seen below:
+![continentcolors](https://external-preview.redd.it/rJbzdofonDMvwf8IvTfpYKPsAJP53I_WbZU9kxsJNS4.png?auto=webp&s=285617d92bda53bc08fa24a75016dddffcef99da)
+
+
+To find the suitable color palette, i made use of [VIZ PALETTE](https://projects.susielu.com/viz-palette) and adjusted the colors as below:
+
+![vizpalette_screenshot](images/colorpalette.PNG)
+The resulting colors for the continents are:
+
+color name|rgb value|continent
+-|-|-
+orange|`rgb(255,134,0)`|Asia
+gold|`rgb(233,213,0)`|Africa
+red|`rgb(215,2,6)`|Northern America
+indigo|`rgb(0,0,255)`|Europe
+green|`rgb(0,180,0)`|Southern America
+magenta|`rgb(152,0,133)`|Oceania
 
 
 
