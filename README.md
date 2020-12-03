@@ -397,6 +397,7 @@ The reading flow should be:
 
 **Title &rarr; Introduction &darr; Line chart &uarr; Annotation Rwanda &darr; Map 1978-1980 &rarr; Map 2015-2020 &darr; Personal reflection &darr; This repository**
 
+To support this reading flow, gray triangles were added to link the years in the line chart to the maps.
 
 ![infographic](Infographic.png)
 
