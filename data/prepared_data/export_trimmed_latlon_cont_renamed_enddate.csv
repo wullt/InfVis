@@ -1,0 +1,2001 @@
+CountryCode,Country,Year,Variant,Value,region,continent,latitude,longitude
+4,Afghanistan,2020,Medium,67.868,Southern Asia,Asia,33.83147477,66.02621828
+4,Afghanistan,2015,Medium,81.042,Southern Asia,Asia,33.83147477,66.02621828
+4,Afghanistan,2010,Medium,100.008,Southern Asia,Asia,33.83147477,66.02621828
+4,Afghanistan,2005,Medium,119.645,Southern Asia,Asia,33.83147477,66.02621828
+4,Afghanistan,2000,Medium,137.856,Southern Asia,Asia,33.83147477,66.02621828
+4,Afghanistan,1995,Medium,160.542,Southern Asia,Asia,33.83147477,66.02621828
+4,Afghanistan,1990,Medium,191.30200000000002,Southern Asia,Asia,33.83147477,66.02621828
+4,Afghanistan,1985,Medium,224.65099999999998,Southern Asia,Asia,33.83147477,66.02621828
+4,Afghanistan,1980,Medium,256.962,Southern Asia,Asia,33.83147477,66.02621828
+4,Afghanistan,1975,Medium,286.63,Southern Asia,Asia,33.83147477,66.02621828
+8,Albania,2020,Medium,11.369000000000002,Southern Europe,Europe,41.13180899,20.06882519
+8,Albania,2015,Medium,13.104000000000001,Southern Europe,Europe,41.13180899,20.06882519
+8,Albania,2010,Medium,18.721,Southern Europe,Europe,41.13180899,20.06882519
+8,Albania,2005,Medium,25.647,Southern Europe,Europe,41.13180899,20.06882519
+8,Albania,2000,Medium,30.864,Southern Europe,Europe,41.13180899,20.06882519
+8,Albania,1995,Medium,37.086999999999996,Southern Europe,Europe,41.13180899,20.06882519
+8,Albania,1990,Medium,45.678000000000004,Southern Europe,Europe,41.13180899,20.06882519
+8,Albania,1985,Medium,52.521,Southern Europe,Europe,41.13180899,20.06882519
+8,Albania,1980,Medium,57.678999999999995,Southern Europe,Europe,41.13180899,20.06882519
+8,Albania,1975,Medium,72.77199999999999,Southern Europe,Europe,41.13180899,20.06882519
+12,Algeria,2020,Medium,24.663,Northern Africa,Africa,28.16474462,2.63351219
+12,Algeria,2015,Medium,28.881,Northern Africa,Africa,28.16474462,2.63351219
+12,Algeria,2010,Medium,34.397,Northern Africa,Africa,28.16474462,2.63351219
+12,Algeria,2005,Medium,40.836,Northern Africa,Africa,28.16474462,2.63351219
+12,Algeria,2000,Medium,47.245,Northern Africa,Africa,28.16474462,2.63351219
+12,Algeria,1995,Medium,54.356,Northern Africa,Africa,28.16474462,2.63351219
+12,Algeria,1990,Medium,71.479,Northern Africa,Africa,28.16474462,2.63351219
+12,Algeria,1985,Medium,103.45200000000001,Northern Africa,Africa,28.16474462,2.63351219
+12,Algeria,1980,Medium,156.613,Northern Africa,Africa,28.16474462,2.63351219
+12,Algeria,1975,Medium,188.135,Northern Africa,Africa,28.16474462,2.63351219
+24,Angola,2020,Medium,80.889,Sub-Saharan Africa,Africa,-12.3755731,17.59867248
+24,Angola,2015,Medium,106.391,Sub-Saharan Africa,Africa,-12.3755731,17.59867248
+24,Angola,2010,Medium,148.491,Sub-Saharan Africa,Africa,-12.3755731,17.59867248
+24,Angola,2005,Medium,192.24599999999998,Sub-Saharan Africa,Africa,-12.3755731,17.59867248
+24,Angola,2000,Medium,217.635,Sub-Saharan Africa,Africa,-12.3755731,17.59867248
+24,Angola,1995,Medium,223.31900000000002,Sub-Saharan Africa,Africa,-12.3755731,17.59867248
+24,Angola,1990,Medium,224.003,Sub-Saharan Africa,Africa,-12.3755731,17.59867248
+24,Angola,1985,Medium,230.608,Sub-Saharan Africa,Africa,-12.3755731,17.59867248
+24,Angola,1980,Medium,242.114,Sub-Saharan Africa,Africa,-12.3755731,17.59867248
+24,Angola,1975,Medium,258.637,Sub-Saharan Africa,Africa,-12.3755731,17.59867248
+28,Antigua and Barbuda,2020,Medium,7.251,Latin America and the Caribbean,Americas,17.07120733,-61.79815058
+28,Antigua and Barbuda,2015,Medium,8.868,Latin America and the Caribbean,Americas,17.07120733,-61.79815058
+28,Antigua and Barbuda,2010,Medium,10.889000000000001,Latin America and the Caribbean,Americas,17.07120733,-61.79815058
+28,Antigua and Barbuda,2005,Medium,13.345,Latin America and the Caribbean,Americas,17.07120733,-61.79815058
+28,Antigua and Barbuda,2000,Medium,17.016,Latin America and the Caribbean,Americas,17.07120733,-61.79815058
+28,Antigua and Barbuda,1995,Medium,22.695,Latin America and the Caribbean,Americas,17.07120733,-61.79815058
+28,Antigua and Barbuda,1990,Medium,30.618000000000002,Latin America and the Caribbean,Americas,17.07120733,-61.79815058
+28,Antigua and Barbuda,1985,Medium,38.043,Latin America and the Caribbean,Americas,17.07120733,-61.79815058
+28,Antigua and Barbuda,1980,Medium,43.111999999999995,Latin America and the Caribbean,Americas,17.07120733,-61.79815058
+28,Antigua and Barbuda,1975,Medium,48.178999999999995,Latin America and the Caribbean,Americas,17.07120733,-61.79815058
+32,Argentina,2020,Medium,11.862,Latin America and the Caribbean,Americas,-34.98567234,-65.12225892
+32,Argentina,2015,Medium,14.017000000000001,Latin America and the Caribbean,Americas,-34.98567234,-65.12225892
+32,Argentina,2010,Medium,16.558,Latin America and the Caribbean,Americas,-34.98567234,-65.12225892
+32,Argentina,2005,Medium,19.557000000000002,Latin America and the Caribbean,Americas,-34.98567234,-65.12225892
+32,Argentina,2000,Medium,23.092,Latin America and the Caribbean,Americas,-34.98567234,-65.12225892
+32,Argentina,1995,Medium,27.244,Latin America and the Caribbean,Americas,-34.98567234,-65.12225892
+32,Argentina,1990,Medium,31.923000000000002,Latin America and the Caribbean,Americas,-34.98567234,-65.12225892
+32,Argentina,1985,Medium,37.417,Latin America and the Caribbean,Americas,-34.98567234,-65.12225892
+32,Argentina,1980,Medium,46.18899999999999,Latin America and the Caribbean,Americas,-34.98567234,-65.12225892
+32,Argentina,1975,Medium,57.544,Latin America and the Caribbean,Americas,-34.98567234,-65.12225892
+51,Armenia,2020,Medium,13.173,Western Asia,Asia,40.29202499,44.9429026
+51,Armenia,2015,Medium,16.174,Western Asia,Asia,40.29202499,44.9429026
+51,Armenia,2010,Medium,23.711,Western Asia,Asia,40.29202499,44.9429026
+51,Armenia,2005,Medium,30.289,Western Asia,Asia,40.29202499,44.9429026
+51,Armenia,2000,Medium,40.113,Western Asia,Asia,40.29202499,44.9429026
+51,Armenia,1995,Medium,52.675,Western Asia,Asia,40.29202499,44.9429026
+51,Armenia,1990,Medium,56.223,Western Asia,Asia,40.29202499,44.9429026
+51,Armenia,1985,Medium,57.813,Western Asia,Asia,40.29202499,44.9429026
+51,Armenia,1980,Medium,62.983000000000004,Western Asia,Asia,40.29202499,44.9429026
+51,Armenia,1975,Medium,67.592,Western Asia,Asia,40.29202499,44.9429026
+533,Aruba,2020,Medium,15.784,Latin America and the Caribbean,Americas,12.5156546,-69.9757266
+533,Aruba,2015,Medium,17.175,Latin America and the Caribbean,Americas,12.5156546,-69.9757266
+533,Aruba,2010,Medium,18.843,Latin America and the Caribbean,Americas,12.5156546,-69.9757266
+533,Aruba,2005,Medium,20.785999999999998,Latin America and the Caribbean,Americas,12.5156546,-69.9757266
+533,Aruba,2000,Medium,21.453000000000003,Latin America and the Caribbean,Americas,12.5156546,-69.9757266
+533,Aruba,1995,Medium,22.276,Latin America and the Caribbean,Americas,12.5156546,-69.9757266
+533,Aruba,1990,Medium,22.82,Latin America and the Caribbean,Americas,12.5156546,-69.9757266
+533,Aruba,1985,Medium,24.115,Latin America and the Caribbean,Americas,12.5156546,-69.9757266
+533,Aruba,1980,Medium,29.241999999999997,Latin America and the Caribbean,Americas,12.5156546,-69.9757266
+533,Aruba,1975,Medium,35.315,Latin America and the Caribbean,Americas,12.5156546,-69.9757266
+36,Australia,2020,Medium,3.677,Australia and New Zealand,Oceania,-25.40546125,134.2181189
+36,Australia,2015,Medium,4.3069999999999995,Australia and New Zealand,Oceania,-25.40546125,134.2181189
+36,Australia,2010,Medium,5.233,Australia and New Zealand,Oceania,-25.40546125,134.2181189
+36,Australia,2005,Medium,5.974,Australia and New Zealand,Oceania,-25.40546125,134.2181189
+36,Australia,2000,Medium,6.778,Australia and New Zealand,Oceania,-25.40546125,134.2181189
+36,Australia,1995,Medium,7.968,Australia and New Zealand,Oceania,-25.40546125,134.2181189
+36,Australia,1990,Medium,10.399000000000001,Australia and New Zealand,Oceania,-25.40546125,134.2181189
+36,Australia,1985,Medium,12.08,Australia and New Zealand,Oceania,-25.40546125,134.2181189
+36,Australia,1980,Medium,14.787,Australia and New Zealand,Oceania,-25.40546125,134.2181189
+36,Australia,1975,Medium,19.732,Australia and New Zealand,Oceania,-25.40546125,134.2181189
+40,Austria,2020,Medium,3.7119999999999997,Western Europe,Europe,47.59086187,14.13920086
+40,Austria,2015,Medium,3.968,Western Europe,Europe,47.59086187,14.13920086
+40,Austria,2010,Medium,4.556,Western Europe,Europe,47.59086187,14.13920086
+40,Austria,2005,Medium,5.336,Western Europe,Europe,47.59086187,14.13920086
+40,Austria,2000,Medium,5.867999999999999,Western Europe,Europe,47.59086187,14.13920086
+40,Austria,1995,Medium,8.318999999999999,Western Europe,Europe,47.59086187,14.13920086
+40,Austria,1990,Medium,10.833,Western Europe,Europe,47.59086187,14.13920086
+40,Austria,1985,Medium,14.38,Western Europe,Europe,47.59086187,14.13920086
+40,Austria,1980,Medium,19.054000000000002,Western Europe,Europe,47.59086187,14.13920086
+40,Austria,1975,Medium,27.249000000000002,Western Europe,Europe,47.59086187,14.13920086
+31,Azerbaijan,2020,Medium,25.233,Western Asia,Asia,40.42670781,47.80669468
+31,Azerbaijan,2015,Medium,35.844,Western Asia,Asia,40.42670781,47.80669468
+31,Azerbaijan,2010,Medium,47.946999999999996,Western Asia,Asia,40.42670781,47.80669468
+31,Azerbaijan,2005,Medium,65.533,Western Asia,Asia,40.42670781,47.80669468
+31,Azerbaijan,2000,Medium,79.29899999999999,Western Asia,Asia,40.42670781,47.80669468
+31,Azerbaijan,1995,Medium,99.79899999999999,Western Asia,Asia,40.42670781,47.80669468
+31,Azerbaijan,1990,Medium,111.069,Western Asia,Asia,40.42670781,47.80669468
+31,Azerbaijan,1985,Medium,119.48,Western Asia,Asia,40.42670781,47.80669468
+31,Azerbaijan,1980,Medium,123.037,Western Asia,Asia,40.42670781,47.80669468
+31,Azerbaijan,1975,Medium,125.395,Western Asia,Asia,40.42670781,47.80669468
+44,Bahamas,2020,Medium,7.194,Latin America and the Caribbean,Americas,25.90317684,-78.61665744
+44,Bahamas,2015,Medium,9.714,Latin America and the Caribbean,Americas,25.90317684,-78.61665744
+44,Bahamas,2010,Medium,13.58,Latin America and the Caribbean,Americas,25.90317684,-78.61665744
+44,Bahamas,2005,Medium,15.706,Latin America and the Caribbean,Americas,25.90317684,-78.61665744
+44,Bahamas,2000,Medium,17.025,Latin America and the Caribbean,Americas,25.90317684,-78.61665744
+44,Bahamas,1995,Medium,21.094,Latin America and the Caribbean,Americas,25.90317684,-78.61665744
+44,Bahamas,1990,Medium,25.925,Latin America and the Caribbean,Americas,25.90317684,-78.61665744
+44,Bahamas,1985,Medium,28.779,Latin America and the Caribbean,Americas,25.90317684,-78.61665744
+44,Bahamas,1980,Medium,31.2,Latin America and the Caribbean,Americas,25.90317684,-78.61665744
+44,Bahamas,1975,Medium,31.715,Latin America and the Caribbean,Americas,25.90317684,-78.61665744
+48,Bahrain,2020,Medium,7.625,Western Asia,Asia,26.05396006,50.53486327
+48,Bahrain,2015,Medium,8.796,Western Asia,Asia,26.05396006,50.53486327
+48,Bahrain,2010,Medium,10.429,Western Asia,Asia,26.05396006,50.53486327
+48,Bahrain,2005,Medium,12.34,Western Asia,Asia,26.05396006,50.53486327
+48,Bahrain,2000,Medium,14.919,Western Asia,Asia,26.05396006,50.53486327
+48,Bahrain,1995,Medium,18.266,Western Asia,Asia,26.05396006,50.53486327
+48,Bahrain,1990,Medium,21.311,Western Asia,Asia,26.05396006,50.53486327
+48,Bahrain,1985,Medium,26.712,Western Asia,Asia,26.05396006,50.53486327
+48,Bahrain,1980,Medium,40.306,Western Asia,Asia,26.05396006,50.53486327
+48,Bahrain,1975,Medium,64.28699999999999,Western Asia,Asia,26.05396006,50.53486327
+50,Bangladesh,2020,Medium,32.402,Southern Asia,Asia,23.88207427,90.24107264
+50,Bangladesh,2015,Medium,41.007,Southern Asia,Asia,23.88207427,90.24107264
+50,Bangladesh,2010,Medium,55.56399999999999,Southern Asia,Asia,23.88207427,90.24107264
+50,Bangladesh,2005,Medium,74.115,Southern Asia,Asia,23.88207427,90.24107264
+50,Bangladesh,2000,Medium,97.516,Southern Asia,Asia,23.88207427,90.24107264
+50,Bangladesh,1995,Medium,125.684,Southern Asia,Asia,23.88207427,90.24107264
+50,Bangladesh,1990,Medium,155.602,Southern Asia,Asia,23.88207427,90.24107264
+50,Bangladesh,1985,Medium,183.968,Southern Asia,Asia,23.88207427,90.24107264
+50,Bangladesh,1980,Medium,206.574,Southern Asia,Asia,23.88207427,90.24107264
+50,Bangladesh,1975,Medium,250.672,Southern Asia,Asia,23.88207427,90.24107264
+52,Barbados,2020,Medium,12.100999999999999,Latin America and the Caribbean,Americas,13.184952,-59.55382245
+52,Barbados,2015,Medium,13.802,Latin America and the Caribbean,Americas,13.184952,-59.55382245
+52,Barbados,2010,Medium,15.133,Latin America and the Caribbean,Americas,13.184952,-59.55382245
+52,Barbados,2005,Medium,15.59,Latin America and the Caribbean,Americas,13.184952,-59.55382245
+52,Barbados,2000,Medium,14.827,Latin America and the Caribbean,Americas,13.184952,-59.55382245
+52,Barbados,1995,Medium,16.165,Latin America and the Caribbean,Americas,13.184952,-59.55382245
+52,Barbados,1990,Medium,19.967,Latin America and the Caribbean,Americas,13.184952,-59.55382245
+52,Barbados,1985,Medium,24.339000000000002,Latin America and the Caribbean,Americas,13.184952,-59.55382245
+52,Barbados,1980,Medium,31.953000000000003,Latin America and the Caribbean,Americas,13.184952,-59.55382245
+52,Barbados,1975,Medium,42.221000000000004,Latin America and the Caribbean,Americas,13.184952,-59.55382245
+112,Belarus,2020,Medium,3.842,Eastern Europe,Europe,53.53965016,28.04932937
+112,Belarus,2015,Medium,4.465,Eastern Europe,Europe,53.53965016,28.04932937
+112,Belarus,2010,Medium,8.107000000000001,Eastern Europe,Europe,53.53965016,28.04932937
+112,Belarus,2005,Medium,12.167,Eastern Europe,Europe,53.53965016,28.04932937
+112,Belarus,2000,Medium,18.033,Eastern Europe,Europe,53.53965016,28.04932937
+112,Belarus,1995,Medium,18.176,Eastern Europe,Europe,53.53965016,28.04932937
+112,Belarus,1990,Medium,19.76,Eastern Europe,Europe,53.53965016,28.04932937
+112,Belarus,1985,Medium,23.021,Eastern Europe,Europe,53.53965016,28.04932937
+112,Belarus,1980,Medium,26.294,Eastern Europe,Europe,53.53965016,28.04932937
+112,Belarus,1975,Medium,26.15,Eastern Europe,Europe,53.53965016,28.04932937
+56,Belgium,2020,Medium,3.489,Western Europe,Europe,50.64206011,4.658786236
+56,Belgium,2015,Medium,4.25,Western Europe,Europe,50.64206011,4.658786236
+56,Belgium,2010,Medium,4.718999999999999,Western Europe,Europe,50.64206011,4.658786236
+56,Belgium,2005,Medium,5.297000000000001,Western Europe,Europe,50.64206011,4.658786236
+56,Belgium,2000,Medium,6.404,Western Europe,Europe,50.64206011,4.658786236
+56,Belgium,1995,Medium,9.122,Western Europe,Europe,50.64206011,4.658786236
+56,Belgium,1990,Medium,10.732999999999999,Western Europe,Europe,50.64206011,4.658786236
+56,Belgium,1985,Medium,12.870999999999999,Western Europe,Europe,50.64206011,4.658786236
+56,Belgium,1980,Medium,16.31,Western Europe,Europe,50.64206011,4.658786236
+56,Belgium,1975,Medium,21.478,Western Europe,Europe,50.64206011,4.658786236
+84,Belize,2020,Medium,14.890999999999998,Latin America and the Caribbean,Americas,17.20829609,-88.69988922
+84,Belize,2015,Medium,17.427,Latin America and the Caribbean,Americas,17.20829609,-88.69988922
+84,Belize,2010,Medium,20.274,Latin America and the Caribbean,Americas,17.20829609,-88.69988922
+84,Belize,2005,Medium,23.855,Latin America and the Caribbean,Americas,17.20829609,-88.69988922
+84,Belize,2000,Medium,27.415,Latin America and the Caribbean,Americas,17.20829609,-88.69988922
+84,Belize,1995,Medium,36.522,Latin America and the Caribbean,Americas,17.20829609,-88.69988922
+84,Belize,1990,Medium,43.327,Latin America and the Caribbean,Americas,17.20829609,-88.69988922
+84,Belize,1985,Medium,50.059,Latin America and the Caribbean,Americas,17.20829609,-88.69988922
+84,Belize,1980,Medium,64.22800000000001,Latin America and the Caribbean,Americas,17.20829609,-88.69988922
+84,Belize,1975,Medium,76.311,Latin America and the Caribbean,Americas,17.20829609,-88.69988922
+204,Benin,2020,Medium,95.669,Sub-Saharan Africa,Africa,9.642665015,2.342864021
+204,Benin,2015,Medium,105.676,Sub-Saharan Africa,Africa,9.642665015,2.342864021
+204,Benin,2010,Medium,117.89299999999999,Sub-Saharan Africa,Africa,9.642665015,2.342864021
+204,Benin,2005,Medium,135.08100000000002,Sub-Saharan Africa,Africa,9.642665015,2.342864021
+204,Benin,2000,Medium,152.054,Sub-Saharan Africa,Africa,9.642665015,2.342864021
+204,Benin,1995,Medium,168.59099999999998,Sub-Saharan Africa,Africa,9.642665015,2.342864021
+204,Benin,1990,Medium,189.82,Sub-Saharan Africa,Africa,9.642665015,2.342864021
+204,Benin,1985,Medium,208.361,Sub-Saharan Africa,Africa,9.642665015,2.342864021
+204,Benin,1980,Medium,228.99,Sub-Saharan Africa,Africa,9.642665015,2.342864021
+204,Benin,1975,Medium,254.928,Sub-Saharan Africa,Africa,9.642665015,2.342864021
+64,Bhutan,2020,Medium,29.596,Southern Asia,Asia,27.41443467,90.43085885
+64,Bhutan,2015,Medium,37.326,Southern Asia,Asia,27.41443467,90.43085885
+64,Bhutan,2010,Medium,50.027,Southern Asia,Asia,27.41443467,90.43085885
+64,Bhutan,2005,Medium,68.602,Southern Asia,Asia,27.41443467,90.43085885
+64,Bhutan,2000,Medium,100.089,Southern Asia,Asia,27.41443467,90.43085885
+64,Bhutan,1995,Medium,124.79299999999999,Southern Asia,Asia,27.41443467,90.43085885
+64,Bhutan,1990,Medium,153.53,Southern Asia,Asia,27.41443467,90.43085885
+64,Bhutan,1985,Medium,184.24900000000002,Southern Asia,Asia,27.41443467,90.43085885
+64,Bhutan,1980,Medium,219.361,Southern Asia,Asia,27.41443467,90.43085885
+64,Bhutan,1975,Medium,247.16,Southern Asia,Asia,27.41443467,90.43085885
+68,Bolivia (Plurinational State of),2020,Medium,48.713,Latin America and the Caribbean,Americas,-16.71483757,-64.66829843
+68,Bolivia (Plurinational State of),2015,Medium,54.56,Latin America and the Caribbean,Americas,-16.71483757,-64.66829843
+68,Bolivia (Plurinational State of),2010,Medium,70.11,Latin America and the Caribbean,Americas,-16.71483757,-64.66829843
+68,Bolivia (Plurinational State of),2005,Medium,86.20200000000001,Latin America and the Caribbean,Americas,-16.71483757,-64.66829843
+68,Bolivia (Plurinational State of),2000,Medium,110.565,Latin America and the Caribbean,Americas,-16.71483757,-64.66829843
+68,Bolivia (Plurinational State of),1995,Medium,139.056,Latin America and the Caribbean,Americas,-16.71483757,-64.66829843
+68,Bolivia (Plurinational State of),1990,Medium,166.169,Latin America and the Caribbean,Americas,-16.71483757,-64.66829843
+68,Bolivia (Plurinational State of),1985,Medium,191.775,Latin America and the Caribbean,Americas,-16.71483757,-64.66829843
+68,Bolivia (Plurinational State of),1980,Medium,215.687,Latin America and the Caribbean,Americas,-16.71483757,-64.66829843
+68,Bolivia (Plurinational State of),1975,Medium,237.718,Latin America and the Caribbean,Americas,-16.71483757,-64.66829843
+70,Bosnia and Herzegovina,2020,Medium,6.768,Southern Europe,Europe,44.16506495,17.79105724
+70,Bosnia and Herzegovina,2015,Medium,7.787999999999999,Southern Europe,Europe,44.16506495,17.79105724
+70,Bosnia and Herzegovina,2010,Medium,10.634,Southern Europe,Europe,44.16506495,17.79105724
+70,Bosnia and Herzegovina,2005,Medium,11.81,Southern Europe,Europe,44.16506495,17.79105724
+70,Bosnia and Herzegovina,2000,Medium,12.999,Southern Europe,Europe,44.16506495,17.79105724
+70,Bosnia and Herzegovina,1995,Medium,21.508000000000003,Southern Europe,Europe,44.16506495,17.79105724
+70,Bosnia and Herzegovina,1990,Medium,20.758000000000003,Southern Europe,Europe,44.16506495,17.79105724
+70,Bosnia and Herzegovina,1985,Medium,29.97,Southern Europe,Europe,44.16506495,17.79105724
+70,Bosnia and Herzegovina,1980,Medium,38.931,Southern Europe,Europe,44.16506495,17.79105724
+70,Bosnia and Herzegovina,1975,Medium,55.369,Southern Europe,Europe,44.16506495,17.79105724
+72,Botswana,2020,Medium,37.97,Sub-Saharan Africa,Africa,-22.17991766,23.81673035
+72,Botswana,2015,Medium,45.081,Sub-Saharan Africa,Africa,-22.17991766,23.81673035
+72,Botswana,2010,Medium,60.556999999999995,Sub-Saharan Africa,Africa,-22.17991766,23.81673035
+72,Botswana,2005,Medium,81.93700000000001,Sub-Saharan Africa,Africa,-22.17991766,23.81673035
+72,Botswana,2000,Medium,79.795,Sub-Saharan Africa,Africa,-22.17991766,23.81673035
+72,Botswana,1995,Medium,59.339,Sub-Saharan Africa,Africa,-22.17991766,23.81673035
+72,Botswana,1990,Medium,51.248999999999995,Sub-Saharan Africa,Africa,-22.17991766,23.81673035
+72,Botswana,1985,Medium,62.398999999999994,Sub-Saharan Africa,Africa,-22.17991766,23.81673035
+72,Botswana,1980,Medium,82.573,Sub-Saharan Africa,Africa,-22.17991766,23.81673035
+72,Botswana,1975,Medium,107.564,Sub-Saharan Africa,Africa,-22.17991766,23.81673035
+76,Brazil,2020,Medium,15.249,Latin America and the Caribbean,Americas,-10.77518961,-53.09141767
+76,Brazil,2015,Medium,18.412,Latin America and the Caribbean,Americas,-10.77518961,-53.09141767
+76,Brazil,2010,Medium,24.48,Latin America and the Caribbean,Americas,-10.77518961,-53.09141767
+76,Brazil,2005,Medium,34.16,Latin America and the Caribbean,Americas,-10.77518961,-53.09141767
+76,Brazil,2000,Medium,41.18600000000001,Latin America and the Caribbean,Americas,-10.77518961,-53.09141767
+76,Brazil,1995,Medium,51.038000000000004,Latin America and the Caribbean,Americas,-10.77518961,-53.09141767
+76,Brazil,1990,Medium,66.586,Latin America and the Caribbean,Americas,-10.77518961,-53.09141767
+76,Brazil,1985,Medium,86.505,Latin America and the Caribbean,Americas,-10.77518961,-53.09141767
+76,Brazil,1980,Medium,103.512,Latin America and the Caribbean,Americas,-10.77518961,-53.09141767
+76,Brazil,1975,Medium,117.963,Latin America and the Caribbean,Americas,-10.77518961,-53.09141767
+96,Brunei Darussalam,2020,Medium,10.13,South-eastern Asia,Asia,4.439247073,114.4374636
+96,Brunei Darussalam,2015,Medium,10.545,South-eastern Asia,Asia,4.439247073,114.4374636
+96,Brunei Darussalam,2010,Medium,11.040999999999999,South-eastern Asia,Asia,4.439247073,114.4374636
+96,Brunei Darussalam,2005,Medium,11.704,South-eastern Asia,Asia,4.439247073,114.4374636
+96,Brunei Darussalam,2000,Medium,12.095,South-eastern Asia,Asia,4.439247073,114.4374636
+96,Brunei Darussalam,1995,Medium,13.13,South-eastern Asia,Asia,4.439247073,114.4374636
+96,Brunei Darussalam,1990,Medium,13.842,South-eastern Asia,Asia,4.439247073,114.4374636
+96,Brunei Darussalam,1985,Medium,16.923,South-eastern Asia,Asia,4.439247073,114.4374636
+96,Brunei Darussalam,1980,Medium,29.781999999999996,South-eastern Asia,Asia,4.439247073,114.4374636
+96,Brunei Darussalam,1975,Medium,44.888000000000005,South-eastern Asia,Asia,4.439247073,114.4374636
+100,Bulgaria,2020,Medium,7.457000000000001,Eastern Europe,Europe,42.76069057,25.23572028
+100,Bulgaria,2015,Medium,9.908,Eastern Europe,Europe,42.76069057,25.23572028
+100,Bulgaria,2010,Medium,11.523,Eastern Europe,Europe,42.76069057,25.23572028
+100,Bulgaria,2005,Medium,15.377,Eastern Europe,Europe,42.76069057,25.23572028
+100,Bulgaria,2000,Medium,19.090999999999998,Eastern Europe,Europe,42.76069057,25.23572028
+100,Bulgaria,1995,Medium,19.234,Eastern Europe,Europe,42.76069057,25.23572028
+100,Bulgaria,1990,Medium,17.998,Eastern Europe,Europe,42.76069057,25.23572028
+100,Bulgaria,1985,Medium,21.557,Eastern Europe,Europe,42.76069057,25.23572028
+100,Bulgaria,1980,Medium,26.116999999999997,Eastern Europe,Europe,42.76069057,25.23572028
+100,Bulgaria,1975,Medium,29.75,Eastern Europe,Europe,42.76069057,25.23572028
+854,Burkina Faso,2020,Medium,83.71600000000001,Sub-Saharan Africa,Africa,12.27790144,-1.738649343
+854,Burkina Faso,2015,Medium,99.62700000000001,Sub-Saharan Africa,Africa,12.27790144,-1.738649343
+854,Burkina Faso,2010,Medium,135.346,Sub-Saharan Africa,Africa,12.27790144,-1.738649343
+854,Burkina Faso,2005,Medium,172.96,Sub-Saharan Africa,Africa,12.27790144,-1.738649343
+854,Burkina Faso,2000,Medium,190.291,Sub-Saharan Africa,Africa,12.27790144,-1.738649343
+854,Burkina Faso,1995,Medium,203.82299999999998,Sub-Saharan Africa,Africa,12.27790144,-1.738649343
+854,Burkina Faso,1990,Medium,212.31099999999998,Sub-Saharan Africa,Africa,12.27790144,-1.738649343
+854,Burkina Faso,1985,Medium,228.91299999999998,Sub-Saharan Africa,Africa,12.27790144,-1.738649343
+854,Burkina Faso,1980,Medium,258.371,Sub-Saharan Africa,Africa,12.27790144,-1.738649343
+854,Burkina Faso,1975,Medium,282.692,Sub-Saharan Africa,Africa,12.27790144,-1.738649343
+108,Burundi,2020,Medium,62.508,Sub-Saharan Africa,Africa,-3.356208708,29.89200134
+108,Burundi,2015,Medium,78.33800000000001,Sub-Saharan Africa,Africa,-3.356208708,29.89200134
+108,Burundi,2010,Medium,111.86200000000001,Sub-Saharan Africa,Africa,-3.356208708,29.89200134
+108,Burundi,2005,Medium,143.05,Sub-Saharan Africa,Africa,-3.356208708,29.89200134
+108,Burundi,2000,Medium,173.07299999999998,Sub-Saharan Africa,Africa,-3.356208708,29.89200134
+108,Burundi,1995,Medium,181.548,Sub-Saharan Africa,Africa,-3.356208708,29.89200134
+108,Burundi,1990,Medium,170.53400000000002,Sub-Saharan Africa,Africa,-3.356208708,29.89200134
+108,Burundi,1985,Medium,197.021,Sub-Saharan Africa,Africa,-3.356208708,29.89200134
+108,Burundi,1980,Medium,218.55900000000003,Sub-Saharan Africa,Africa,-3.356208708,29.89200134
+108,Burundi,1975,Medium,230.59099999999998,Sub-Saharan Africa,Africa,-3.356208708,29.89200134
+132,Cabo Verde,2020,Medium,20.365,Sub-Saharan Africa,Africa,17.52133998,-24.58506404
+132,Cabo Verde,2015,Medium,24.93,Sub-Saharan Africa,Africa,17.52133998,-24.58506404
+132,Cabo Verde,2010,Medium,27.877,Sub-Saharan Africa,Africa,17.52133998,-24.58506404
+132,Cabo Verde,2005,Medium,29.831999999999997,Sub-Saharan Africa,Africa,17.52133998,-24.58506404
+132,Cabo Verde,2000,Medium,46.099,Sub-Saharan Africa,Africa,17.52133998,-24.58506404
+132,Cabo Verde,1995,Medium,59.385,Sub-Saharan Africa,Africa,17.52133998,-24.58506404
+132,Cabo Verde,1990,Medium,70.001,Sub-Saharan Africa,Africa,17.52133998,-24.58506404
+132,Cabo Verde,1985,Medium,81.782,Sub-Saharan Africa,Africa,17.52133998,-24.58506404
+132,Cabo Verde,1980,Medium,94.51799999999999,Sub-Saharan Africa,Africa,17.52133998,-24.58506404
+132,Cabo Verde,1975,Medium,134.321,Sub-Saharan Africa,Africa,17.52133998,-24.58506404
+116,Cambodia,2020,Medium,27.521,South-eastern Asia,Asia,12.71583138,104.9221723
+116,Cambodia,2015,Medium,34.964,South-eastern Asia,Asia,12.71583138,104.9221723
+116,Cambodia,2010,Medium,53.733000000000004,South-eastern Asia,Asia,12.71583138,104.9221723
+116,Cambodia,2005,Medium,84.669,South-eastern Asia,Asia,12.71583138,104.9221723
+116,Cambodia,2000,Medium,119.09299999999999,South-eastern Asia,Asia,12.71583138,104.9221723
+116,Cambodia,1995,Medium,118.40899999999999,South-eastern Asia,Asia,12.71583138,104.9221723
+116,Cambodia,1990,Medium,118.42399999999999,South-eastern Asia,Asia,12.71583138,104.9221723
+116,Cambodia,1985,Medium,203.392,South-eastern Asia,Asia,12.71583138,104.9221723
+116,Cambodia,1980,Medium,460.89099999999996,South-eastern Asia,Asia,12.71583138,104.9221723
+116,Cambodia,1975,Medium,206.74400000000003,South-eastern Asia,Asia,12.71583138,104.9221723
+120,Cameroon,2020,Medium,88.285,Sub-Saharan Africa,Africa,5.68036831,12.74068837
+120,Cameroon,2015,Medium,104.38799999999999,Sub-Saharan Africa,Africa,5.68036831,12.74068837
+120,Cameroon,2010,Medium,120.652,Sub-Saharan Africa,Africa,5.68036831,12.74068837
+120,Cameroon,2005,Medium,140.395,Sub-Saharan Africa,Africa,5.68036831,12.74068837
+120,Cameroon,2000,Medium,164.646,Sub-Saharan Africa,Africa,5.68036831,12.74068837
+120,Cameroon,1995,Medium,158.428,Sub-Saharan Africa,Africa,5.68036831,12.74068837
+120,Cameroon,1990,Medium,152.662,Sub-Saharan Africa,Africa,5.68036831,12.74068837
+120,Cameroon,1985,Medium,161.019,Sub-Saharan Africa,Africa,5.68036831,12.74068837
+120,Cameroon,1980,Medium,178.019,Sub-Saharan Africa,Africa,5.68036831,12.74068837
+120,Cameroon,1975,Medium,201.484,Sub-Saharan Africa,Africa,5.68036831,12.74068837
+124,Canada,2020,Medium,5.088,Northern America,Americas,61.4126317,-98.23039804
+124,Canada,2015,Medium,5.281000000000001,Northern America,Americas,61.4126317,-98.23039804
+124,Canada,2010,Medium,5.871,Northern America,Americas,61.4126317,-98.23039804
+124,Canada,2005,Medium,6.164,Northern America,Americas,61.4126317,-98.23039804
+124,Canada,2000,Medium,6.431,Northern America,Americas,61.4126317,-98.23039804
+124,Canada,1995,Medium,7.492000000000001,Northern America,Americas,61.4126317,-98.23039804
+124,Canada,1990,Medium,9.048,Northern America,Americas,61.4126317,-98.23039804
+124,Canada,1985,Medium,10.895999999999999,Northern America,Americas,61.4126317,-98.23039804
+124,Canada,1980,Medium,14.754000000000001,Northern America,Americas,61.4126317,-98.23039804
+124,Canada,1975,Medium,19.437,Northern America,Americas,61.4126317,-98.23039804
+140,Central African Republic,2020,Medium,121.851,Sub-Saharan Africa,Africa,6.570747926,20.48450088
+140,Central African Republic,2015,Medium,142.07299999999998,Sub-Saharan Africa,Africa,6.570747926,20.48450088
+140,Central African Republic,2010,Medium,161.30200000000002,Sub-Saharan Africa,Africa,6.570747926,20.48450088
+140,Central African Republic,2005,Medium,172.085,Sub-Saharan Africa,Africa,6.570747926,20.48450088
+140,Central African Republic,2000,Medium,177.657,Sub-Saharan Africa,Africa,6.570747926,20.48450088
+140,Central African Republic,1995,Medium,176.173,Sub-Saharan Africa,Africa,6.570747926,20.48450088
+140,Central African Republic,1990,Medium,176.62,Sub-Saharan Africa,Africa,6.570747926,20.48450088
+140,Central African Republic,1985,Medium,180.377,Sub-Saharan Africa,Africa,6.570747926,20.48450088
+140,Central African Republic,1980,Medium,199.771,Sub-Saharan Africa,Africa,6.570747926,20.48450088
+140,Central African Republic,1975,Medium,233.418,Sub-Saharan Africa,Africa,6.570747926,20.48450088
+148,Chad,2020,Medium,122.927,Sub-Saharan Africa,Africa,15.35740495,18.66399556
+148,Chad,2015,Medium,137.374,Sub-Saharan Africa,Africa,15.35740495,18.66399556
+148,Chad,2010,Medium,162.03799999999998,Sub-Saharan Africa,Africa,15.35740495,18.66399556
+148,Chad,2005,Medium,178.044,Sub-Saharan Africa,Africa,15.35740495,18.66399556
+148,Chad,2000,Medium,188.74900000000002,Sub-Saharan Africa,Africa,15.35740495,18.66399556
+148,Chad,1995,Medium,197.898,Sub-Saharan Africa,Africa,15.35740495,18.66399556
+148,Chad,1990,Medium,205.215,Sub-Saharan Africa,Africa,15.35740495,18.66399556
+148,Chad,1985,Medium,218.459,Sub-Saharan Africa,Africa,15.35740495,18.66399556
+148,Chad,1980,Medium,230.82299999999998,Sub-Saharan Africa,Africa,15.35740495,18.66399556
+148,Chad,1975,Medium,245.72099999999998,Sub-Saharan Africa,Africa,15.35740495,18.66399556
+152,Chile,2020,Medium,7.731,Latin America and the Caribbean,Americas,-37.68386885,-71.33321859
+152,Chile,2015,Medium,8.468,Latin America and the Caribbean,Americas,-37.68386885,-71.33321859
+152,Chile,2010,Medium,9.34,Latin America and the Caribbean,Americas,-37.68386885,-71.33321859
+152,Chile,2005,Medium,10.28,Latin America and the Caribbean,Americas,-37.68386885,-71.33321859
+152,Chile,2000,Medium,13.467,Latin America and the Caribbean,Americas,-37.68386885,-71.33321859
+152,Chile,1995,Medium,16.862000000000002,Latin America and the Caribbean,Americas,-37.68386885,-71.33321859
+152,Chile,1990,Medium,21.544,Latin America and the Caribbean,Americas,-37.68386885,-71.33321859
+152,Chile,1985,Medium,29.244,Latin America and the Caribbean,Americas,-37.68386885,-71.33321859
+152,Chile,1980,Medium,51.838,Latin America and the Caribbean,Americas,-37.68386885,-71.33321859
+152,Chile,1975,Medium,77.855,Latin America and the Caribbean,Americas,-37.68386885,-71.33321859
+156,China,2020,Medium,11.533,Eastern Asia,Asia,36.67464756,103.8680636
+156,China,2015,Medium,14.267999999999999,Eastern Asia,Asia,36.67464756,103.8680636
+156,China,2010,Medium,21.18,Eastern Asia,Asia,36.67464756,103.8680636
+156,China,2005,Medium,32.551,Eastern Asia,Asia,36.67464756,103.8680636
+156,China,2000,Medium,43.418,Eastern Asia,Asia,36.67464756,103.8680636
+156,China,1995,Medium,50.979,Eastern Asia,Asia,36.67464756,103.8680636
+156,China,1990,Medium,53.5,Eastern Asia,Asia,36.67464756,103.8680636
+156,China,1985,Medium,57.018,Eastern Asia,Asia,36.67464756,103.8680636
+156,China,1980,Medium,73.312,Eastern Asia,Asia,36.67464756,103.8680636
+156,China,1975,Medium,99.814,Eastern Asia,Asia,36.67464756,103.8680636
+344,"China, Hong Kong SAR",2020,Medium,2.106,Eastern Asia,Asia,22.4216098,114.1539976
+344,"China, Hong Kong SAR",2015,Medium,2.531,Eastern Asia,Asia,22.4216098,114.1539976
+344,"China, Hong Kong SAR",2010,Medium,2.975,Eastern Asia,Asia,22.4216098,114.1539976
+344,"China, Hong Kong SAR",2005,Medium,3.5869999999999997,Eastern Asia,Asia,22.4216098,114.1539976
+344,"China, Hong Kong SAR",2000,Medium,4.852,Eastern Asia,Asia,22.4216098,114.1539976
+344,"China, Hong Kong SAR",1995,Medium,6.337000000000001,Eastern Asia,Asia,22.4216098,114.1539976
+344,"China, Hong Kong SAR",1990,Medium,8.683,Eastern Asia,Asia,22.4216098,114.1539976
+344,"China, Hong Kong SAR",1985,Medium,11.499,Eastern Asia,Asia,22.4216098,114.1539976
+344,"China, Hong Kong SAR",1980,Medium,15.755,Eastern Asia,Asia,22.4216098,114.1539976
+344,"China, Hong Kong SAR",1975,Medium,20.438,Eastern Asia,Asia,22.4216098,114.1539976
+446,"China, Macao SAR",2020,Medium,3.532,Eastern Asia,Asia,22.1985265,113.5450075
+446,"China, Macao SAR",2015,Medium,4.123,Eastern Asia,Asia,22.1985265,113.5450075
+446,"China, Macao SAR",2010,Medium,5.17,Eastern Asia,Asia,22.1985265,113.5450075
+446,"China, Macao SAR",2005,Medium,6.662999999999999,Eastern Asia,Asia,22.1985265,113.5450075
+446,"China, Macao SAR",2000,Medium,8.613999999999999,Eastern Asia,Asia,22.1985265,113.5450075
+446,"China, Macao SAR",1995,Medium,11.71,Eastern Asia,Asia,22.1985265,113.5450075
+446,"China, Macao SAR",1990,Medium,15.202,Eastern Asia,Asia,22.1985265,113.5450075
+446,"China, Macao SAR",1985,Medium,19.926,Eastern Asia,Asia,22.1985265,113.5450075
+446,"China, Macao SAR",1980,Medium,25.829,Eastern Asia,Asia,22.1985265,113.5450075
+446,"China, Macao SAR",1975,Medium,34.774,Eastern Asia,Asia,22.1985265,113.5450075
+158,Other non-specified areas,2020,Medium,4.651,Eastern Asia,Asia,23.74652012,120.9621301
+158,Other non-specified areas,2015,Medium,5.296,Eastern Asia,Asia,23.74652012,120.9621301
+158,Other non-specified areas,2010,Medium,6.518,Eastern Asia,Asia,23.74652012,120.9621301
+158,Other non-specified areas,2005,Medium,7.787000000000001,Eastern Asia,Asia,23.74652012,120.9621301
+158,Other non-specified areas,2000,Medium,9.146,Eastern Asia,Asia,23.74652012,120.9621301
+158,Other non-specified areas,1995,Medium,8.274,Eastern Asia,Asia,23.74652012,120.9621301
+158,Other non-specified areas,1990,Medium,9.389,Eastern Asia,Asia,23.74652012,120.9621301
+158,Other non-specified areas,1985,Medium,13.09,Eastern Asia,Asia,23.74652012,120.9621301
+158,Other non-specified areas,1980,Medium,17.102999999999998,Eastern Asia,Asia,23.74652012,120.9621301
+158,Other non-specified areas,1975,Medium,23.372,Eastern Asia,Asia,23.74652012,120.9621301
+170,Colombia,2020,Medium,14.762,Latin America and the Caribbean,Americas,3.897367041,-73.07080696
+170,Colombia,2015,Medium,16.907,Latin America and the Caribbean,Americas,3.897367041,-73.07080696
+170,Colombia,2010,Medium,19.852,Latin America and the Caribbean,Americas,3.897367041,-73.07080696
+170,Colombia,2005,Medium,22.991,Latin America and the Caribbean,Americas,3.897367041,-73.07080696
+170,Colombia,2000,Medium,26.816999999999997,Latin America and the Caribbean,Americas,3.897367041,-73.07080696
+170,Colombia,1995,Medium,31.974,Latin America and the Caribbean,Americas,3.897367041,-73.07080696
+170,Colombia,1990,Medium,37.802,Latin America and the Caribbean,Americas,3.897367041,-73.07080696
+170,Colombia,1985,Medium,48.238,Latin America and the Caribbean,Americas,3.897367041,-73.07080696
+170,Colombia,1980,Medium,66.066,Latin America and the Caribbean,Americas,3.897367041,-73.07080696
+170,Colombia,1975,Medium,86.175,Latin America and the Caribbean,Americas,3.897367041,-73.07080696
+174,Comoros,2020,Medium,70.042,Sub-Saharan Africa,Africa,-11.42407818,42.8293551
+174,Comoros,2015,Medium,77.811,Sub-Saharan Africa,Africa,-11.42407818,42.8293551
+174,Comoros,2010,Medium,91.30799999999999,Sub-Saharan Africa,Africa,-11.42407818,42.8293551
+174,Comoros,2005,Medium,100.522,Sub-Saharan Africa,Africa,-11.42407818,42.8293551
+174,Comoros,2000,Medium,102.854,Sub-Saharan Africa,Africa,-11.42407818,42.8293551
+174,Comoros,1995,Medium,113.764,Sub-Saharan Africa,Africa,-11.42407818,42.8293551
+174,Comoros,1990,Medium,133.381,Sub-Saharan Africa,Africa,-11.42407818,42.8293551
+174,Comoros,1985,Medium,158.093,Sub-Saharan Africa,Africa,-11.42407818,42.8293551
+174,Comoros,1980,Medium,187.0,Sub-Saharan Africa,Africa,-11.42407818,42.8293551
+174,Comoros,1975,Medium,207.655,Sub-Saharan Africa,Africa,-11.42407818,42.8293551
+178,Congo,2020,Medium,47.531000000000006,Sub-Saharan Africa,Africa,-0.83949506,15.22629207
+178,Congo,2015,Medium,57.903999999999996,Sub-Saharan Africa,Africa,-0.83949506,15.22629207
+178,Congo,2010,Medium,75.17699999999999,Sub-Saharan Africa,Africa,-0.83949506,15.22629207
+178,Congo,2005,Medium,107.26,Sub-Saharan Africa,Africa,-0.83949506,15.22629207
+178,Congo,2000,Medium,112.615,Sub-Saharan Africa,Africa,-0.83949506,15.22629207
+178,Congo,1995,Medium,95.745,Sub-Saharan Africa,Africa,-0.83949506,15.22629207
+178,Congo,1990,Medium,89.58,Sub-Saharan Africa,Africa,-0.83949506,15.22629207
+178,Congo,1985,Medium,100.78399999999999,Sub-Saharan Africa,Africa,-0.83949506,15.22629207
+178,Congo,1980,Medium,116.546,Sub-Saharan Africa,Africa,-0.83949506,15.22629207
+178,Congo,1975,Medium,133.688,Sub-Saharan Africa,Africa,-0.83949506,15.22629207
+188,Costa Rica,2020,Medium,9.15,Latin America and the Caribbean,Americas,9.960735487,-84.18254176
+188,Costa Rica,2015,Medium,11.366,Latin America and the Caribbean,Americas,9.960735487,-84.18254176
+188,Costa Rica,2010,Medium,12.280999999999999,Latin America and the Caribbean,Americas,9.960735487,-84.18254176
+188,Costa Rica,2005,Medium,13.450999999999999,Latin America and the Caribbean,Americas,9.960735487,-84.18254176
+188,Costa Rica,2000,Medium,15.142999999999999,Latin America and the Caribbean,Americas,9.960735487,-84.18254176
+188,Costa Rica,1995,Medium,17.512,Latin America and the Caribbean,Americas,9.960735487,-84.18254176
+188,Costa Rica,1990,Medium,20.531999999999996,Latin America and the Caribbean,Americas,9.960735487,-84.18254176
+188,Costa Rica,1985,Medium,26.928,Latin America and the Caribbean,Americas,9.960735487,-84.18254176
+188,Costa Rica,1980,Medium,43.163999999999994,Latin America and the Caribbean,Americas,9.960735487,-84.18254176
+188,Costa Rica,1975,Medium,71.785,Latin America and the Caribbean,Americas,9.960735487,-84.18254176
+384,Côte d'Ivoire,2020,Medium,87.05,Sub-Saharan Africa,Africa,7.630087005,-5.552402136
+384,Côte d'Ivoire,2015,Medium,100.399,Sub-Saharan Africa,Africa,7.630087005,-5.552402136
+384,Côte d'Ivoire,2010,Medium,119.36399999999999,Sub-Saharan Africa,Africa,7.630087005,-5.552402136
+384,Côte d'Ivoire,2005,Medium,136.023,Sub-Saharan Africa,Africa,7.630087005,-5.552402136
+384,Côte d'Ivoire,2000,Medium,151.679,Sub-Saharan Africa,Africa,7.630087005,-5.552402136
+384,Côte d'Ivoire,1995,Medium,151.661,Sub-Saharan Africa,Africa,7.630087005,-5.552402136
+384,Côte d'Ivoire,1990,Medium,154.626,Sub-Saharan Africa,Africa,7.630087005,-5.552402136
+384,Côte d'Ivoire,1985,Medium,163.609,Sub-Saharan Africa,Africa,7.630087005,-5.552402136
+384,Côte d'Ivoire,1980,Medium,183.53900000000002,Sub-Saharan Africa,Africa,7.630087005,-5.552402136
+384,Côte d'Ivoire,1975,Medium,215.09400000000002,Sub-Saharan Africa,Africa,7.630087005,-5.552402136
+191,Croatia,2020,Medium,4.572,Southern Europe,Europe,45.18877041,16.42353441
+191,Croatia,2015,Medium,5.01,Southern Europe,Europe,45.18877041,16.42353441
+191,Croatia,2010,Medium,6.817,Southern Europe,Europe,45.18877041,16.42353441
+191,Croatia,2005,Medium,7.595,Southern Europe,Europe,45.18877041,16.42353441
+191,Croatia,2000,Medium,8.229,Southern Europe,Europe,45.18877041,16.42353441
+191,Croatia,1995,Medium,11.866,Southern Europe,Europe,45.18877041,16.42353441
+191,Croatia,1990,Medium,15.467,Southern Europe,Europe,45.18877041,16.42353441
+191,Croatia,1985,Medium,20.768,Southern Europe,Europe,45.18877041,16.42353441
+191,Croatia,1980,Medium,24.615,Southern Europe,Europe,45.18877041,16.42353441
+191,Croatia,1975,Medium,28.355,Southern Europe,Europe,45.18877041,16.42353441
+192,Cuba,2020,Medium,5.572,Latin America and the Caribbean,Americas,21.6053525,-78.90713844
+192,Cuba,2015,Medium,5.971,Latin America and the Caribbean,Americas,21.6053525,-78.90713844
+192,Cuba,2010,Medium,6.645,Latin America and the Caribbean,Americas,21.6053525,-78.90713844
+192,Cuba,2005,Medium,7.737,Latin America and the Caribbean,Americas,21.6053525,-78.90713844
+192,Cuba,2000,Medium,10.419,Latin America and the Caribbean,Americas,21.6053525,-78.90713844
+192,Cuba,1995,Medium,13.957,Latin America and the Caribbean,Americas,21.6053525,-78.90713844
+192,Cuba,1990,Medium,16.847,Latin America and the Caribbean,Americas,21.6053525,-78.90713844
+192,Cuba,1985,Medium,21.424,Latin America and the Caribbean,Americas,21.6053525,-78.90713844
+192,Cuba,1980,Medium,27.13,Latin America and the Caribbean,Americas,21.6053525,-78.90713844
+192,Cuba,1975,Medium,43.655,Latin America and the Caribbean,Americas,21.6053525,-78.90713844
+531,Curaçao,2020,Medium,10.76,Latin America and the Caribbean,Americas,,
+531,Curaçao,2015,Medium,12.19,Latin America and the Caribbean,Americas,,
+531,Curaçao,2010,Medium,15.375,Latin America and the Caribbean,Americas,,
+531,Curaçao,2005,Medium,17.396,Latin America and the Caribbean,Americas,,
+531,Curaçao,2000,Medium,18.057000000000002,Latin America and the Caribbean,Americas,,
+531,Curaçao,1995,Medium,17.463,Latin America and the Caribbean,Americas,,
+531,Curaçao,1990,Medium,19.739,Latin America and the Caribbean,Americas,,
+531,Curaçao,1985,Medium,21.031,Latin America and the Caribbean,Americas,,
+531,Curaçao,1980,Medium,25.898000000000003,Latin America and the Caribbean,Americas,,
+531,Curaçao,1975,Medium,33.491,Latin America and the Caribbean,Americas,,
+196,Cyprus,2020,Medium,4.203,Western Asia,Asia,35.01941238,33.1666508
+196,Cyprus,2015,Medium,4.9830000000000005,Western Asia,Asia,35.01941238,33.1666508
+196,Cyprus,2010,Medium,5.18,Western Asia,Asia,35.01941238,33.1666508
+196,Cyprus,2005,Medium,6.647,Western Asia,Asia,35.01941238,33.1666508
+196,Cyprus,2000,Medium,8.517999999999999,Western Asia,Asia,35.01941238,33.1666508
+196,Cyprus,1995,Medium,10.932,Western Asia,Asia,35.01941238,33.1666508
+196,Cyprus,1990,Medium,14.027000000000001,Western Asia,Asia,35.01941238,33.1666508
+196,Cyprus,1985,Medium,17.967,Western Asia,Asia,35.01941238,33.1666508
+196,Cyprus,1980,Medium,23.016,Western Asia,Asia,35.01941238,33.1666508
+196,Cyprus,1975,Medium,29.476,Western Asia,Asia,35.01941238,33.1666508
+203,Czechia,2020,Medium,2.802,Eastern Europe,Europe,49.74240068,15.34943448
+203,Czechia,2015,Medium,3.127,Eastern Europe,Europe,49.74240068,15.34943448
+203,Czechia,2010,Medium,3.821,Eastern Europe,Europe,49.74240068,15.34943448
+203,Czechia,2005,Medium,4.928999999999999,Eastern Europe,Europe,49.74240068,15.34943448
+203,Czechia,2000,Medium,6.752999999999999,Eastern Europe,Europe,49.74240068,15.34943448
+203,Czechia,1995,Medium,10.657,Eastern Europe,Europe,49.74240068,15.34943448
+203,Czechia,1990,Medium,13.15,Eastern Europe,Europe,49.74240068,15.34943448
+203,Czechia,1985,Medium,16.474,Eastern Europe,Europe,49.74240068,15.34943448
+203,Czechia,1980,Medium,19.692999999999998,Eastern Europe,Europe,49.74240068,15.34943448
+203,Czechia,1975,Medium,22.884,Eastern Europe,Europe,49.74240068,15.34943448
+408,Dem. People's Republic of Korea,2020,Medium,18.444000000000003,Eastern Asia,Asia,40.14251168,127.1828259
+408,Dem. People's Republic of Korea,2015,Medium,24.363000000000003,Eastern Asia,Asia,40.14251168,127.1828259
+408,Dem. People's Republic of Korea,2010,Medium,34.585,Eastern Asia,Asia,40.14251168,127.1828259
+408,Dem. People's Republic of Korea,2005,Medium,36.321,Eastern Asia,Asia,40.14251168,127.1828259
+408,Dem. People's Republic of Korea,2000,Medium,80.148,Eastern Asia,Asia,40.14251168,127.1828259
+408,Dem. People's Republic of Korea,1995,Medium,56.367,Eastern Asia,Asia,40.14251168,127.1828259
+408,Dem. People's Republic of Korea,1990,Medium,34.782,Eastern Asia,Asia,40.14251168,127.1828259
+408,Dem. People's Republic of Korea,1985,Medium,40.186,Eastern Asia,Asia,40.14251168,127.1828259
+408,Dem. People's Republic of Korea,1980,Medium,47.92,Eastern Asia,Asia,40.14251168,127.1828259
+408,Dem. People's Republic of Korea,1975,Medium,61.733999999999995,Eastern Asia,Asia,40.14251168,127.1828259
+180,Democratic Republic of the Congo,2020,Medium,100.473,Sub-Saharan Africa,Africa,-2.876807692,23.65623593
+180,Democratic Republic of the Congo,2015,Medium,115.095,Sub-Saharan Africa,Africa,-2.876807692,23.65623593
+180,Democratic Republic of the Congo,2010,Medium,134.276,Sub-Saharan Africa,Africa,-2.876807692,23.65623593
+180,Democratic Republic of the Congo,2005,Medium,163.028,Sub-Saharan Africa,Africa,-2.876807692,23.65623593
+180,Democratic Republic of the Congo,2000,Medium,188.24200000000002,Sub-Saharan Africa,Africa,-2.876807692,23.65623593
+180,Democratic Republic of the Congo,1995,Medium,182.21,Sub-Saharan Africa,Africa,-2.876807692,23.65623593
+180,Democratic Republic of the Congo,1990,Medium,194.15099999999998,Sub-Saharan Africa,Africa,-2.876807692,23.65623593
+180,Democratic Republic of the Congo,1985,Medium,204.396,Sub-Saharan Africa,Africa,-2.876807692,23.65623593
+180,Democratic Republic of the Congo,1980,Medium,218.118,Sub-Saharan Africa,Africa,-2.876807692,23.65623593
+180,Democratic Republic of the Congo,1975,Medium,225.83900000000003,Sub-Saharan Africa,Africa,-2.876807692,23.65623593
+208,Denmark,2020,Medium,3.6430000000000002,Northern Europe,Europe,56.06439188,9.942213684
+208,Denmark,2015,Medium,4.093999999999999,Northern Europe,Europe,56.06439188,9.942213684
+208,Denmark,2010,Medium,4.402,Northern Europe,Europe,56.06439188,9.942213684
+208,Denmark,2005,Medium,5.502999999999999,Northern Europe,Europe,56.06439188,9.942213684
+208,Denmark,2000,Medium,6.032,Northern Europe,Europe,56.06439188,9.942213684
+208,Denmark,1995,Medium,7.621,Northern Europe,Europe,56.06439188,9.942213684
+208,Denmark,1990,Medium,9.749,Northern Europe,Europe,56.06439188,9.942213684
+208,Denmark,1985,Medium,9.596,Northern Europe,Europe,56.06439188,9.942213684
+208,Denmark,1980,Medium,11.004000000000001,Northern Europe,Europe,56.06439188,9.942213684
+208,Denmark,1975,Medium,14.482999999999999,Northern Europe,Europe,56.06439188,9.942213684
+262,Djibouti,2020,Medium,50.9,Sub-Saharan Africa,Africa,11.74658946,42.58022315
+262,Djibouti,2015,Medium,83.883,Sub-Saharan Africa,Africa,11.74658946,42.58022315
+262,Djibouti,2010,Medium,97.48,Sub-Saharan Africa,Africa,11.74658946,42.58022315
+262,Djibouti,2005,Medium,105.509,Sub-Saharan Africa,Africa,11.74658946,42.58022315
+262,Djibouti,2000,Medium,112.01299999999999,Sub-Saharan Africa,Africa,11.74658946,42.58022315
+262,Djibouti,1995,Medium,119.921,Sub-Saharan Africa,Africa,11.74658946,42.58022315
+262,Djibouti,1990,Medium,129.429,Sub-Saharan Africa,Africa,11.74658946,42.58022315
+262,Djibouti,1985,Medium,140.47,Sub-Saharan Africa,Africa,11.74658946,42.58022315
+262,Djibouti,1980,Medium,157.142,Sub-Saharan Africa,Africa,11.74658946,42.58022315
+262,Djibouti,1975,Medium,170.955,Sub-Saharan Africa,Africa,11.74658946,42.58022315
+214,Dominican Republic,2020,Medium,28.866,Latin America and the Caribbean,Americas,18.89453409,-70.49429315
+214,Dominican Republic,2015,Medium,30.615,Latin America and the Caribbean,Americas,18.89453409,-70.49429315
+214,Dominican Republic,2010,Medium,32.787,Latin America and the Caribbean,Americas,18.89453409,-70.49429315
+214,Dominican Republic,2005,Medium,38.374,Latin America and the Caribbean,Americas,18.89453409,-70.49429315
+214,Dominican Republic,2000,Medium,46.388000000000005,Latin America and the Caribbean,Americas,18.89453409,-70.49429315
+214,Dominican Republic,1995,Medium,56.36600000000001,Latin America and the Caribbean,Americas,18.89453409,-70.49429315
+214,Dominican Republic,1990,Medium,71.297,Latin America and the Caribbean,Americas,18.89453409,-70.49429315
+214,Dominican Republic,1985,Medium,85.96600000000001,Latin America and the Caribbean,Americas,18.89453409,-70.49429315
+214,Dominican Republic,1980,Medium,104.085,Latin America and the Caribbean,Americas,18.89453409,-70.49429315
+214,Dominican Republic,1975,Medium,129.935,Latin America and the Caribbean,Americas,18.89453409,-70.49429315
+218,Ecuador,2020,Medium,16.314,Latin America and the Caribbean,Americas,-1.464036749,-78.05190165
+218,Ecuador,2015,Medium,18.452,Latin America and the Caribbean,Americas,-1.464036749,-78.05190165
+218,Ecuador,2010,Medium,23.739,Latin America and the Caribbean,Americas,-1.464036749,-78.05190165
+218,Ecuador,2005,Medium,30.23,Latin America and the Caribbean,Americas,-1.464036749,-78.05190165
+218,Ecuador,2000,Medium,40.29,Latin America and the Caribbean,Americas,-1.464036749,-78.05190165
+218,Ecuador,1995,Medium,52.57899999999999,Latin America and the Caribbean,Americas,-1.464036749,-78.05190165
+218,Ecuador,1990,Medium,67.727,Latin America and the Caribbean,Americas,-1.464036749,-78.05190165
+218,Ecuador,1985,Medium,86.84700000000001,Latin America and the Caribbean,Americas,-1.464036749,-78.05190165
+218,Ecuador,1980,Medium,109.75200000000001,Latin America and the Caribbean,Americas,-1.464036749,-78.05190165
+218,Ecuador,1975,Medium,129.686,Latin America and the Caribbean,Americas,-1.464036749,-78.05190165
+818,Egypt,2020,Medium,19.928,Northern Africa,Africa,26.55281781,29.78562814
+818,Egypt,2015,Medium,24.18,Northern Africa,Africa,26.55281781,29.78562814
+818,Egypt,2010,Medium,30.029,Northern Africa,Africa,26.55281781,29.78562814
+818,Egypt,2005,Medium,38.242,Northern Africa,Africa,26.55281781,29.78562814
+818,Egypt,2000,Medium,48.711000000000006,Northern Africa,Africa,26.55281781,29.78562814
+818,Egypt,1995,Medium,80.34899999999999,Northern Africa,Africa,26.55281781,29.78562814
+818,Egypt,1990,Medium,102.152,Northern Africa,Africa,26.55281781,29.78562814
+818,Egypt,1985,Medium,149.012,Northern Africa,Africa,26.55281781,29.78562814
+818,Egypt,1980,Medium,188.637,Northern Africa,Africa,26.55281781,29.78562814
+818,Egypt,1975,Medium,237.676,Northern Africa,Africa,26.55281781,29.78562814
+222,El Salvador,2020,Medium,16.89,Latin America and the Caribbean,Americas,13.72764125,-88.86315324
+222,El Salvador,2015,Medium,20.511999999999997,Latin America and the Caribbean,Americas,13.72764125,-88.86315324
+222,El Salvador,2010,Medium,25.02,Latin America and the Caribbean,Americas,13.72764125,-88.86315324
+222,El Salvador,2005,Medium,27.891,Latin America and the Caribbean,Americas,13.72764125,-88.86315324
+222,El Salvador,2000,Medium,35.443000000000005,Latin America and the Caribbean,Americas,13.72764125,-88.86315324
+222,El Salvador,1995,Medium,52.992,Latin America and the Caribbean,Americas,13.72764125,-88.86315324
+222,El Salvador,1990,Medium,89.118,Latin America and the Caribbean,Americas,13.72764125,-88.86315324
+222,El Salvador,1985,Medium,124.689,Latin America and the Caribbean,Americas,13.72764125,-88.86315324
+222,El Salvador,1980,Medium,147.071,Latin America and the Caribbean,Americas,13.72764125,-88.86315324
+222,El Salvador,1975,Medium,162.451,Latin America and the Caribbean,Americas,13.72764125,-88.86315324
+226,Equatorial Guinea,2020,Medium,93.78,Sub-Saharan Africa,Africa,1.412936146,10.61572825
+226,Equatorial Guinea,2015,Medium,108.575,Sub-Saharan Africa,Africa,1.412936146,10.61572825
+226,Equatorial Guinea,2010,Medium,126.21799999999999,Sub-Saharan Africa,Africa,1.412936146,10.61572825
+226,Equatorial Guinea,2005,Medium,143.486,Sub-Saharan Africa,Africa,1.412936146,10.61572825
+226,Equatorial Guinea,2000,Medium,162.434,Sub-Saharan Africa,Africa,1.412936146,10.61572825
+226,Equatorial Guinea,1995,Medium,183.898,Sub-Saharan Africa,Africa,1.412936146,10.61572825
+226,Equatorial Guinea,1990,Medium,203.294,Sub-Saharan Africa,Africa,1.412936146,10.61572825
+226,Equatorial Guinea,1985,Medium,218.447,Sub-Saharan Africa,Africa,1.412936146,10.61572825
+226,Equatorial Guinea,1980,Medium,250.705,Sub-Saharan Africa,Africa,1.412936146,10.61572825
+226,Equatorial Guinea,1975,Medium,265.376,Sub-Saharan Africa,Africa,1.412936146,10.61572825
+232,Eritrea,2020,Medium,44.288999999999994,Sub-Saharan Africa,Africa,15.37695899,38.82792338
+232,Eritrea,2015,Medium,57.402,Sub-Saharan Africa,Africa,15.37695899,38.82792338
+232,Eritrea,2010,Medium,67.984,Sub-Saharan Africa,Africa,15.37695899,38.82792338
+232,Eritrea,2005,Medium,80.788,Sub-Saharan Africa,Africa,15.37695899,38.82792338
+232,Eritrea,2000,Medium,107.361,Sub-Saharan Africa,Africa,15.37695899,38.82792338
+232,Eritrea,1995,Medium,144.494,Sub-Saharan Africa,Africa,15.37695899,38.82792338
+232,Eritrea,1990,Medium,168.02900000000002,Sub-Saharan Africa,Africa,15.37695899,38.82792338
+232,Eritrea,1985,Medium,184.25599999999997,Sub-Saharan Africa,Africa,15.37695899,38.82792338
+232,Eritrea,1980,Medium,202.215,Sub-Saharan Africa,Africa,15.37695899,38.82792338
+232,Eritrea,1975,Medium,223.88299999999998,Sub-Saharan Africa,Africa,15.37695899,38.82792338
+233,Estonia,2020,Medium,2.642,Northern Europe,Europe,58.70758667,26.168216
+233,Estonia,2015,Medium,4.276,Northern Europe,Europe,58.70758667,26.168216
+233,Estonia,2010,Medium,6.037999999999999,Northern Europe,Europe,58.70758667,26.168216
+233,Estonia,2005,Medium,9.221,Northern Europe,Europe,58.70758667,26.168216
+233,Estonia,2000,Medium,14.921,Northern Europe,Europe,58.70758667,26.168216
+233,Estonia,1995,Medium,19.833,Northern Europe,Europe,58.70758667,26.168216
+233,Estonia,1990,Medium,22.011999999999997,Northern Europe,Europe,58.70758667,26.168216
+233,Estonia,1985,Medium,25.006,Northern Europe,Europe,58.70758667,26.168216
+233,Estonia,1980,Medium,26.385,Northern Europe,Europe,58.70758667,26.168216
+233,Estonia,1975,Medium,25.589000000000002,Northern Europe,Europe,58.70758667,26.168216
+748,Eswatini,2020,Medium,54.415,Sub-Saharan Africa,Africa,-26.56643647,31.50113832
+748,Eswatini,2015,Medium,70.93,Sub-Saharan Africa,Africa,-26.56643647,31.50113832
+748,Eswatini,2010,Medium,111.01299999999999,Sub-Saharan Africa,Africa,-26.56643647,31.50113832
+748,Eswatini,2005,Medium,130.639,Sub-Saharan Africa,Africa,-26.56643647,31.50113832
+748,Eswatini,2000,Medium,109.796,Sub-Saharan Africa,Africa,-26.56643647,31.50113832
+748,Eswatini,1995,Medium,75.52600000000001,Sub-Saharan Africa,Africa,-26.56643647,31.50113832
+748,Eswatini,1990,Medium,74.689,Sub-Saharan Africa,Africa,-26.56643647,31.50113832
+748,Eswatini,1985,Medium,101.255,Sub-Saharan Africa,Africa,-26.56643647,31.50113832
+748,Eswatini,1980,Medium,136.04,Sub-Saharan Africa,Africa,-26.56643647,31.50113832
+748,Eswatini,1975,Medium,170.988,Sub-Saharan Africa,Africa,-26.56643647,31.50113832
+231,Ethiopia,2020,Medium,54.876999999999995,Sub-Saharan Africa,Africa,8.633664665,39.61587345
+231,Ethiopia,2015,Medium,67.906,Sub-Saharan Africa,Africa,8.633664665,39.61587345
+231,Ethiopia,2010,Medium,91.198,Sub-Saharan Africa,Africa,8.633664665,39.61587345
+231,Ethiopia,2005,Medium,122.57,Sub-Saharan Africa,Africa,8.633664665,39.61587345
+231,Ethiopia,2000,Medium,155.585,Sub-Saharan Africa,Africa,8.633664665,39.61587345
+231,Ethiopia,1995,Medium,190.405,Sub-Saharan Africa,Africa,8.633664665,39.61587345
+231,Ethiopia,1990,Medium,212.321,Sub-Saharan Africa,Africa,8.633664665,39.61587345
+231,Ethiopia,1985,Medium,236.667,Sub-Saharan Africa,Africa,8.633664665,39.61587345
+231,Ethiopia,1980,Medium,230.32,Sub-Saharan Africa,Africa,8.633664665,39.61587345
+231,Ethiopia,1975,Medium,236.986,Sub-Saharan Africa,Africa,8.633664665,39.61587345
+242,Fiji,2020,Medium,24.62,Melanesia,Oceania,-19.0190607,195.3435043
+242,Fiji,2015,Medium,24.156999999999996,Melanesia,Oceania,-19.0190607,195.3435043
+242,Fiji,2010,Medium,23.701,Melanesia,Oceania,-19.0190607,195.3435043
+242,Fiji,2005,Medium,22.721999999999998,Melanesia,Oceania,-19.0190607,195.3435043
+242,Fiji,2000,Medium,23.794,Melanesia,Oceania,-19.0190607,195.3435043
+242,Fiji,1995,Medium,26.766,Melanesia,Oceania,-19.0190607,195.3435043
+242,Fiji,1990,Medium,32.029,Melanesia,Oceania,-19.0190607,195.3435043
+242,Fiji,1985,Medium,39.381,Melanesia,Oceania,-19.0190607,195.3435043
+242,Fiji,1980,Medium,49.498999999999995,Melanesia,Oceania,-19.0190607,195.3435043
+242,Fiji,1975,Medium,55.81,Melanesia,Oceania,-19.0190607,195.3435043
+246,Finland,2020,Medium,2.189,Northern Europe,Europe,64.52173893,26.29452799
+246,Finland,2015,Medium,2.679,Northern Europe,Europe,64.52173893,26.29452799
+246,Finland,2010,Medium,3.38,Northern Europe,Europe,64.52173893,26.29452799
+246,Finland,2005,Medium,3.985,Northern Europe,Europe,64.52173893,26.29452799
+246,Finland,2000,Medium,4.681,Northern Europe,Europe,64.52173893,26.29452799
+246,Finland,1995,Medium,5.912999999999999,Northern Europe,Europe,64.52173893,26.29452799
+246,Finland,1990,Medium,7.164,Northern Europe,Europe,64.52173893,26.29452799
+246,Finland,1985,Medium,7.712000000000001,Northern Europe,Europe,64.52173893,26.29452799
+246,Finland,1980,Medium,10.409,Northern Europe,Europe,64.52173893,26.29452799
+246,Finland,1975,Medium,14.126,Northern Europe,Europe,64.52173893,26.29452799
+250,France,2020,Medium,3.627,Western Europe,Europe,46.6984015,2.350055968
+250,France,2015,Medium,4.154,Western Europe,Europe,46.6984015,2.350055968
+250,France,2010,Medium,4.4910000000000005,Western Europe,Europe,46.6984015,2.350055968
+250,France,2005,Medium,5.127000000000001,Western Europe,Europe,46.6984015,2.350055968
+250,France,2000,Medium,5.76,Western Europe,Europe,46.6984015,2.350055968
+250,France,1995,Medium,7.91,Western Europe,Europe,46.6984015,2.350055968
+250,France,1990,Medium,9.579,Western Europe,Europe,46.6984015,2.350055968
+250,France,1985,Medium,11.37,Western Europe,Europe,46.6984015,2.350055968
+250,France,1980,Medium,13.99,Western Europe,Europe,46.6984015,2.350055968
+250,France,1975,Medium,18.748,Western Europe,Europe,46.6984015,2.350055968
+254,French Guiana,2020,Medium,10.052,Latin America and the Caribbean,Americas,3.928100844,-53.24266781
+254,French Guiana,2015,Medium,10.533,Latin America and the Caribbean,Americas,3.928100844,-53.24266781
+254,French Guiana,2010,Medium,12.186,Latin America and the Caribbean,Americas,3.928100844,-53.24266781
+254,French Guiana,2005,Medium,15.307,Latin America and the Caribbean,Americas,3.928100844,-53.24266781
+254,French Guiana,2000,Medium,19.737000000000002,Latin America and the Caribbean,Americas,3.928100844,-53.24266781
+254,French Guiana,1995,Medium,24.414,Latin America and the Caribbean,Americas,3.928100844,-53.24266781
+254,French Guiana,1990,Medium,30.209,Latin America and the Caribbean,Americas,3.928100844,-53.24266781
+254,French Guiana,1985,Medium,38.857,Latin America and the Caribbean,Americas,3.928100844,-53.24266781
+254,French Guiana,1980,Medium,53.602,Latin America and the Caribbean,Americas,3.928100844,-53.24266781
+254,French Guiana,1975,Medium,58.06,Latin America and the Caribbean,Americas,3.928100844,-53.24266781
+258,French Polynesia,2020,Medium,7.225,Polynesia,Oceania,-24.06211632,-156.7187297
+258,French Polynesia,2015,Medium,7.579,Polynesia,Oceania,-24.06211632,-156.7187297
+258,French Polynesia,2010,Medium,9.602,Polynesia,Oceania,-24.06211632,-156.7187297
+258,French Polynesia,2005,Medium,10.243,Polynesia,Oceania,-24.06211632,-156.7187297
+258,French Polynesia,2000,Medium,11.41,Polynesia,Oceania,-24.06211632,-156.7187297
+258,French Polynesia,1995,Medium,19.672,Polynesia,Oceania,-24.06211632,-156.7187297
+258,French Polynesia,1990,Medium,21.526,Polynesia,Oceania,-24.06211632,-156.7187297
+258,French Polynesia,1985,Medium,37.294000000000004,Polynesia,Oceania,-24.06211632,-156.7187297
+258,French Polynesia,1980,Medium,62.303999999999995,Polynesia,Oceania,-24.06211632,-156.7187297
+258,French Polynesia,1975,Medium,75.741,Polynesia,Oceania,-24.06211632,-156.7187297
+266,Gabon,2020,Medium,47.942,Sub-Saharan Africa,Africa,-0.595400581,11.79997877
+266,Gabon,2015,Medium,57.702,Sub-Saharan Africa,Africa,-0.595400581,11.79997877
+266,Gabon,2010,Medium,71.41,Sub-Saharan Africa,Africa,-0.595400581,11.79997877
+266,Gabon,2005,Medium,86.18700000000001,Sub-Saharan Africa,Africa,-0.595400581,11.79997877
+266,Gabon,2000,Medium,88.01,Sub-Saharan Africa,Africa,-0.595400581,11.79997877
+266,Gabon,1995,Medium,90.73899999999999,Sub-Saharan Africa,Africa,-0.595400581,11.79997877
+266,Gabon,1990,Medium,96.50200000000001,Sub-Saharan Africa,Africa,-0.595400581,11.79997877
+266,Gabon,1985,Medium,123.075,Sub-Saharan Africa,Africa,-0.595400581,11.79997877
+266,Gabon,1980,Medium,154.564,Sub-Saharan Africa,Africa,-0.595400581,11.79997877
+266,Gabon,1975,Medium,189.438,Sub-Saharan Africa,Africa,-0.595400581,11.79997877
+270,Gambia,2020,Medium,67.77,Sub-Saharan Africa,Africa,13.44470328,-15.44718402
+270,Gambia,2015,Medium,75.22399999999999,Sub-Saharan Africa,Africa,13.44470328,-15.44718402
+270,Gambia,2010,Medium,87.53,Sub-Saharan Africa,Africa,13.44470328,-15.44718402
+270,Gambia,2005,Medium,106.39299999999999,Sub-Saharan Africa,Africa,13.44470328,-15.44718402
+270,Gambia,2000,Medium,128.268,Sub-Saharan Africa,Africa,13.44470328,-15.44718402
+270,Gambia,1995,Medium,153.296,Sub-Saharan Africa,Africa,13.44470328,-15.44718402
+270,Gambia,1990,Medium,174.886,Sub-Saharan Africa,Africa,13.44470328,-15.44718402
+270,Gambia,1985,Medium,199.919,Sub-Saharan Africa,Africa,13.44470328,-15.44718402
+270,Gambia,1980,Medium,232.01,Sub-Saharan Africa,Africa,13.44470328,-15.44718402
+270,Gambia,1975,Medium,267.464,Sub-Saharan Africa,Africa,13.44470328,-15.44718402
+268,Georgia,2020,Medium,10.155,Western Asia,Asia,42.17290221,43.5117089
+268,Georgia,2015,Medium,14.519,Western Asia,Asia,42.17290221,43.5117089
+268,Georgia,2010,Medium,20.795,Western Asia,Asia,42.17290221,43.5117089
+268,Georgia,2005,Medium,30.526999999999997,Western Asia,Asia,42.17290221,43.5117089
+268,Georgia,2000,Medium,39.404,Western Asia,Asia,42.17290221,43.5117089
+268,Georgia,1995,Medium,48.99,Western Asia,Asia,42.17290221,43.5117089
+268,Georgia,1990,Medium,46.434,Western Asia,Asia,42.17290221,43.5117089
+268,Georgia,1985,Medium,49.5,Western Asia,Asia,42.17290221,43.5117089
+268,Georgia,1980,Medium,52.141000000000005,Western Asia,Asia,42.17290221,43.5117089
+268,Georgia,1975,Medium,55.706,Western Asia,Asia,42.17290221,43.5117089
+276,Germany,2020,Medium,3.805,Western Europe,Europe,51.08227882,10.37515859
+276,Germany,2015,Medium,4.005,Western Europe,Europe,51.08227882,10.37515859
+276,Germany,2010,Medium,4.43,Western Europe,Europe,51.08227882,10.37515859
+276,Germany,2005,Medium,5.07,Western Europe,Europe,51.08227882,10.37515859
+276,Germany,2000,Medium,5.836,Western Europe,Europe,51.08227882,10.37515859
+276,Germany,1995,Medium,7.416,Western Europe,Europe,51.08227882,10.37515859
+276,Germany,1990,Medium,10.033999999999999,Western Europe,Europe,51.08227882,10.37515859
+276,Germany,1985,Medium,13.293,Western Europe,Europe,51.08227882,10.37515859
+276,Germany,1980,Medium,18.298,Western Europe,Europe,51.08227882,10.37515859
+276,Germany,1975,Medium,24.218000000000004,Western Europe,Europe,51.08227882,10.37515859
+288,Ghana,2020,Medium,51.64,Sub-Saharan Africa,Africa,7.956118608,-1.209564758
+288,Ghana,2015,Medium,65.555,Sub-Saharan Africa,Africa,7.956118608,-1.209564758
+288,Ghana,2010,Medium,82.258,Sub-Saharan Africa,Africa,7.956118608,-1.209564758
+288,Ghana,2005,Medium,93.62100000000001,Sub-Saharan Africa,Africa,7.956118608,-1.209564758
+288,Ghana,2000,Medium,104.26,Sub-Saharan Africa,Africa,7.956118608,-1.209564758
+288,Ghana,1995,Medium,114.302,Sub-Saharan Africa,Africa,7.956118608,-1.209564758
+288,Ghana,1990,Medium,132.736,Sub-Saharan Africa,Africa,7.956118608,-1.209564758
+288,Ghana,1985,Medium,150.797,Sub-Saharan Africa,Africa,7.956118608,-1.209564758
+288,Ghana,1980,Medium,162.963,Sub-Saharan Africa,Africa,7.956118608,-1.209564758
+288,Ghana,1975,Medium,176.667,Sub-Saharan Africa,Africa,7.956118608,-1.209564758
+300,Greece,2020,Medium,3.318,Southern Europe,Europe,39.99547189,22.15714659
+300,Greece,2015,Medium,3.835,Southern Europe,Europe,39.99547189,22.15714659
+300,Greece,2010,Medium,4.19,Southern Europe,Europe,39.99547189,22.15714659
+300,Greece,2005,Medium,5.316,Southern Europe,Europe,39.99547189,22.15714659
+300,Greece,2000,Medium,7.671,Southern Europe,Europe,39.99547189,22.15714659
+300,Greece,1995,Medium,9.464,Southern Europe,Europe,39.99547189,22.15714659
+300,Greece,1990,Medium,13.075999999999999,Southern Europe,Europe,39.99547189,22.15714659
+300,Greece,1985,Medium,16.471,Southern Europe,Europe,39.99547189,22.15714659
+300,Greece,1980,Medium,23.426,Southern Europe,Europe,39.99547189,22.15714659
+300,Greece,1975,Medium,28.232,Southern Europe,Europe,39.99547189,22.15714659
+308,Grenada,2020,Medium,16.436,Latin America and the Caribbean,Americas,12.11295969,-61.67937955
+308,Grenada,2015,Medium,15.232999999999999,Latin America and the Caribbean,Americas,12.11295969,-61.67937955
+308,Grenada,2010,Medium,14.052999999999999,Latin America and the Caribbean,Americas,12.11295969,-61.67937955
+308,Grenada,2005,Medium,14.817,Latin America and the Caribbean,Americas,12.11295969,-61.67937955
+308,Grenada,2000,Medium,16.956,Latin America and the Caribbean,Americas,12.11295969,-61.67937955
+308,Grenada,1995,Medium,20.750999999999998,Latin America and the Caribbean,Americas,12.11295969,-61.67937955
+308,Grenada,1990,Medium,25.41,Latin America and the Caribbean,Americas,12.11295969,-61.67937955
+308,Grenada,1985,Medium,30.014,Latin America and the Caribbean,Americas,12.11295969,-61.67937955
+308,Grenada,1980,Medium,42.485,Latin America and the Caribbean,Americas,12.11295969,-61.67937955
+308,Grenada,1975,Medium,55.761,Latin America and the Caribbean,Americas,12.11295969,-61.67937955
+312,Guadeloupe,2020,Medium,5.086,Latin America and the Caribbean,Americas,16.40393131,-61.75296289
+312,Guadeloupe,2015,Medium,6.44,Latin America and the Caribbean,Americas,16.40393131,-61.75296289
+312,Guadeloupe,2010,Medium,7.865,Latin America and the Caribbean,Americas,16.40393131,-61.75296289
+312,Guadeloupe,2005,Medium,10.036,Latin America and the Caribbean,Americas,16.40393131,-61.75296289
+312,Guadeloupe,2000,Medium,12.83,Latin America and the Caribbean,Americas,16.40393131,-61.75296289
+312,Guadeloupe,1995,Medium,16.425,Latin America and the Caribbean,Americas,16.40393131,-61.75296289
+312,Guadeloupe,1990,Medium,21.127,Latin America and the Caribbean,Americas,16.40393131,-61.75296289
+312,Guadeloupe,1985,Medium,27.221,Latin America and the Caribbean,Americas,16.40393131,-61.75296289
+312,Guadeloupe,1980,Medium,35.302,Latin America and the Caribbean,Americas,16.40393131,-61.75296289
+312,Guadeloupe,1975,Medium,45.841,Latin America and the Caribbean,Americas,16.40393131,-61.75296289
+316,Guam,2020,Medium,10.033,Micronesia,Oceania,13.47185432,144.784677
+316,Guam,2015,Medium,11.629000000000001,Micronesia,Oceania,13.47185432,144.784677
+316,Guam,2010,Medium,13.163,Micronesia,Oceania,13.47185432,144.784677
+316,Guam,2005,Medium,15.745,Micronesia,Oceania,13.47185432,144.784677
+316,Guam,2000,Medium,19.867,Micronesia,Oceania,13.47185432,144.784677
+316,Guam,1995,Medium,24.456999999999997,Micronesia,Oceania,13.47185432,144.784677
+316,Guam,1990,Medium,28.941999999999997,Micronesia,Oceania,13.47185432,144.784677
+316,Guam,1985,Medium,34.489000000000004,Micronesia,Oceania,13.47185432,144.784677
+316,Guam,1980,Medium,42.012,Micronesia,Oceania,13.47185432,144.784677
+316,Guam,1975,Medium,51.863,Micronesia,Oceania,13.47185432,144.784677
+320,Guatemala,2020,Medium,26.098000000000003,Latin America and the Caribbean,Americas,15.699081,-90.35850945
+320,Guatemala,2015,Medium,32.598,Latin America and the Caribbean,Americas,15.699081,-90.35850945
+320,Guatemala,2010,Medium,38.483000000000004,Latin America and the Caribbean,Americas,15.699081,-90.35850945
+320,Guatemala,2005,Medium,46.885,Latin America and the Caribbean,Americas,15.699081,-90.35850945
+320,Guatemala,2000,Medium,58.114,Latin America and the Caribbean,Americas,15.699081,-90.35850945
+320,Guatemala,1995,Medium,73.767,Latin America and the Caribbean,Americas,15.699081,-90.35850945
+320,Guatemala,1990,Medium,93.54299999999999,Latin America and the Caribbean,Americas,15.699081,-90.35850945
+320,Guatemala,1985,Medium,115.624,Latin America and the Caribbean,Americas,15.699081,-90.35850945
+320,Guatemala,1980,Medium,139.236,Latin America and the Caribbean,Americas,15.699081,-90.35850945
+320,Guatemala,1975,Medium,163.825,Latin America and the Caribbean,Americas,15.699081,-90.35850945
+324,Guinea,2020,Medium,80.733,Sub-Saharan Africa,Africa,10.43642262,-10.95068301
+324,Guinea,2015,Medium,102.227,Sub-Saharan Africa,Africa,10.43642262,-10.95068301
+324,Guinea,2010,Medium,123.605,Sub-Saharan Africa,Africa,10.43642262,-10.95068301
+324,Guinea,2005,Medium,161.144,Sub-Saharan Africa,Africa,10.43642262,-10.95068301
+324,Guinea,2000,Medium,187.283,Sub-Saharan Africa,Africa,10.43642262,-10.95068301
+324,Guinea,1995,Medium,215.761,Sub-Saharan Africa,Africa,10.43642262,-10.95068301
+324,Guinea,1990,Medium,240.71,Sub-Saharan Africa,Africa,10.43642262,-10.95068301
+324,Guinea,1985,Medium,264.589,Sub-Saharan Africa,Africa,10.43642262,-10.95068301
+324,Guinea,1980,Medium,288.873,Sub-Saharan Africa,Africa,10.43642262,-10.95068301
+324,Guinea,1975,Medium,311.192,Sub-Saharan Africa,Africa,10.43642262,-10.95068301
+624,Guinea-Bissau,2020,Medium,82.44200000000001,Sub-Saharan Africa,Africa,12.05479161,-14.94108332
+624,Guinea-Bissau,2015,Medium,100.93700000000001,Sub-Saharan Africa,Africa,12.05479161,-14.94108332
+624,Guinea-Bissau,2010,Medium,129.149,Sub-Saharan Africa,Africa,12.05479161,-14.94108332
+624,Guinea-Bissau,2005,Medium,160.974,Sub-Saharan Africa,Africa,12.05479161,-14.94108332
+624,Guinea-Bissau,2000,Medium,183.09799999999998,Sub-Saharan Africa,Africa,12.05479161,-14.94108332
+624,Guinea-Bissau,1995,Medium,204.09099999999998,Sub-Saharan Africa,Africa,12.05479161,-14.94108332
+624,Guinea-Bissau,1990,Medium,217.09099999999998,Sub-Saharan Africa,Africa,12.05479161,-14.94108332
+624,Guinea-Bissau,1985,Medium,227.601,Sub-Saharan Africa,Africa,12.05479161,-14.94108332
+624,Guinea-Bissau,1980,Medium,243.581,Sub-Saharan Africa,Africa,12.05479161,-14.94108332
+624,Guinea-Bissau,1975,Medium,259.55,Sub-Saharan Africa,Africa,12.05479161,-14.94108332
+328,Guyana,2020,Medium,32.291,Latin America and the Caribbean,Americas,4.800395012,-58.97699814
+328,Guyana,2015,Medium,39.314,Latin America and the Caribbean,Americas,4.800395012,-58.97699814
+328,Guyana,2010,Medium,39.394,Latin America and the Caribbean,Americas,4.800395012,-58.97699814
+328,Guyana,2005,Medium,43.989,Latin America and the Caribbean,Americas,4.800395012,-58.97699814
+328,Guyana,2000,Medium,51.378,Latin America and the Caribbean,Americas,4.800395012,-58.97699814
+328,Guyana,1995,Medium,57.528,Latin America and the Caribbean,Americas,4.800395012,-58.97699814
+328,Guyana,1990,Medium,65.54,Latin America and the Caribbean,Americas,4.800395012,-58.97699814
+328,Guyana,1985,Medium,69.32,Latin America and the Caribbean,Americas,4.800395012,-58.97699814
+328,Guyana,1980,Medium,72.053,Latin America and the Caribbean,Americas,4.800395012,-58.97699814
+328,Guyana,1975,Medium,74.212,Latin America and the Caribbean,Americas,4.800395012,-58.97699814
+332,Haiti,2020,Medium,81.031,Latin America and the Caribbean,Americas,18.94164176,-72.65840205
+332,Haiti,2015,Medium,90.635,Latin America and the Caribbean,Americas,18.94164176,-72.65840205
+332,Haiti,2010,Medium,94.64299999999999,Latin America and the Caribbean,Americas,18.94164176,-72.65840205
+332,Haiti,2005,Medium,101.77799999999999,Latin America and the Caribbean,Americas,18.94164176,-72.65840205
+332,Haiti,2000,Medium,116.07,Latin America and the Caribbean,Americas,18.94164176,-72.65840205
+332,Haiti,1995,Medium,133.22,Latin America and the Caribbean,Americas,18.94164176,-72.65840205
+332,Haiti,1990,Medium,150.592,Latin America and the Caribbean,Americas,18.94164176,-72.65840205
+332,Haiti,1985,Medium,170.75,Latin America and the Caribbean,Americas,18.94164176,-72.65840205
+332,Haiti,1980,Medium,188.264,Latin America and the Caribbean,Americas,18.94164176,-72.65840205
+332,Haiti,1975,Medium,219.493,Latin America and the Caribbean,Americas,18.94164176,-72.65840205
+340,Honduras,2020,Medium,21.311999999999998,Latin America and the Caribbean,Americas,14.80908243,-86.63495948
+340,Honduras,2015,Medium,26.041,Latin America and the Caribbean,Americas,14.80908243,-86.63495948
+340,Honduras,2010,Medium,33.747,Latin America and the Caribbean,Americas,14.80908243,-86.63495948
+340,Honduras,2005,Medium,40.648,Latin America and the Caribbean,Americas,14.80908243,-86.63495948
+340,Honduras,2000,Medium,49.633,Latin America and the Caribbean,Americas,14.80908243,-86.63495948
+340,Honduras,1995,Medium,59.903999999999996,Latin America and the Caribbean,Americas,14.80908243,-86.63495948
+340,Honduras,1990,Medium,73.906,Latin America and the Caribbean,Americas,14.80908243,-86.63495948
+340,Honduras,1985,Medium,100.704,Latin America and the Caribbean,Americas,14.80908243,-86.63495948
+340,Honduras,1980,Medium,131.149,Latin America and the Caribbean,Americas,14.80908243,-86.63495948
+340,Honduras,1975,Medium,164.503,Latin America and the Caribbean,Americas,14.80908243,-86.63495948
+348,Hungary,2020,Medium,4.641,Eastern Europe,Europe,47.16567815,19.42172591
+348,Hungary,2015,Medium,5.769,Eastern Europe,Europe,47.16567815,19.42172591
+348,Hungary,2010,Medium,6.694,Eastern Europe,Europe,47.16567815,19.42172591
+348,Hungary,2005,Medium,8.742,Eastern Europe,Europe,47.16567815,19.42172591
+348,Hungary,2000,Medium,11.294,Eastern Europe,Europe,47.16567815,19.42172591
+348,Hungary,1995,Medium,15.077,Eastern Europe,Europe,47.16567815,19.42172591
+348,Hungary,1990,Medium,19.152,Eastern Europe,Europe,47.16567815,19.42172591
+348,Hungary,1985,Medium,22.247,Eastern Europe,Europe,47.16567815,19.42172591
+348,Hungary,1980,Medium,28.311,Eastern Europe,Europe,47.16567815,19.42172591
+348,Hungary,1975,Medium,38.163000000000004,Eastern Europe,Europe,47.16567815,19.42172591
+352,Iceland,2020,Medium,1.765,Northern Europe,Europe,64.99668622,-18.61425416
+352,Iceland,2015,Medium,2.188,Northern Europe,Europe,64.99668622,-18.61425416
+352,Iceland,2010,Medium,2.9410000000000003,Northern Europe,Europe,64.99668622,-18.61425416
+352,Iceland,2005,Medium,3.272,Northern Europe,Europe,64.99668622,-18.61425416
+352,Iceland,2000,Medium,4.768,Northern Europe,Europe,64.99668622,-18.61425416
+352,Iceland,1995,Medium,6.016,Northern Europe,Europe,64.99668622,-18.61425416
+352,Iceland,1990,Medium,6.718,Northern Europe,Europe,64.99668622,-18.61425416
+352,Iceland,1985,Medium,7.569,Northern Europe,Europe,64.99668622,-18.61425416
+352,Iceland,1980,Medium,11.616,Northern Europe,Europe,64.99668622,-18.61425416
+352,Iceland,1975,Medium,14.899000000000001,Northern Europe,Europe,64.99668622,-18.61425416
+356,India,2020,Medium,39.405,Southern Asia,Asia,22.37137039,79.32792202
+356,India,2015,Medium,49.405,Southern Asia,Asia,22.37137039,79.32792202
+356,India,2010,Medium,64.665,Southern Asia,Asia,22.37137039,79.32792202
+356,India,2005,Medium,81.001,Southern Asia,Asia,22.37137039,79.32792202
+356,India,2000,Medium,98.73,Southern Asia,Asia,22.37137039,79.32792202
+356,India,1995,Medium,115.77600000000001,Southern Asia,Asia,22.37137039,79.32792202
+356,India,1990,Medium,133.509,Southern Asia,Asia,22.37137039,79.32792202
+356,India,1985,Medium,153.378,Southern Asia,Asia,22.37137039,79.32792202
+356,India,1980,Medium,178.21,Southern Asia,Asia,22.37137039,79.32792202
+356,India,1975,Medium,202.188,Southern Asia,Asia,22.37137039,79.32792202
+360,Indonesia,2020,Medium,24.881999999999998,South-eastern Asia,Asia,-2.21433486,117.2844335
+360,Indonesia,2015,Medium,30.06,South-eastern Asia,Asia,-2.21433486,117.2844335
+360,Indonesia,2010,Medium,37.205,South-eastern Asia,Asia,-2.21433486,117.2844335
+360,Indonesia,2005,Medium,47.659,South-eastern Asia,Asia,-2.21433486,117.2844335
+360,Indonesia,2000,Medium,58.791000000000004,South-eastern Asia,Asia,-2.21433486,117.2844335
+360,Indonesia,1995,Medium,74.825,South-eastern Asia,Asia,-2.21433486,117.2844335
+360,Indonesia,1990,Medium,93.23700000000001,South-eastern Asia,Asia,-2.21433486,117.2844335
+360,Indonesia,1985,Medium,111.289,South-eastern Asia,Asia,-2.21433486,117.2844335
+360,Indonesia,1980,Medium,129.725,South-eastern Asia,Asia,-2.21433486,117.2844335
+360,Indonesia,1975,Medium,151.886,South-eastern Asia,Asia,-2.21433486,117.2844335
+364,Iran (Islamic Republic of),2020,Medium,14.923,Southern Asia,Asia,32.57533772,54.2973284
+364,Iran (Islamic Republic of),2015,Medium,17.659000000000002,Southern Asia,Asia,32.57533772,54.2973284
+364,Iran (Islamic Republic of),2010,Medium,22.498,Southern Asia,Asia,32.57533772,54.2973284
+364,Iran (Islamic Republic of),2005,Medium,29.791,Southern Asia,Asia,32.57533772,54.2973284
+364,Iran (Islamic Republic of),2000,Medium,39.26,Southern Asia,Asia,32.57533772,54.2973284
+364,Iran (Islamic Republic of),1995,Medium,49.81100000000001,Southern Asia,Asia,32.57533772,54.2973284
+364,Iran (Islamic Republic of),1990,Medium,65.28,Southern Asia,Asia,32.57533772,54.2973284
+364,Iran (Islamic Republic of),1985,Medium,87.584,Southern Asia,Asia,32.57533772,54.2973284
+364,Iran (Islamic Republic of),1980,Medium,122.584,Southern Asia,Asia,32.57533772,54.2973284
+364,Iran (Islamic Republic of),1975,Medium,167.012,Southern Asia,Asia,32.57533772,54.2973284
+368,Iraq,2020,Medium,28.320999999999998,Western Asia,Asia,33.04497404,43.77207391
+368,Iraq,2015,Medium,34.619,Western Asia,Asia,33.04497404,43.77207391
+368,Iraq,2010,Medium,39.029,Western Asia,Asia,33.04497404,43.77207391
+368,Iraq,2005,Medium,42.911,Western Asia,Asia,33.04497404,43.77207391
+368,Iraq,2000,Medium,47.099,Western Asia,Asia,33.04497404,43.77207391
+368,Iraq,1995,Medium,49.015,Western Asia,Asia,33.04497404,43.77207391
+368,Iraq,1990,Medium,57.183,Western Asia,Asia,33.04497404,43.77207391
+368,Iraq,1985,Medium,66.418,Western Asia,Asia,33.04497404,43.77207391
+368,Iraq,1980,Medium,80.76899999999999,Western Asia,Asia,33.04497404,43.77207391
+368,Iraq,1975,Medium,103.714,Western Asia,Asia,33.04497404,43.77207391
+372,Ireland,2020,Medium,3.177,Northern Europe,Europe,53.16969376,-8.154213185
+372,Ireland,2015,Medium,3.9939999999999998,Northern Europe,Europe,53.16969376,-8.154213185
+372,Ireland,2010,Medium,4.48,Northern Europe,Europe,53.16969376,-8.154213185
+372,Ireland,2005,Medium,6.2379999999999995,Northern Europe,Europe,53.16969376,-8.154213185
+372,Ireland,2000,Medium,7.276,Northern Europe,Europe,53.16969376,-8.154213185
+372,Ireland,1995,Medium,7.892,Northern Europe,Europe,53.16969376,-8.154213185
+372,Ireland,1990,Medium,10.022,Northern Europe,Europe,53.16969376,-8.154213185
+372,Ireland,1985,Medium,12.12,Northern Europe,Europe,53.16969376,-8.154213185
+372,Ireland,1980,Medium,17.338,Northern Europe,Europe,53.16969376,-8.154213185
+372,Ireland,1975,Medium,21.221999999999998,Northern Europe,Europe,53.16969376,-8.154213185
+376,Israel,2020,Medium,3.362,Western Asia,Asia,31.33857325,34.96023155
+376,Israel,2015,Medium,4.246,Western Asia,Asia,31.33857325,34.96023155
+376,Israel,2010,Medium,4.988,Western Asia,Asia,31.33857325,34.96023155
+376,Israel,2005,Medium,6.246,Western Asia,Asia,31.33857325,34.96023155
+376,Israel,2000,Medium,7.643,Western Asia,Asia,31.33857325,34.96023155
+376,Israel,1995,Medium,10.217,Western Asia,Asia,31.33857325,34.96023155
+376,Israel,1990,Medium,12.765,Western Asia,Asia,31.33857325,34.96023155
+376,Israel,1985,Medium,16.173,Western Asia,Asia,31.33857325,34.96023155
+376,Israel,1980,Medium,20.017,Western Asia,Asia,31.33857325,34.96023155
+376,Israel,1975,Medium,24.179000000000002,Western Asia,Asia,31.33857325,34.96023155
+380,Italy,2020,Medium,3.053,Southern Europe,Europe,43.76610159,11.68396919
+380,Italy,2015,Medium,3.569,Southern Europe,Europe,43.76610159,11.68396919
+380,Italy,2010,Medium,4.044,Southern Europe,Europe,43.76610159,11.68396919
+380,Italy,2005,Medium,4.872,Southern Europe,Europe,43.76610159,11.68396919
+380,Italy,2000,Medium,6.457000000000001,Southern Europe,Europe,43.76610159,11.68396919
+380,Italy,1995,Medium,8.724,Southern Europe,Europe,43.76610159,11.68396919
+380,Italy,1990,Medium,10.584000000000001,Southern Europe,Europe,43.76610159,11.68396919
+380,Italy,1985,Medium,14.133,Southern Europe,Europe,43.76610159,11.68396919
+380,Italy,1980,Medium,19.322,Southern Europe,Europe,43.76610159,11.68396919
+380,Italy,1975,Medium,28.923000000000002,Southern Europe,Europe,43.76610159,11.68396919
+388,Jamaica,2020,Medium,14.970999999999998,Latin America and the Caribbean,Americas,18.15206196,-77.31137184
+388,Jamaica,2015,Medium,17.404,Latin America and the Caribbean,Americas,18.15206196,-77.31137184
+388,Jamaica,2010,Medium,19.54,Latin America and the Caribbean,Americas,18.15206196,-77.31137184
+388,Jamaica,2005,Medium,21.13,Latin America and the Caribbean,Americas,18.15206196,-77.31137184
+388,Jamaica,2000,Medium,24.153000000000002,Latin America and the Caribbean,Americas,18.15206196,-77.31137184
+388,Jamaica,1995,Medium,28.311,Latin America and the Caribbean,Americas,18.15206196,-77.31137184
+388,Jamaica,1990,Medium,32.976,Latin America and the Caribbean,Americas,18.15206196,-77.31137184
+388,Jamaica,1985,Medium,38.07,Latin America and the Caribbean,Americas,18.15206196,-77.31137184
+388,Jamaica,1980,Medium,44.032,Latin America and the Caribbean,Americas,18.15206196,-77.31137184
+388,Jamaica,1975,Medium,51.945,Latin America and the Caribbean,Americas,18.15206196,-77.31137184
+392,Japan,2020,Medium,2.465,Eastern Asia,Asia,37.63209801,138.0812256
+392,Japan,2015,Medium,3.0439999999999996,Eastern Asia,Asia,37.63209801,138.0812256
+392,Japan,2010,Medium,3.467,Eastern Asia,Asia,37.63209801,138.0812256
+392,Japan,2005,Medium,4.046,Eastern Asia,Asia,37.63209801,138.0812256
+392,Japan,2000,Medium,5.088,Eastern Asia,Asia,37.63209801,138.0812256
+392,Japan,1995,Medium,6.077000000000001,Eastern Asia,Asia,37.63209801,138.0812256
+392,Japan,1990,Medium,6.7010000000000005,Eastern Asia,Asia,37.63209801,138.0812256
+392,Japan,1985,Medium,8.646,Eastern Asia,Asia,37.63209801,138.0812256
+392,Japan,1980,Medium,11.352,Eastern Asia,Asia,37.63209801,138.0812256
+392,Japan,1975,Medium,15.415,Eastern Asia,Asia,37.63209801,138.0812256
+400,Jordan,2020,Medium,17.034000000000002,Western Asia,Asia,31.25223934,36.78497101
+400,Jordan,2015,Medium,19.795,Western Asia,Asia,31.25223934,36.78497101
+400,Jordan,2010,Medium,22.79,Western Asia,Asia,31.25223934,36.78497101
+400,Jordan,2005,Medium,26.143,Western Asia,Asia,31.25223934,36.78497101
+400,Jordan,2000,Medium,29.998,Western Asia,Asia,31.25223934,36.78497101
+400,Jordan,1995,Medium,34.181,Western Asia,Asia,31.25223934,36.78497101
+400,Jordan,1990,Medium,40.185,Western Asia,Asia,31.25223934,36.78497101
+400,Jordan,1985,Medium,51.86600000000001,Western Asia,Asia,31.25223934,36.78497101
+400,Jordan,1980,Medium,67.372,Western Asia,Asia,31.25223934,36.78497101
+400,Jordan,1975,Medium,86.37899999999999,Western Asia,Asia,31.25223934,36.78497101
+398,Kazakhstan,2020,Medium,9.887,Central Asia,Asia,48.16011678,67.30440515
+398,Kazakhstan,2015,Medium,17.46,Central Asia,Asia,48.16011678,67.30440515
+398,Kazakhstan,2010,Medium,27.14,Central Asia,Asia,48.16011678,67.30440515
+398,Kazakhstan,2005,Medium,38.458,Central Asia,Asia,48.16011678,67.30440515
+398,Kazakhstan,2000,Medium,53.968999999999994,Central Asia,Asia,48.16011678,67.30440515
+398,Kazakhstan,1995,Medium,60.405,Central Asia,Asia,48.16011678,67.30440515
+398,Kazakhstan,1990,Medium,63.623000000000005,Central Asia,Asia,48.16011678,67.30440515
+398,Kazakhstan,1985,Medium,73.944,Central Asia,Asia,48.16011678,67.30440515
+398,Kazakhstan,1980,Medium,84.65100000000001,Central Asia,Asia,48.16011678,67.30440515
+398,Kazakhstan,1975,Medium,94.117,Central Asia,Asia,48.16011678,67.30440515
+404,Kenya,2020,Medium,47.431999999999995,Sub-Saharan Africa,Africa,0.529620946,37.85784174
+404,Kenya,2015,Medium,56.254,Sub-Saharan Africa,Africa,0.529620946,37.85784174
+404,Kenya,2010,Medium,72.852,Sub-Saharan Africa,Africa,0.529620946,37.85784174
+404,Kenya,2005,Medium,94.277,Sub-Saharan Africa,Africa,0.529620946,37.85784174
+404,Kenya,2000,Medium,106.17200000000001,Sub-Saharan Africa,Africa,0.529620946,37.85784174
+404,Kenya,1995,Medium,108.024,Sub-Saharan Africa,Africa,0.529620946,37.85784174
+404,Kenya,1990,Medium,106.29,Sub-Saharan Africa,Africa,0.529620946,37.85784174
+404,Kenya,1985,Medium,109.975,Sub-Saharan Africa,Africa,0.529620946,37.85784174
+404,Kenya,1980,Medium,127.87,Sub-Saharan Africa,Africa,0.529620946,37.85784174
+404,Kenya,1975,Medium,147.942,Sub-Saharan Africa,Africa,0.529620946,37.85784174
+296,Kiribati,2020,Medium,54.364,Micronesia,Oceania,1.844810739,-160.2677952
+296,Kiribati,2015,Medium,61.376999999999995,Micronesia,Oceania,1.844810739,-160.2677952
+296,Kiribati,2010,Medium,66.22,Micronesia,Oceania,1.844810739,-160.2677952
+296,Kiribati,2005,Medium,67.602,Micronesia,Oceania,1.844810739,-160.2677952
+296,Kiribati,2000,Medium,76.399,Micronesia,Oceania,1.844810739,-160.2677952
+296,Kiribati,1995,Medium,87.896,Micronesia,Oceania,1.844810739,-160.2677952
+296,Kiribati,1990,Medium,105.831,Micronesia,Oceania,1.844810739,-160.2677952
+296,Kiribati,1985,Medium,118.712,Micronesia,Oceania,1.844810739,-160.2677952
+296,Kiribati,1980,Medium,122.212,Micronesia,Oceania,1.844810739,-160.2677952
+296,Kiribati,1975,Medium,129.656,Micronesia,Oceania,1.844810739,-160.2677952
+414,Kuwait,2020,Medium,8.296,Western Asia,Asia,29.29832118,47.53304536
+414,Kuwait,2015,Medium,9.515,Western Asia,Asia,29.29832118,47.53304536
+414,Kuwait,2010,Medium,11.286,Western Asia,Asia,29.29832118,47.53304536
+414,Kuwait,2005,Medium,12.122,Western Asia,Asia,29.29832118,47.53304536
+414,Kuwait,2000,Medium,13.501,Western Asia,Asia,29.29832118,47.53304536
+414,Kuwait,1995,Medium,15.422,Western Asia,Asia,29.29832118,47.53304536
+414,Kuwait,1990,Medium,19.715,Western Asia,Asia,29.29832118,47.53304536
+414,Kuwait,1985,Medium,27.316,Western Asia,Asia,29.29832118,47.53304536
+414,Kuwait,1980,Medium,42.034,Western Asia,Asia,29.29832118,47.53304536
+414,Kuwait,1975,Medium,58.17,Western Asia,Asia,29.29832118,47.53304536
+417,Kyrgyzstan,2020,Medium,18.328,Central Asia,Asia,41.46387775,74.55247592
+417,Kyrgyzstan,2015,Medium,22.98,Central Asia,Asia,41.46387775,74.55247592
+417,Kyrgyzstan,2010,Medium,34.641999999999996,Central Asia,Asia,41.46387775,74.55247592
+417,Kyrgyzstan,2005,Medium,44.025,Central Asia,Asia,41.46387775,74.55247592
+417,Kyrgyzstan,2000,Medium,58.373000000000005,Central Asia,Asia,41.46387775,74.55247592
+417,Kyrgyzstan,1995,Medium,72.307,Central Asia,Asia,41.46387775,74.55247592
+417,Kyrgyzstan,1990,Medium,82.179,Central Asia,Asia,41.46387775,74.55247592
+417,Kyrgyzstan,1985,Medium,94.81299999999999,Central Asia,Asia,41.46387775,74.55247592
+417,Kyrgyzstan,1980,Medium,107.021,Central Asia,Asia,41.46387775,74.55247592
+417,Kyrgyzstan,1975,Medium,118.279,Central Asia,Asia,41.46387775,74.55247592
+418,Lao People's Democratic Republic,2020,Medium,48.323,South-eastern Asia,Asia,18.50518622,103.7662533
+418,Lao People's Democratic Republic,2015,Medium,60.455,South-eastern Asia,Asia,18.50518622,103.7662533
+418,Lao People's Democratic Republic,2010,Medium,76.959,South-eastern Asia,Asia,18.50518622,103.7662533
+418,Lao People's Democratic Republic,2005,Medium,96.444,South-eastern Asia,Asia,18.50518622,103.7662533
+418,Lao People's Democratic Republic,2000,Medium,117.209,South-eastern Asia,Asia,18.50518622,103.7662533
+418,Lao People's Democratic Republic,1995,Medium,140.382,South-eastern Asia,Asia,18.50518622,103.7662533
+418,Lao People's Democratic Republic,1990,Medium,157.375,South-eastern Asia,Asia,18.50518622,103.7662533
+418,Lao People's Democratic Republic,1985,Medium,179.42,South-eastern Asia,Asia,18.50518622,103.7662533
+418,Lao People's Democratic Republic,1980,Medium,193.245,South-eastern Asia,Asia,18.50518622,103.7662533
+418,Lao People's Democratic Republic,1975,Medium,205.842,South-eastern Asia,Asia,18.50518622,103.7662533
+428,Latvia,2020,Medium,5.468,Northern Europe,Europe,56.85765774,24.92335393
+428,Latvia,2015,Medium,6.97,Northern Europe,Europe,56.85765774,24.92335393
+428,Latvia,2010,Medium,9.359,Northern Europe,Europe,56.85765774,24.92335393
+428,Latvia,2005,Medium,12.315999999999999,Northern Europe,Europe,56.85765774,24.92335393
+428,Latvia,2000,Medium,19.111,Northern Europe,Europe,56.85765774,24.92335393
+428,Latvia,1995,Medium,21.441,Northern Europe,Europe,56.85765774,24.92335393
+428,Latvia,1990,Medium,18.523,Northern Europe,Europe,56.85765774,24.92335393
+428,Latvia,1985,Medium,23.535,Northern Europe,Europe,56.85765774,24.92335393
+428,Latvia,1980,Medium,27.815,Northern Europe,Europe,56.85765774,24.92335393
+428,Latvia,1975,Medium,24.706999999999997,Northern Europe,Europe,56.85765774,24.92335393
+422,Lebanon,2020,Medium,10.902999999999999,Western Asia,Asia,33.91995955,35.88513386
+422,Lebanon,2015,Medium,11.126,Western Asia,Asia,33.91995955,35.88513386
+422,Lebanon,2010,Medium,12.282,Western Asia,Asia,33.91995955,35.88513386
+422,Lebanon,2005,Medium,16.008,Western Asia,Asia,33.91995955,35.88513386
+422,Lebanon,2000,Medium,22.051,Western Asia,Asia,33.91995955,35.88513386
+422,Lebanon,1995,Medium,29.95,Western Asia,Asia,33.91995955,35.88513386
+422,Lebanon,1990,Medium,36.908,Western Asia,Asia,33.91995955,35.88513386
+422,Lebanon,1985,Medium,43.018,Western Asia,Asia,33.91995955,35.88513386
+422,Lebanon,1980,Medium,47.282,Western Asia,Asia,33.91995955,35.88513386
+422,Lebanon,1975,Medium,52.49100000000001,Western Asia,Asia,33.91995955,35.88513386
+426,Lesotho,2020,Medium,87.04899999999999,Sub-Saharan Africa,Africa,-29.58448841,28.24105147
+426,Lesotho,2015,Medium,96.414,Sub-Saharan Africa,Africa,-29.58448841,28.24105147
+426,Lesotho,2010,Medium,115.973,Sub-Saharan Africa,Africa,-29.58448841,28.24105147
+426,Lesotho,2005,Medium,121.675,Sub-Saharan Africa,Africa,-29.58448841,28.24105147
+426,Lesotho,2000,Medium,107.09100000000001,Sub-Saharan Africa,Africa,-29.58448841,28.24105147
+426,Lesotho,1995,Medium,90.786,Sub-Saharan Africa,Africa,-29.58448841,28.24105147
+426,Lesotho,1990,Medium,92.55,Sub-Saharan Africa,Africa,-29.58448841,28.24105147
+426,Lesotho,1985,Medium,110.059,Sub-Saharan Africa,Africa,-29.58448841,28.24105147
+426,Lesotho,1980,Medium,138.963,Sub-Saharan Africa,Africa,-29.58448841,28.24105147
+426,Lesotho,1975,Medium,166.546,Sub-Saharan Africa,Africa,-29.58448841,28.24105147
+430,Liberia,2020,Medium,74.095,Sub-Saharan Africa,Africa,6.445498409,-9.307443775
+430,Liberia,2015,Medium,86.345,Sub-Saharan Africa,Africa,6.445498409,-9.307443775
+430,Liberia,2010,Medium,107.449,Sub-Saharan Africa,Africa,6.445498409,-9.307443775
+430,Liberia,2005,Medium,152.914,Sub-Saharan Africa,Africa,6.445498409,-9.307443775
+430,Liberia,2000,Medium,212.96099999999998,Sub-Saharan Africa,Africa,6.445498409,-9.307443775
+430,Liberia,1995,Medium,257.939,Sub-Saharan Africa,Africa,6.445498409,-9.307443775
+430,Liberia,1990,Medium,246.481,Sub-Saharan Africa,Africa,6.445498409,-9.307443775
+430,Liberia,1985,Medium,230.722,Sub-Saharan Africa,Africa,6.445498409,-9.307443775
+430,Liberia,1980,Medium,245.58599999999998,Sub-Saharan Africa,Africa,6.445498409,-9.307443775
+430,Liberia,1975,Medium,266.135,Sub-Saharan Africa,Africa,6.445498409,-9.307443775
+434,Libya,2020,Medium,12.702,Northern Africa,Africa,27.04420762,18.02212777
+434,Libya,2015,Medium,15.659,Northern Africa,Africa,27.04420762,18.02212777
+434,Libya,2010,Medium,21.372,Northern Africa,Africa,27.04420762,18.02212777
+434,Libya,2005,Medium,25.59,Northern Africa,Africa,27.04420762,18.02212777
+434,Libya,2000,Medium,31.462,Northern Africa,Africa,27.04420762,18.02212777
+434,Libya,1995,Medium,39.226,Northern Africa,Africa,27.04420762,18.02212777
+434,Libya,1990,Medium,49.849,Northern Africa,Africa,27.04420762,18.02212777
+434,Libya,1985,Medium,62.961000000000006,Northern Africa,Africa,27.04420762,18.02212777
+434,Libya,1980,Medium,85.95200000000001,Northern Africa,Africa,27.04420762,18.02212777
+434,Libya,1975,Medium,118.87899999999999,Northern Africa,Africa,27.04420762,18.02212777
+440,Lithuania,2020,Medium,4.876,Northern Europe,Europe,55.3344892,23.90739502
+440,Lithuania,2015,Medium,5.416,Northern Europe,Europe,55.3344892,23.90739502
+440,Lithuania,2010,Medium,7.332999999999999,Northern Europe,Europe,55.3344892,23.90739502
+440,Lithuania,2005,Medium,9.835,Northern Europe,Europe,55.3344892,23.90739502
+440,Lithuania,2000,Medium,13.651,Northern Europe,Europe,55.3344892,23.90739502
+440,Lithuania,1995,Medium,19.56,Northern Europe,Europe,55.3344892,23.90739502
+440,Lithuania,1990,Medium,18.586,Northern Europe,Europe,55.3344892,23.90739502
+440,Lithuania,1985,Medium,22.75,Northern Europe,Europe,55.3344892,23.90739502
+440,Lithuania,1980,Medium,27.084,Northern Europe,Europe,55.3344892,23.90739502
+440,Lithuania,1975,Medium,26.709,Northern Europe,Europe,55.3344892,23.90739502
+442,Luxembourg,2020,Medium,3.514,Western Europe,Europe,49.77027091,6.08637699
+442,Luxembourg,2015,Medium,3.9160000000000004,Western Europe,Europe,49.77027091,6.08637699
+442,Luxembourg,2010,Medium,3.343,Western Europe,Europe,49.77027091,6.08637699
+442,Luxembourg,2005,Medium,6.087999999999999,Western Europe,Europe,49.77027091,6.08637699
+442,Luxembourg,2000,Medium,6.196000000000001,Western Europe,Europe,49.77027091,6.08637699
+442,Luxembourg,1995,Medium,8.783,Western Europe,Europe,49.77027091,6.08637699
+442,Luxembourg,1990,Medium,10.575,Western Europe,Europe,49.77027091,6.08637699
+442,Luxembourg,1985,Medium,14.325999999999999,Western Europe,Europe,49.77027091,6.08637699
+442,Luxembourg,1980,Medium,16.230999999999998,Western Europe,Europe,49.77027091,6.08637699
+442,Luxembourg,1975,Medium,21.764,Western Europe,Europe,49.77027091,6.08637699
+450,Madagascar,2020,Medium,43.191,Sub-Saharan Africa,Africa,-19.37969027,46.70406219
+450,Madagascar,2015,Medium,54.486999999999995,Sub-Saharan Africa,Africa,-19.37969027,46.70406219
+450,Madagascar,2010,Medium,67.395,Sub-Saharan Africa,Africa,-19.37969027,46.70406219
+450,Madagascar,2005,Medium,86.79799999999999,Sub-Saharan Africa,Africa,-19.37969027,46.70406219
+450,Madagascar,2000,Medium,117.137,Sub-Saharan Africa,Africa,-19.37969027,46.70406219
+450,Madagascar,1995,Medium,152.28799999999998,Sub-Saharan Africa,Africa,-19.37969027,46.70406219
+450,Madagascar,1990,Medium,170.43599999999998,Sub-Saharan Africa,Africa,-19.37969027,46.70406219
+450,Madagascar,1985,Medium,172.472,Sub-Saharan Africa,Africa,-19.37969027,46.70406219
+450,Madagascar,1980,Medium,193.422,Sub-Saharan Africa,Africa,-19.37969027,46.70406219
+450,Madagascar,1975,Medium,210.078,Sub-Saharan Africa,Africa,-19.37969027,46.70406219
+454,Malawi,2020,Medium,55.445,Sub-Saharan Africa,Africa,-13.21991287,34.31171876
+454,Malawi,2015,Medium,73.61,Sub-Saharan Africa,Africa,-13.21991287,34.31171876
+454,Malawi,2010,Medium,102.749,Sub-Saharan Africa,Africa,-13.21991287,34.31171876
+454,Malawi,2005,Medium,136.838,Sub-Saharan Africa,Africa,-13.21991287,34.31171876
+454,Malawi,2000,Medium,168.085,Sub-Saharan Africa,Africa,-13.21991287,34.31171876
+454,Malawi,1995,Medium,205.146,Sub-Saharan Africa,Africa,-13.21991287,34.31171876
+454,Malawi,1990,Medium,235.049,Sub-Saharan Africa,Africa,-13.21991287,34.31171876
+454,Malawi,1985,Medium,250.851,Sub-Saharan Africa,Africa,-13.21991287,34.31171876
+454,Malawi,1980,Medium,269.959,Sub-Saharan Africa,Africa,-13.21991287,34.31171876
+454,Malawi,1975,Medium,290.138,Sub-Saharan Africa,Africa,-13.21991287,34.31171876
+458,Malaysia,2020,Medium,6.968999999999999,South-eastern Asia,Asia,2.745185714,140.4915783
+458,Malaysia,2015,Medium,7.805,South-eastern Asia,Asia,2.745185714,140.4915783
+458,Malaysia,2010,Medium,8.78,South-eastern Asia,Asia,2.745185714,140.4915783
+458,Malaysia,2005,Medium,9.934,South-eastern Asia,Asia,2.745185714,140.4915783
+458,Malaysia,2000,Medium,11.948,South-eastern Asia,Asia,2.745185714,140.4915783
+458,Malaysia,1995,Medium,14.849,South-eastern Asia,Asia,2.745185714,140.4915783
+458,Malaysia,1990,Medium,18.875,South-eastern Asia,Asia,2.745185714,140.4915783
+458,Malaysia,1985,Medium,25.628,South-eastern Asia,Asia,2.745185714,140.4915783
+458,Malaysia,1980,Medium,36.265,South-eastern Asia,Asia,2.745185714,140.4915783
+458,Malaysia,1975,Medium,48.155,South-eastern Asia,Asia,2.745185714,140.4915783
+462,Maldives,2020,Medium,7.925,Southern Asia,Asia,5.068606213,73.32614511
+462,Maldives,2015,Medium,10.472000000000001,Southern Asia,Asia,5.068606213,73.32614511
+462,Maldives,2010,Medium,17.227,Southern Asia,Asia,5.068606213,73.32614511
+462,Maldives,2005,Medium,32.24,Southern Asia,Asia,5.068606213,73.32614511
+462,Maldives,2000,Medium,57.091,Southern Asia,Asia,5.068606213,73.32614511
+462,Maldives,1995,Medium,81.825,Southern Asia,Asia,5.068606213,73.32614511
+462,Maldives,1990,Medium,106.154,Southern Asia,Asia,5.068606213,73.32614511
+462,Maldives,1985,Medium,136.696,Southern Asia,Asia,5.068606213,73.32614511
+462,Maldives,1980,Medium,178.979,Southern Asia,Asia,5.068606213,73.32614511
+462,Maldives,1975,Medium,234.65599999999998,Southern Asia,Asia,5.068606213,73.32614511
+466,Mali,2020,Medium,105.43299999999999,Sub-Saharan Africa,Africa,17.34640627,-3.525051581
+466,Mali,2015,Medium,125.05799999999999,Sub-Saharan Africa,Africa,17.34640627,-3.525051581
+466,Mali,2010,Medium,152.516,Sub-Saharan Africa,Africa,17.34640627,-3.525051581
+466,Mali,2005,Medium,196.37900000000002,Sub-Saharan Africa,Africa,17.34640627,-3.525051581
+466,Mali,2000,Medium,232.11700000000002,Sub-Saharan Africa,Africa,17.34640627,-3.525051581
+466,Mali,1995,Medium,245.84799999999998,Sub-Saharan Africa,Africa,17.34640627,-3.525051581
+466,Mali,1990,Medium,267.656,Sub-Saharan Africa,Africa,17.34640627,-3.525051581
+466,Mali,1985,Medium,293.965,Sub-Saharan Africa,Africa,17.34640627,-3.525051581
+466,Mali,1980,Medium,325.671,Sub-Saharan Africa,Africa,17.34640627,-3.525051581
+466,Mali,1975,Medium,356.145,Sub-Saharan Africa,Africa,17.34640627,-3.525051581
+470,Malta,2020,Medium,5.596,Southern Europe,Europe,35.90417953,14.42365795
+470,Malta,2015,Medium,6.212999999999999,Southern Europe,Europe,35.90417953,14.42365795
+470,Malta,2010,Medium,6.447,Southern Europe,Europe,35.90417953,14.42365795
+470,Malta,2005,Medium,6.709,Southern Europe,Europe,35.90417953,14.42365795
+470,Malta,2000,Medium,8.033999999999999,Southern Europe,Europe,35.90417953,14.42365795
+470,Malta,1995,Medium,9.76,Southern Europe,Europe,35.90417953,14.42365795
+470,Malta,1990,Medium,11.394,Southern Europe,Europe,35.90417953,14.42365795
+470,Malta,1985,Medium,14.161,Southern Europe,Europe,35.90417953,14.42365795
+470,Malta,1980,Medium,17.133,Southern Europe,Europe,35.90417953,14.42365795
+470,Malta,1975,Medium,22.833000000000002,Southern Europe,Europe,35.90417953,14.42365795
+474,Martinique,2020,Medium,6.447,Latin America and the Caribbean,Americas,14.65403719,-61.02842534
+474,Martinique,2015,Medium,7.449,Latin America and the Caribbean,Americas,14.65403719,-61.02842534
+474,Martinique,2010,Medium,8.861,Latin America and the Caribbean,Americas,14.65403719,-61.02842534
+474,Martinique,2005,Medium,9.953,Latin America and the Caribbean,Americas,14.65403719,-61.02842534
+474,Martinique,2000,Medium,12.812000000000001,Latin America and the Caribbean,Americas,14.65403719,-61.02842534
+474,Martinique,1995,Medium,16.482,Latin America and the Caribbean,Americas,14.65403719,-61.02842534
+474,Martinique,1990,Medium,21.3,Latin America and the Caribbean,Americas,14.65403719,-61.02842534
+474,Martinique,1985,Medium,27.514,Latin America and the Caribbean,Americas,14.65403719,-61.02842534
+474,Martinique,1980,Medium,35.441,Latin America and the Caribbean,Americas,14.65403719,-61.02842534
+474,Martinique,1975,Medium,45.974,Latin America and the Caribbean,Americas,14.65403719,-61.02842534
+478,Mauritania,2020,Medium,78.825,Sub-Saharan Africa,Africa,20.25780429,-10.33010275
+478,Mauritania,2015,Medium,92.76299999999999,Sub-Saharan Africa,Africa,20.25780429,-10.33010275
+478,Mauritania,2010,Medium,104.85600000000001,Sub-Saharan Africa,Africa,20.25780429,-10.33010275
+478,Mauritania,2005,Medium,113.244,Sub-Saharan Africa,Africa,20.25780429,-10.33010275
+478,Mauritania,2000,Medium,114.08,Sub-Saharan Africa,Africa,20.25780429,-10.33010275
+478,Mauritania,1995,Medium,114.55,Sub-Saharan Africa,Africa,20.25780429,-10.33010275
+478,Mauritania,1990,Medium,125.12299999999999,Sub-Saharan Africa,Africa,20.25780429,-10.33010275
+478,Mauritania,1985,Medium,151.047,Sub-Saharan Africa,Africa,20.25780429,-10.33010275
+478,Mauritania,1980,Medium,173.86,Sub-Saharan Africa,Africa,20.25780429,-10.33010275
+478,Mauritania,1975,Medium,189.486,Sub-Saharan Africa,Africa,20.25780429,-10.33010275
+480,Mauritius,2020,Medium,13.179,Sub-Saharan Africa,Africa,-20.27530781,57.56676664
+480,Mauritius,2015,Medium,14.196,Sub-Saharan Africa,Africa,-20.27530781,57.56676664
+480,Mauritius,2010,Medium,15.237,Sub-Saharan Africa,Africa,-20.27530781,57.56676664
+480,Mauritius,2005,Medium,16.070999999999998,Sub-Saharan Africa,Africa,-20.27530781,57.56676664
+480,Mauritius,2000,Medium,21.69,Sub-Saharan Africa,Africa,-20.27530781,57.56676664
+480,Mauritius,1995,Medium,21.178,Sub-Saharan Africa,Africa,-20.27530781,57.56676664
+480,Mauritius,1990,Medium,26.813000000000002,Sub-Saharan Africa,Africa,-20.27530781,57.56676664
+480,Mauritius,1985,Medium,31.247,Sub-Saharan Africa,Africa,-20.27530781,57.56676664
+480,Mauritius,1980,Medium,46.701,Sub-Saharan Africa,Africa,-20.27530781,57.56676664
+480,Mauritius,1975,Medium,84.387,Sub-Saharan Africa,Africa,-20.27530781,57.56676664
+175,Mayotte,2020,Medium,4.811,Sub-Saharan Africa,Africa,-12.81970382,45.13516865
+175,Mayotte,2015,Medium,4.811,Sub-Saharan Africa,Africa,-12.81970382,45.13516865
+175,Mayotte,2010,Medium,6.55,Sub-Saharan Africa,Africa,-12.81970382,45.13516865
+175,Mayotte,2005,Medium,8.981,Sub-Saharan Africa,Africa,-12.81970382,45.13516865
+175,Mayotte,2000,Medium,12.322000000000001,Sub-Saharan Africa,Africa,-12.81970382,45.13516865
+175,Mayotte,1995,Medium,16.916,Sub-Saharan Africa,Africa,-12.81970382,45.13516865
+175,Mayotte,1990,Medium,23.224,Sub-Saharan Africa,Africa,-12.81970382,45.13516865
+175,Mayotte,1985,Medium,31.885,Sub-Saharan Africa,Africa,-12.81970382,45.13516865
+175,Mayotte,1980,Medium,43.762,Sub-Saharan Africa,Africa,-12.81970382,45.13516865
+175,Mayotte,1975,Medium,60.021,Sub-Saharan Africa,Africa,-12.81970382,45.13516865
+484,Mexico,2020,Medium,15.562999999999999,Latin America and the Caribbean,Americas,23.93832004,-102.5023164
+484,Mexico,2015,Medium,17.515,Latin America and the Caribbean,Americas,23.93832004,-102.5023164
+484,Mexico,2010,Medium,19.758,Latin America and the Caribbean,Americas,23.93832004,-102.5023164
+484,Mexico,2005,Medium,23.096999999999998,Latin America and the Caribbean,Americas,23.93832004,-102.5023164
+484,Mexico,2000,Medium,28.803,Latin America and the Caribbean,Americas,23.93832004,-102.5023164
+484,Mexico,1995,Medium,40.336999999999996,Latin America and the Caribbean,Americas,23.93832004,-102.5023164
+484,Mexico,1990,Medium,48.403999999999996,Latin America and the Caribbean,Americas,23.93832004,-102.5023164
+484,Mexico,1985,Medium,57.255,Latin America and the Caribbean,Americas,23.93832004,-102.5023164
+484,Mexico,1980,Medium,73.764,Latin America and the Caribbean,Americas,23.93832004,-102.5023164
+484,Mexico,1975,Medium,98.149,Latin America and the Caribbean,Americas,23.93832004,-102.5023164
+583,Micronesia (Fed. States of),2020,Medium,31.941999999999997,Micronesia,Oceania,6.879864281,158.2381178
+583,Micronesia (Fed. States of),2015,Medium,37.062,Micronesia,Oceania,6.879864281,158.2381178
+583,Micronesia (Fed. States of),2010,Medium,43.544,Micronesia,Oceania,6.879864281,158.2381178
+583,Micronesia (Fed. States of),2005,Medium,50.456,Micronesia,Oceania,6.879864281,158.2381178
+583,Micronesia (Fed. States of),2000,Medium,54.9,Micronesia,Oceania,6.879864281,158.2381178
+583,Micronesia (Fed. States of),1995,Medium,54.869,Micronesia,Oceania,6.879864281,158.2381178
+583,Micronesia (Fed. States of),1990,Medium,56.985,Micronesia,Oceania,6.879864281,158.2381178
+583,Micronesia (Fed. States of),1985,Medium,57.973,Micronesia,Oceania,6.879864281,158.2381178
+583,Micronesia (Fed. States of),1980,Medium,64.893,Micronesia,Oceania,6.879864281,158.2381178
+583,Micronesia (Fed. States of),1975,Medium,79.214,Micronesia,Oceania,6.879864281,158.2381178
+496,Mongolia,2020,Medium,22.366999999999997,Eastern Asia,Asia,46.83576732,103.0813238
+496,Mongolia,2015,Medium,28.096,Eastern Asia,Asia,46.83576732,103.0813238
+496,Mongolia,2010,Medium,36.977,Eastern Asia,Asia,46.83576732,103.0813238
+496,Mongolia,2005,Medium,49.373999999999995,Eastern Asia,Asia,46.83576732,103.0813238
+496,Mongolia,2000,Medium,70.736,Eastern Asia,Asia,46.83576732,103.0813238
+496,Mongolia,1995,Medium,91.31,Eastern Asia,Asia,46.83576732,103.0813238
+496,Mongolia,1990,Medium,136.125,Eastern Asia,Asia,46.83576732,103.0813238
+496,Mongolia,1985,Medium,154.501,Eastern Asia,Asia,46.83576732,103.0813238
+496,Mongolia,1980,Medium,158.339,Eastern Asia,Asia,46.83576732,103.0813238
+496,Mongolia,1975,Medium,161.865,Eastern Asia,Asia,46.83576732,103.0813238
+499,Montenegro,2020,Medium,3.198,Southern Europe,Europe,42.78905871,19.26989732
+499,Montenegro,2015,Medium,5.186,Southern Europe,Europe,42.78905871,19.26989732
+499,Montenegro,2010,Medium,11.757,Southern Europe,Europe,42.78905871,19.26989732
+499,Montenegro,2005,Medium,12.684000000000001,Southern Europe,Europe,42.78905871,19.26989732
+499,Montenegro,2000,Medium,12.692,Southern Europe,Europe,42.78905871,19.26989732
+499,Montenegro,1995,Medium,20.293,Southern Europe,Europe,42.78905871,19.26989732
+499,Montenegro,1990,Medium,24.221999999999998,Southern Europe,Europe,42.78905871,19.26989732
+499,Montenegro,1985,Medium,28.916999999999998,Southern Europe,Europe,42.78905871,19.26989732
+499,Montenegro,1980,Medium,31.936,Southern Europe,Europe,42.78905871,19.26989732
+499,Montenegro,1975,Medium,36.978,Southern Europe,Europe,42.78905871,19.26989732
+504,Morocco,2020,Medium,23.397,Northern Africa,Africa,31.8836769,-6.317283613
+504,Morocco,2015,Medium,28.534000000000002,Northern Africa,Africa,31.8836769,-6.317283613
+504,Morocco,2010,Medium,32.857,Northern Africa,Africa,31.8836769,-6.317283613
+504,Morocco,2005,Medium,45.271,Northern Africa,Africa,31.8836769,-6.317283613
+504,Morocco,2000,Medium,55.167,Northern Africa,Africa,31.8836769,-6.317283613
+504,Morocco,1995,Medium,68.181,Northern Africa,Africa,31.8836769,-6.317283613
+504,Morocco,1990,Medium,89.398,Northern Africa,Africa,31.8836769,-6.317283613
+504,Morocco,1985,Medium,118.081,Northern Africa,Africa,31.8836769,-6.317283613
+504,Morocco,1980,Medium,150.279,Northern Africa,Africa,31.8836769,-6.317283613
+504,Morocco,1975,Medium,171.02900000000002,Northern Africa,Africa,31.8836769,-6.317283613
+508,Mozambique,2020,Medium,73.25,Sub-Saharan Africa,Africa,-17.2617763,35.55202528
+508,Mozambique,2015,Medium,89.999,Sub-Saharan Africa,Africa,-17.2617763,35.55202528
+508,Mozambique,2010,Medium,117.352,Sub-Saharan Africa,Africa,-17.2617763,35.55202528
+508,Mozambique,2005,Medium,150.965,Sub-Saharan Africa,Africa,-17.2617763,35.55202528
+508,Mozambique,2000,Medium,193.38,Sub-Saharan Africa,Africa,-17.2617763,35.55202528
+508,Mozambique,1995,Medium,228.933,Sub-Saharan Africa,Africa,-17.2617763,35.55202528
+508,Mozambique,1990,Medium,246.611,Sub-Saharan Africa,Africa,-17.2617763,35.55202528
+508,Mozambique,1985,Medium,258.63,Sub-Saharan Africa,Africa,-17.2617763,35.55202528
+508,Mozambique,1980,Medium,263.16200000000003,Sub-Saharan Africa,Africa,-17.2617763,35.55202528
+508,Mozambique,1975,Medium,269.874,Sub-Saharan Africa,Africa,-17.2617763,35.55202528
+104,Myanmar,2020,Medium,48.059,South-eastern Asia,Asia,21.17952353,96.50232755
+104,Myanmar,2015,Medium,56.622,South-eastern Asia,Asia,21.17952353,96.50232755
+104,Myanmar,2010,Medium,68.232,South-eastern Asia,Asia,21.17952353,96.50232755
+104,Myanmar,2005,Medium,77.423,South-eastern Asia,Asia,21.17952353,96.50232755
+104,Myanmar,2000,Medium,88.85700000000001,South-eastern Asia,Asia,21.17952353,96.50232755
+104,Myanmar,1995,Medium,100.706,South-eastern Asia,Asia,21.17952353,96.50232755
+104,Myanmar,1990,Medium,113.98299999999999,South-eastern Asia,Asia,21.17952353,96.50232755
+104,Myanmar,1985,Medium,128.418,South-eastern Asia,Asia,21.17952353,96.50232755
+104,Myanmar,1980,Medium,144.266,South-eastern Asia,Asia,21.17952353,96.50232755
+104,Myanmar,1975,Medium,161.884,South-eastern Asia,Asia,21.17952353,96.50232755
+516,Namibia,2020,Medium,44.552,Sub-Saharan Africa,Africa,-22.13362728,17.21558466
+516,Namibia,2015,Medium,50.754,Sub-Saharan Africa,Africa,-22.13362728,17.21558466
+516,Namibia,2010,Medium,60.29,Sub-Saharan Africa,Africa,-22.13362728,17.21558466
+516,Namibia,2005,Medium,75.206,Sub-Saharan Africa,Africa,-22.13362728,17.21558466
+516,Namibia,2000,Medium,72.993,Sub-Saharan Africa,Africa,-22.13362728,17.21558466
+516,Namibia,1995,Medium,70.027,Sub-Saharan Africa,Africa,-22.13362728,17.21558466
+516,Namibia,1990,Medium,78.768,Sub-Saharan Africa,Africa,-22.13362728,17.21558466
+516,Namibia,1985,Medium,100.87799999999999,Sub-Saharan Africa,Africa,-22.13362728,17.21558466
+516,Namibia,1980,Medium,112.78,Sub-Saharan Africa,Africa,-22.13362728,17.21558466
+516,Namibia,1975,Medium,133.791,Sub-Saharan Africa,Africa,-22.13362728,17.21558466
+524,Nepal,2020,Medium,33.626999999999995,Southern Asia,Asia,28.25396507,83.9316657
+524,Nepal,2015,Medium,41.486999999999995,Southern Asia,Asia,28.25396507,83.9316657
+524,Nepal,2010,Medium,53.941,Southern Asia,Asia,28.25396507,83.9316657
+524,Nepal,2005,Medium,71.013,Southern Asia,Asia,28.25396507,83.9316657
+524,Nepal,2000,Medium,94.20299999999999,Southern Asia,Asia,28.25396507,83.9316657
+524,Nepal,1995,Medium,123.494,Southern Asia,Asia,28.25396507,83.9316657
+524,Nepal,1990,Medium,158.168,Southern Asia,Asia,28.25396507,83.9316657
+524,Nepal,1985,Medium,191.97799999999998,Southern Asia,Asia,28.25396507,83.9316657
+524,Nepal,1980,Medium,223.09099999999998,Southern Asia,Asia,28.25396507,83.9316657
+524,Nepal,1975,Medium,250.475,Southern Asia,Asia,28.25396507,83.9316657
+528,Netherlands,2020,Medium,2.972,Western Europe,Europe,52.26998137,5.675062933
+528,Netherlands,2015,Medium,4.138,Western Europe,Europe,52.26998137,5.675062933
+528,Netherlands,2010,Medium,4.907,Western Europe,Europe,52.26998137,5.675062933
+528,Netherlands,2005,Medium,5.862,Western Europe,Europe,52.26998137,5.675062933
+528,Netherlands,2000,Medium,6.443,Western Europe,Europe,52.26998137,5.675062933
+528,Netherlands,1995,Medium,7.58,Western Europe,Europe,52.26998137,5.675062933
+528,Netherlands,1990,Medium,9.004,Western Europe,Europe,52.26998137,5.675062933
+528,Netherlands,1985,Medium,10.264000000000001,Western Europe,Europe,52.26998137,5.675062933
+528,Netherlands,1980,Medium,11.905,Western Europe,Europe,52.26998137,5.675062933
+528,Netherlands,1975,Medium,14.34,Western Europe,Europe,52.26998137,5.675062933
+540,New Caledonia,2020,Medium,13.325999999999999,Melanesia,Oceania,-21.33942425,165.2996228
+540,New Caledonia,2015,Medium,15.085999999999999,Melanesia,Oceania,-21.33942425,165.2996228
+540,New Caledonia,2010,Medium,17.551,Melanesia,Oceania,-21.33942425,165.2996228
+540,New Caledonia,2005,Medium,20.248,Melanesia,Oceania,-21.33942425,165.2996228
+540,New Caledonia,2000,Medium,24.21,Melanesia,Oceania,-21.33942425,165.2996228
+540,New Caledonia,1995,Medium,28.948,Melanesia,Oceania,-21.33942425,165.2996228
+540,New Caledonia,1990,Medium,35.393,Melanesia,Oceania,-21.33942425,165.2996228
+540,New Caledonia,1985,Medium,44.227,Melanesia,Oceania,-21.33942425,165.2996228
+540,New Caledonia,1980,Medium,56.118,Melanesia,Oceania,-21.33942425,165.2996228
+540,New Caledonia,1975,Medium,70.962,Melanesia,Oceania,-21.33942425,165.2996228
+554,New Zealand,2020,Medium,4.57,Australia and New Zealand,Oceania,-56.5161571,161.1190313
+554,New Zealand,2015,Medium,5.267,Australia and New Zealand,Oceania,-56.5161571,161.1190313
+554,New Zealand,2010,Medium,6.144,Australia and New Zealand,Oceania,-56.5161571,161.1190313
+554,New Zealand,2005,Medium,6.687,Australia and New Zealand,Oceania,-56.5161571,161.1190313
+554,New Zealand,2000,Medium,7.733,Australia and New Zealand,Oceania,-56.5161571,161.1190313
+554,New Zealand,1995,Medium,9.107999999999999,Australia and New Zealand,Oceania,-56.5161571,161.1190313
+554,New Zealand,1990,Medium,12.757,Australia and New Zealand,Oceania,-56.5161571,161.1190313
+554,New Zealand,1985,Medium,14.352,Australia and New Zealand,Oceania,-56.5161571,161.1190313
+554,New Zealand,1980,Medium,16.643,Australia and New Zealand,Oceania,-56.5161571,161.1190313
+554,New Zealand,1975,Medium,19.654,Australia and New Zealand,Oceania,-56.5161571,161.1190313
+558,Nicaragua,2020,Medium,20.244,Latin America and the Caribbean,Americas,12.83712778,-85.03655572
+558,Nicaragua,2015,Medium,21.574,Latin America and the Caribbean,Americas,12.83712778,-85.03655572
+558,Nicaragua,2010,Medium,27.767,Latin America and the Caribbean,Americas,12.83712778,-85.03655572
+558,Nicaragua,2005,Medium,32.169000000000004,Latin America and the Caribbean,Americas,12.83712778,-85.03655572
+558,Nicaragua,2000,Medium,43.805,Latin America and the Caribbean,Americas,12.83712778,-85.03655572
+558,Nicaragua,1995,Medium,61.77,Latin America and the Caribbean,Americas,12.83712778,-85.03655572
+558,Nicaragua,1990,Medium,90.041,Latin America and the Caribbean,Americas,12.83712778,-85.03655572
+558,Nicaragua,1985,Medium,117.295,Latin America and the Caribbean,Americas,12.83712778,-85.03655572
+558,Nicaragua,1980,Medium,137.599,Latin America and the Caribbean,Americas,12.83712778,-85.03655572
+558,Nicaragua,1975,Medium,150.839,Latin America and the Caribbean,Americas,12.83712778,-85.03655572
+562,Niger,2020,Medium,84.64,Sub-Saharan Africa,Africa,17.42463558,9.397470038
+562,Niger,2015,Medium,110.14299999999999,Sub-Saharan Africa,Africa,17.42463558,9.397470038
+562,Niger,2010,Medium,144.42,Sub-Saharan Africa,Africa,17.42463558,9.397470038
+562,Niger,2005,Medium,193.93,Sub-Saharan Africa,Africa,17.42463558,9.397470038
+562,Niger,2000,Medium,241.857,Sub-Saharan Africa,Africa,17.42463558,9.397470038
+562,Niger,1995,Medium,293.312,Sub-Saharan Africa,Africa,17.42463558,9.397470038
+562,Niger,1990,Medium,319.389,Sub-Saharan Africa,Africa,17.42463558,9.397470038
+562,Niger,1985,Medium,313.51599999999996,Sub-Saharan Africa,Africa,17.42463558,9.397470038
+562,Niger,1980,Medium,323.29200000000003,Sub-Saharan Africa,Africa,17.42463558,9.397470038
+562,Niger,1975,Medium,325.155,Sub-Saharan Africa,Africa,17.42463558,9.397470038
+566,Nigeria,2020,Medium,101.73899999999999,Sub-Saharan Africa,Africa,9.590667555,8.10605344
+566,Nigeria,2015,Medium,120.99799999999999,Sub-Saharan Africa,Africa,9.590667555,8.10605344
+566,Nigeria,2010,Medium,141.917,Sub-Saharan Africa,Africa,9.590667555,8.10605344
+566,Nigeria,2005,Medium,171.688,Sub-Saharan Africa,Africa,9.590667555,8.10605344
+566,Nigeria,2000,Medium,200.361,Sub-Saharan Africa,Africa,9.590667555,8.10605344
+566,Nigeria,1995,Medium,213.176,Sub-Saharan Africa,Africa,9.590667555,8.10605344
+566,Nigeria,1990,Medium,212.463,Sub-Saharan Africa,Africa,9.590667555,8.10605344
+566,Nigeria,1985,Medium,211.817,Sub-Saharan Africa,Africa,9.590667555,8.10605344
+566,Nigeria,1980,Medium,227.548,Sub-Saharan Africa,Africa,9.590667555,8.10605344
+566,Nigeria,1975,Medium,248.77700000000002,Sub-Saharan Africa,Africa,9.590667555,8.10605344
+807,North Macedonia,2020,Medium,11.817,Southern Europe,Europe,41.59654823,21.69480535
+807,North Macedonia,2015,Medium,9.946,Southern Europe,Europe,41.59654823,21.69480535
+807,North Macedonia,2010,Medium,12.071,Southern Europe,Europe,41.59654823,21.69480535
+807,North Macedonia,2005,Medium,13.618,Southern Europe,Europe,41.59654823,21.69480535
+807,North Macedonia,2000,Medium,19.845,Southern Europe,Europe,41.59654823,21.69480535
+807,North Macedonia,1995,Medium,29.451,Southern Europe,Europe,41.59654823,21.69480535
+807,North Macedonia,1990,Medium,43.773,Southern Europe,Europe,41.59654823,21.69480535
+807,North Macedonia,1985,Medium,56.033,Southern Europe,Europe,41.59654823,21.69480535
+807,North Macedonia,1980,Medium,67.45,Southern Europe,Europe,41.59654823,21.69480535
+807,North Macedonia,1975,Medium,74.83,Southern Europe,Europe,41.59654823,21.69480535
+578,Norway,2020,Medium,2.478,Northern Europe,Europe,64.41197955,14.06269622
+578,Norway,2015,Medium,2.945,Northern Europe,Europe,64.41197955,14.06269622
+578,Norway,2010,Medium,3.658,Northern Europe,Europe,64.41197955,14.06269622
+578,Norway,2005,Medium,4.418,Northern Europe,Europe,64.41197955,14.06269622
+578,Norway,2000,Medium,5.11,Northern Europe,Europe,64.41197955,14.06269622
+578,Norway,1995,Medium,6.944,Northern Europe,Europe,64.41197955,14.06269622
+578,Norway,1990,Medium,9.761000000000001,Northern Europe,Europe,64.41197955,14.06269622
+578,Norway,1985,Medium,9.93,Northern Europe,Europe,64.41197955,14.06269622
+578,Norway,1980,Medium,11.322000000000001,Northern Europe,Europe,64.41197955,14.06269622
+578,Norway,1975,Medium,14.425,Northern Europe,Europe,64.41197955,14.06269622
+512,Oman,2020,Medium,8.394,Western Asia,Asia,20.53707855,56.1036955
+512,Oman,2015,Medium,11.209000000000001,Western Asia,Asia,20.53707855,56.1036955
+512,Oman,2010,Medium,11.828,Western Asia,Asia,20.53707855,56.1036955
+512,Oman,2005,Medium,17.909000000000002,Western Asia,Asia,20.53707855,56.1036955
+512,Oman,2000,Medium,27.118000000000002,Western Asia,Asia,20.53707855,56.1036955
+512,Oman,1995,Medium,40.148,Western Asia,Asia,20.53707855,56.1036955
+512,Oman,1990,Medium,57.16,Western Asia,Asia,20.53707855,56.1036955
+512,Oman,1985,Medium,84.24600000000001,Western Asia,Asia,20.53707855,56.1036955
+512,Oman,1980,Medium,122.105,Western Asia,Asia,20.53707855,56.1036955
+512,Oman,1975,Medium,168.433,Western Asia,Asia,20.53707855,56.1036955
+586,Pakistan,2020,Medium,74.895,Southern Asia,Asia,29.35468377,68.78655545
+586,Pakistan,2015,Medium,84.295,Southern Asia,Asia,29.35468377,68.78655545
+586,Pakistan,2010,Medium,94.81700000000001,Southern Asia,Asia,29.35468377,68.78655545
+586,Pakistan,2005,Medium,105.236,Southern Asia,Asia,29.35468377,68.78655545
+586,Pakistan,2000,Medium,118.01700000000001,Southern Asia,Asia,29.35468377,68.78655545
+586,Pakistan,1995,Medium,131.376,Southern Asia,Asia,29.35468377,68.78655545
+586,Pakistan,1990,Medium,144.14600000000002,Southern Asia,Asia,29.35468377,68.78655545
+586,Pakistan,1985,Medium,157.071,Southern Asia,Asia,29.35468377,68.78655545
+586,Pakistan,1980,Medium,168.919,Southern Asia,Asia,29.35468377,68.78655545
+586,Pakistan,1975,Medium,182.405,Southern Asia,Asia,29.35468377,68.78655545
+591,Panama,2020,Medium,18.519000000000002,Latin America and the Caribbean,Americas,8.518057314,-80.07104511
+591,Panama,2015,Medium,20.517,Latin America and the Caribbean,Americas,8.518057314,-80.07104511
+591,Panama,2010,Medium,22.826999999999998,Latin America and the Caribbean,Americas,8.518057314,-80.07104511
+591,Panama,2005,Medium,26.605999999999998,Latin America and the Caribbean,Americas,8.518057314,-80.07104511
+591,Panama,2000,Medium,30.037,Latin America and the Caribbean,Americas,8.518057314,-80.07104511
+591,Panama,1995,Medium,33.117,Latin America and the Caribbean,Americas,8.518057314,-80.07104511
+591,Panama,1990,Medium,37.72,Latin America and the Caribbean,Americas,8.518057314,-80.07104511
+591,Panama,1985,Medium,45.038999999999994,Latin America and the Caribbean,Americas,8.518057314,-80.07104511
+591,Panama,1980,Medium,53.43899999999999,Latin America and the Caribbean,Americas,8.518057314,-80.07104511
+591,Panama,1975,Medium,68.003,Latin America and the Caribbean,Americas,8.518057314,-80.07104511
+598,Papua New Guinea,2020,Medium,53.011,Melanesia,Oceania,-6.834760878,143.0464597
+598,Papua New Guinea,2015,Medium,61.876999999999995,Melanesia,Oceania,-6.834760878,143.0464597
+598,Papua New Guinea,2010,Medium,70.673,Melanesia,Oceania,-6.834760878,143.0464597
+598,Papua New Guinea,2005,Medium,76.068,Melanesia,Oceania,-6.834760878,143.0464597
+598,Papua New Guinea,2000,Medium,79.637,Melanesia,Oceania,-6.834760878,143.0464597
+598,Papua New Guinea,1995,Medium,84.475,Melanesia,Oceania,-6.834760878,143.0464597
+598,Papua New Guinea,1990,Medium,91.16799999999999,Melanesia,Oceania,-6.834760878,143.0464597
+598,Papua New Guinea,1985,Medium,99.955,Melanesia,Oceania,-6.834760878,143.0464597
+598,Papua New Guinea,1980,Medium,112.875,Melanesia,Oceania,-6.834760878,143.0464597
+598,Papua New Guinea,1975,Medium,131.079,Melanesia,Oceania,-6.834760878,143.0464597
+600,Paraguay,2020,Medium,21.487,Latin America and the Caribbean,Americas,-23.23840821,-58.39126243
+600,Paraguay,2015,Medium,24.476999999999997,Latin America and the Caribbean,Americas,-23.23840821,-58.39126243
+600,Paraguay,2010,Medium,28.448,Latin America and the Caribbean,Americas,-23.23840821,-58.39126243
+600,Paraguay,2005,Medium,32.900999999999996,Latin America and the Caribbean,Americas,-23.23840821,-58.39126243
+600,Paraguay,2000,Medium,36.38,Latin America and the Caribbean,Americas,-23.23840821,-58.39126243
+600,Paraguay,1995,Medium,41.318000000000005,Latin America and the Caribbean,Americas,-23.23840821,-58.39126243
+600,Paraguay,1990,Medium,50.144,Latin America and the Caribbean,Americas,-23.23840821,-58.39126243
+600,Paraguay,1985,Medium,58.981,Latin America and the Caribbean,Americas,-23.23840821,-58.39126243
+600,Paraguay,1980,Medium,68.467,Latin America and the Caribbean,Americas,-23.23840821,-58.39126243
+600,Paraguay,1975,Medium,75.02600000000001,Latin America and the Caribbean,Americas,-23.23840821,-58.39126243
+604,Peru,2020,Medium,16.242,Latin America and the Caribbean,Americas,-9.167216491,-74.37537796
+604,Peru,2015,Medium,18.090999999999998,Latin America and the Caribbean,Americas,-9.167216491,-74.37537796
+604,Peru,2010,Medium,23.249000000000002,Latin America and the Caribbean,Americas,-9.167216491,-74.37537796
+604,Peru,2005,Medium,32.091,Latin America and the Caribbean,Americas,-9.167216491,-74.37537796
+604,Peru,2000,Medium,47.656000000000006,Latin America and the Caribbean,Americas,-9.167216491,-74.37537796
+604,Peru,1995,Medium,68.70100000000001,Latin America and the Caribbean,Americas,-9.167216491,-74.37537796
+604,Peru,1990,Medium,93.962,Latin America and the Caribbean,Americas,-9.167216491,-74.37537796
+604,Peru,1985,Medium,115.814,Latin America and the Caribbean,Americas,-9.167216491,-74.37537796
+604,Peru,1980,Medium,138.938,Latin America and the Caribbean,Americas,-9.167216491,-74.37537796
+604,Peru,1975,Medium,157.2,Latin America and the Caribbean,Americas,-9.167216491,-74.37537796
+608,Philippines,2020,Medium,27.678,South-eastern Asia,Asia,-0.736653675,127.2358509
+608,Philippines,2015,Medium,30.164,South-eastern Asia,Asia,-0.736653675,127.2358509
+608,Philippines,2010,Medium,32.724000000000004,South-eastern Asia,Asia,-0.736653675,127.2358509
+608,Philippines,2005,Medium,36.482,South-eastern Asia,Asia,-0.736653675,127.2358509
+608,Philippines,2000,Medium,41.555,South-eastern Asia,Asia,-0.736653675,127.2358509
+608,Philippines,1995,Medium,50.593,South-eastern Asia,Asia,-0.736653675,127.2358509
+608,Philippines,1990,Medium,65.957,South-eastern Asia,Asia,-0.736653675,127.2358509
+608,Philippines,1985,Medium,77.125,South-eastern Asia,Asia,-0.736653675,127.2358509
+608,Philippines,1980,Medium,81.437,South-eastern Asia,Asia,-0.736653675,127.2358509
+608,Philippines,1975,Medium,82.602,South-eastern Asia,Asia,-0.736653675,127.2358509
+616,Poland,2020,Medium,3.852,Eastern Europe,Europe,52.12847492,19.40086
+616,Poland,2015,Medium,5.117,Eastern Europe,Europe,52.12847492,19.40086
+616,Poland,2010,Medium,6.627000000000001,Eastern Europe,Europe,52.12847492,19.40086
+616,Poland,2005,Medium,8.238,Eastern Europe,Europe,52.12847492,19.40086
+616,Poland,2000,Medium,11.630999999999998,Eastern Europe,Europe,52.12847492,19.40086
+616,Poland,1995,Medium,18.382,Eastern Europe,Europe,52.12847492,19.40086
+616,Poland,1990,Medium,22.71,Eastern Europe,Europe,52.12847492,19.40086
+616,Poland,1985,Medium,26.424,Eastern Europe,Europe,52.12847492,19.40086
+616,Poland,1980,Medium,30.412,Eastern Europe,Europe,52.12847492,19.40086
+616,Poland,1975,Medium,35.389,Eastern Europe,Europe,52.12847492,19.40086
+620,Portugal,2020,Medium,3.398,Southern Europe,Europe,39.23901506,-30.21832194
+620,Portugal,2015,Medium,3.61,Southern Europe,Europe,39.23901506,-30.21832194
+620,Portugal,2010,Medium,4.157,Southern Europe,Europe,39.23901506,-30.21832194
+620,Portugal,2005,Medium,5.822,Southern Europe,Europe,39.23901506,-30.21832194
+620,Portugal,2000,Medium,8.35,Southern Europe,Europe,39.23901506,-30.21832194
+620,Portugal,1995,Medium,11.797,Southern Europe,Europe,39.23901506,-30.21832194
+620,Portugal,1990,Medium,17.404,Southern Europe,Europe,39.23901506,-30.21832194
+620,Portugal,1985,Medium,23.791999999999998,Southern Europe,Europe,39.23901506,-30.21832194
+620,Portugal,1980,Medium,35.76,Southern Europe,Europe,39.23901506,-30.21832194
+620,Portugal,1975,Medium,55.49100000000001,Southern Europe,Europe,39.23901506,-30.21832194
+630,Puerto Rico,2020,Medium,5.896,Latin America and the Caribbean,Americas,18.22412124,-66.47814528
+630,Puerto Rico,2015,Medium,6.931,Latin America and the Caribbean,Americas,18.22412124,-66.47814528
+630,Puerto Rico,2010,Medium,8.323,Latin America and the Caribbean,Americas,18.22412124,-66.47814528
+630,Puerto Rico,2005,Medium,9.722999999999999,Latin America and the Caribbean,Americas,18.22412124,-66.47814528
+630,Puerto Rico,2000,Medium,12.985999999999999,Latin America and the Caribbean,Americas,18.22412124,-66.47814528
+630,Puerto Rico,1995,Medium,13.677999999999999,Latin America and the Caribbean,Americas,18.22412124,-66.47814528
+630,Puerto Rico,1990,Medium,16.15,Latin America and the Caribbean,Americas,18.22412124,-66.47814528
+630,Puerto Rico,1985,Medium,19.956,Latin America and the Caribbean,Americas,18.22412124,-66.47814528
+630,Puerto Rico,1980,Medium,22.723000000000003,Latin America and the Caribbean,Americas,18.22412124,-66.47814528
+630,Puerto Rico,1975,Medium,29.419,Latin America and the Caribbean,Americas,18.22412124,-66.47814528
+634,Qatar,2020,Medium,7.559,Western Asia,Asia,25.29089005,51.1841661
+634,Qatar,2015,Medium,8.572000000000001,Western Asia,Asia,25.29089005,51.1841661
+634,Qatar,2010,Medium,9.675,Western Asia,Asia,25.29089005,51.1841661
+634,Qatar,2005,Medium,11.378,Western Asia,Asia,25.29089005,51.1841661
+634,Qatar,2000,Medium,13.798,Western Asia,Asia,25.29089005,51.1841661
+634,Qatar,1995,Medium,17.785,Western Asia,Asia,25.29089005,51.1841661
+634,Qatar,1990,Medium,24.545,Western Asia,Asia,25.29089005,51.1841661
+634,Qatar,1985,Medium,32.181,Western Asia,Asia,25.29089005,51.1841661
+634,Qatar,1980,Medium,41.503,Western Asia,Asia,25.29089005,51.1841661
+634,Qatar,1975,Medium,56.24,Western Asia,Asia,25.29089005,51.1841661
+410,Republic of Korea,2020,Medium,2.614,Eastern Asia,Asia,36.52377792,127.8821461
+410,Republic of Korea,2015,Medium,3.7289999999999996,Eastern Asia,Asia,36.52377792,127.8821461
+410,Republic of Korea,2010,Medium,4.544,Eastern Asia,Asia,36.52377792,127.8821461
+410,Republic of Korea,2005,Medium,6.5120000000000005,Eastern Asia,Asia,36.52377792,127.8821461
+410,Republic of Korea,2000,Medium,9.086,Eastern Asia,Asia,36.52377792,127.8821461
+410,Republic of Korea,1995,Medium,13.630999999999998,Eastern Asia,Asia,36.52377792,127.8821461
+410,Republic of Korea,1990,Medium,20.686999999999998,Eastern Asia,Asia,36.52377792,127.8821461
+410,Republic of Korea,1985,Medium,33.193000000000005,Eastern Asia,Asia,36.52377792,127.8821461
+410,Republic of Korea,1980,Medium,44.225,Eastern Asia,Asia,36.52377792,127.8821461
+410,Republic of Korea,1975,Medium,50.931000000000004,Eastern Asia,Asia,36.52377792,127.8821461
+498,Republic of Moldova,2020,Medium,14.413,Eastern Europe,Europe,47.19293174,28.47499987
+498,Republic of Moldova,2015,Medium,16.482,Eastern Europe,Europe,47.19293174,28.47499987
+498,Republic of Moldova,2010,Medium,19.242,Eastern Europe,Europe,47.19293174,28.47499987
+498,Republic of Moldova,2005,Medium,23.21,Eastern Europe,Europe,47.19293174,28.47499987
+498,Republic of Moldova,2000,Medium,30.324,Eastern Europe,Europe,47.19293174,28.47499987
+498,Republic of Moldova,1995,Medium,34.62,Eastern Europe,Europe,47.19293174,28.47499987
+498,Republic of Moldova,1990,Medium,36.868,Eastern Europe,Europe,47.19293174,28.47499987
+498,Republic of Moldova,1985,Medium,42.919,Eastern Europe,Europe,47.19293174,28.47499987
+498,Republic of Moldova,1980,Medium,52.815,Eastern Europe,Europe,47.19293174,28.47499987
+498,Republic of Moldova,1975,Medium,52.86,Eastern Europe,Europe,47.19293174,28.47499987
+638,Réunion,2020,Medium,3.005,Sub-Saharan Africa,Africa,-21.12280909,55.55123933
+638,Réunion,2015,Medium,4.812,Sub-Saharan Africa,Africa,-21.12280909,55.55123933
+638,Réunion,2010,Medium,6.547000000000001,Sub-Saharan Africa,Africa,-21.12280909,55.55123933
+638,Réunion,2005,Medium,8.98,Sub-Saharan Africa,Africa,-21.12280909,55.55123933
+638,Réunion,2000,Medium,12.32,Sub-Saharan Africa,Africa,-21.12280909,55.55123933
+638,Réunion,1995,Medium,16.913,Sub-Saharan Africa,Africa,-21.12280909,55.55123933
+638,Réunion,1990,Medium,23.228,Sub-Saharan Africa,Africa,-21.12280909,55.55123933
+638,Réunion,1985,Medium,31.878,Sub-Saharan Africa,Africa,-21.12280909,55.55123933
+638,Réunion,1980,Medium,43.766999999999996,Sub-Saharan Africa,Africa,-21.12280909,55.55123933
+638,Réunion,1975,Medium,60.013999999999996,Sub-Saharan Africa,Africa,-21.12280909,55.55123933
+642,Romania,2020,Medium,7.888,Eastern Europe,Europe,45.84314501,24.96613666
+642,Romania,2015,Medium,9.87,Eastern Europe,Europe,45.84314501,24.96613666
+642,Romania,2010,Medium,14.174000000000001,Eastern Europe,Europe,45.84314501,24.96613666
+642,Romania,2005,Medium,20.007,Eastern Europe,Europe,45.84314501,24.96613666
+642,Romania,2000,Medium,24.552,Eastern Europe,Europe,45.84314501,24.96613666
+642,Romania,1995,Medium,28.651,Eastern Europe,Europe,45.84314501,24.96613666
+642,Romania,1990,Medium,33.396,Eastern Europe,Europe,45.84314501,24.96613666
+642,Romania,1985,Medium,32.616,Eastern Europe,Europe,45.84314501,24.96613666
+642,Romania,1980,Medium,38.244,Eastern Europe,Europe,45.84314501,24.96613666
+642,Romania,1975,Medium,47.117,Eastern Europe,Europe,45.84314501,24.96613666
+643,Russian Federation,2020,Medium,7.114,Eastern Europe,Europe,61.97564081,96.67837519
+643,Russian Federation,2015,Medium,10.241,Eastern Europe,Europe,61.97564081,96.67837519
+643,Russian Federation,2010,Medium,13.177999999999999,Eastern Europe,Europe,61.97564081,96.67837519
+643,Russian Federation,2005,Medium,19.631,Eastern Europe,Europe,61.97564081,96.67837519
+643,Russian Federation,2000,Medium,25.041999999999998,Eastern Europe,Europe,61.97564081,96.67837519
+643,Russian Federation,1995,Medium,26.061,Eastern Europe,Europe,61.97564081,96.67837519
+643,Russian Federation,1990,Medium,28.186999999999998,Eastern Europe,Europe,61.97564081,96.67837519
+643,Russian Federation,1985,Medium,31.413,Eastern Europe,Europe,61.97564081,96.67837519
+643,Russian Federation,1980,Medium,34.338,Eastern Europe,Europe,61.97564081,96.67837519
+643,Russian Federation,1975,Medium,31.779,Eastern Europe,Europe,61.97564081,96.67837519
+646,Rwanda,2020,Medium,38.395,Sub-Saharan Africa,Africa,-1.991722808,29.92068123
+646,Rwanda,2015,Medium,52.843,Sub-Saharan Africa,Africa,-1.991722808,29.92068123
+646,Rwanda,2010,Medium,88.382,Sub-Saharan Africa,Africa,-1.991722808,29.92068123
+646,Rwanda,2005,Medium,146.05700000000002,Sub-Saharan Africa,Africa,-1.991722808,29.92068123
+646,Rwanda,2000,Medium,201.25599999999997,Sub-Saharan Africa,Africa,-1.991722808,29.92068123
+646,Rwanda,1995,Medium,465.517,Sub-Saharan Africa,Africa,-1.991722808,29.92068123
+646,Rwanda,1990,Medium,191.628,Sub-Saharan Africa,Africa,-1.991722808,29.92068123
+646,Rwanda,1985,Medium,180.335,Sub-Saharan Africa,Africa,-1.991722808,29.92068123
+646,Rwanda,1980,Medium,216.49400000000003,Sub-Saharan Africa,Africa,-1.991722808,29.92068123
+646,Rwanda,1975,Medium,227.62099999999998,Sub-Saharan Africa,Africa,-1.991722808,29.92068123
+662,Saint Lucia,2020,Medium,16.132,Latin America and the Caribbean,Americas,13.90391475,-60.96175259
+662,Saint Lucia,2015,Medium,17.945,Latin America and the Caribbean,Americas,13.90391475,-60.96175259
+662,Saint Lucia,2010,Medium,18.464000000000002,Latin America and the Caribbean,Americas,13.90391475,-60.96175259
+662,Saint Lucia,2005,Medium,18.044,Latin America and the Caribbean,Americas,13.90391475,-60.96175259
+662,Saint Lucia,2000,Medium,18.852999999999998,Latin America and the Caribbean,Americas,13.90391475,-60.96175259
+662,Saint Lucia,1995,Medium,21.046999999999997,Latin America and the Caribbean,Americas,13.90391475,-60.96175259
+662,Saint Lucia,1990,Medium,23.804000000000002,Latin America and the Caribbean,Americas,13.90391475,-60.96175259
+662,Saint Lucia,1985,Medium,28.101,Latin America and the Caribbean,Americas,13.90391475,-60.96175259
+662,Saint Lucia,1980,Medium,37.371,Latin America and the Caribbean,Americas,13.90391475,-60.96175259
+662,Saint Lucia,1975,Medium,60.239,Latin America and the Caribbean,Americas,13.90391475,-60.96175259
+670,Saint Vincent and the Grenadines,2020,Medium,15.985,Latin America and the Caribbean,Americas,13.25481082,-61.19376585
+670,Saint Vincent and the Grenadines,2015,Medium,19.055999999999997,Latin America and the Caribbean,Americas,13.25481082,-61.19376585
+670,Saint Vincent and the Grenadines,2010,Medium,21.719,Latin America and the Caribbean,Americas,13.25481082,-61.19376585
+670,Saint Vincent and the Grenadines,2005,Medium,22.307,Latin America and the Caribbean,Americas,13.25481082,-61.19376585
+670,Saint Vincent and the Grenadines,2000,Medium,22.397,Latin America and the Caribbean,Americas,13.25481082,-61.19376585
+670,Saint Vincent and the Grenadines,1995,Medium,22.886,Latin America and the Caribbean,Americas,13.25481082,-61.19376585
+670,Saint Vincent and the Grenadines,1990,Medium,28.119,Latin America and the Caribbean,Americas,13.25481082,-61.19376585
+670,Saint Vincent and the Grenadines,1985,Medium,42.688,Latin America and the Caribbean,Americas,13.25481082,-61.19376585
+670,Saint Vincent and the Grenadines,1980,Medium,64.781,Latin America and the Caribbean,Americas,13.25481082,-61.19376585
+670,Saint Vincent and the Grenadines,1975,Medium,82.588,Latin America and the Caribbean,Americas,13.25481082,-61.19376585
+882,Samoa,2020,Medium,16.178,Polynesia,Oceania,-13.16992041,-173.5139768
+882,Samoa,2015,Medium,18.169,Polynesia,Oceania,-13.16992041,-173.5139768
+882,Samoa,2010,Medium,20.069000000000003,Polynesia,Oceania,-13.16992041,-173.5139768
+882,Samoa,2005,Medium,20.500999999999998,Polynesia,Oceania,-13.16992041,-173.5139768
+882,Samoa,2000,Medium,23.704,Polynesia,Oceania,-13.16992041,-173.5139768
+882,Samoa,1995,Medium,28.189,Polynesia,Oceania,-13.16992041,-173.5139768
+882,Samoa,1990,Medium,33.374,Polynesia,Oceania,-13.16992041,-173.5139768
+882,Samoa,1985,Medium,43.608000000000004,Polynesia,Oceania,-13.16992041,-173.5139768
+882,Samoa,1980,Medium,60.181000000000004,Polynesia,Oceania,-13.16992041,-173.5139768
+882,Samoa,1975,Medium,77.725,Polynesia,Oceania,-13.16992041,-173.5139768
+678,Sao Tome and Principe,2020,Medium,32.342,Sub-Saharan Africa,Africa,0.227069777,6.614376446
+678,Sao Tome and Principe,2015,Medium,39.708,Sub-Saharan Africa,Africa,0.227069777,6.614376446
+678,Sao Tome and Principe,2010,Medium,53.17,Sub-Saharan Africa,Africa,0.227069777,6.614376446
+678,Sao Tome and Principe,2005,Medium,73.097,Sub-Saharan Africa,Africa,0.227069777,6.614376446
+678,Sao Tome and Principe,2000,Medium,95.76700000000001,Sub-Saharan Africa,Africa,0.227069777,6.614376446
+678,Sao Tome and Principe,1995,Medium,108.167,Sub-Saharan Africa,Africa,0.227069777,6.614376446
+678,Sao Tome and Principe,1990,Medium,104.785,Sub-Saharan Africa,Africa,0.227069777,6.614376446
+678,Sao Tome and Principe,1985,Medium,94.889,Sub-Saharan Africa,Africa,0.227069777,6.614376446
+678,Sao Tome and Principe,1980,Medium,100.51299999999999,Sub-Saharan Africa,Africa,0.227069777,6.614376446
+678,Sao Tome and Principe,1975,Medium,120.305,Sub-Saharan Africa,Africa,0.227069777,6.614376446
+682,Saudi Arabia,2020,Medium,7.355,Western Asia,Asia,24.12628999,44.54637538
+682,Saudi Arabia,2015,Medium,10.163,Western Asia,Asia,24.12628999,44.54637538
+682,Saudi Arabia,2010,Medium,14.190999999999999,Western Asia,Asia,24.12628999,44.54637538
+682,Saudi Arabia,2005,Medium,19.084,Western Asia,Asia,24.12628999,44.54637538
+682,Saudi Arabia,2000,Medium,25.858,Western Asia,Asia,24.12628999,44.54637538
+682,Saudi Arabia,1995,Medium,36.782,Western Asia,Asia,24.12628999,44.54637538
+682,Saudi Arabia,1990,Medium,54.825,Western Asia,Asia,24.12628999,44.54637538
+682,Saudi Arabia,1985,Medium,79.683,Western Asia,Asia,24.12628999,44.54637538
+682,Saudi Arabia,1980,Medium,112.0,Western Asia,Asia,24.12628999,44.54637538
+682,Saudi Arabia,1975,Medium,156.21,Western Asia,Asia,24.12628999,44.54637538
+686,Senegal,2020,Medium,44.622,Sub-Saharan Africa,Africa,14.35710542,-14.4780169
+686,Senegal,2015,Medium,55.025,Sub-Saharan Africa,Africa,14.35710542,-14.4780169
+686,Senegal,2010,Medium,77.38600000000001,Sub-Saharan Africa,Africa,14.35710542,-14.4780169
+686,Senegal,2005,Medium,114.021,Sub-Saharan Africa,Africa,14.35710542,-14.4780169
+686,Senegal,2000,Medium,139.705,Sub-Saharan Africa,Africa,14.35710542,-14.4780169
+686,Senegal,1995,Medium,137.892,Sub-Saharan Africa,Africa,14.35710542,-14.4780169
+686,Senegal,1990,Medium,150.01,Sub-Saharan Africa,Africa,14.35710542,-14.4780169
+686,Senegal,1985,Medium,186.291,Sub-Saharan Africa,Africa,14.35710542,-14.4780169
+686,Senegal,1980,Medium,225.8,Sub-Saharan Africa,Africa,14.35710542,-14.4780169
+686,Senegal,1975,Medium,275.969,Sub-Saharan Africa,Africa,14.35710542,-14.4780169
+688,Serbia,2020,Medium,5.579,Southern Europe,Europe,44.03017332,20.80259395
+688,Serbia,2015,Medium,6.968,Southern Europe,Europe,44.03017332,20.80259395
+688,Serbia,2010,Medium,8.181000000000001,Southern Europe,Europe,44.03017332,20.80259395
+688,Serbia,2005,Medium,11.075999999999999,Southern Europe,Europe,44.03017332,20.80259395
+688,Serbia,2000,Medium,18.782,Southern Europe,Europe,44.03017332,20.80259395
+688,Serbia,1995,Medium,20.26,Southern Europe,Europe,44.03017332,20.80259395
+688,Serbia,1990,Medium,25.949,Southern Europe,Europe,44.03017332,20.80259395
+688,Serbia,1985,Medium,39.102,Southern Europe,Europe,44.03017332,20.80259395
+688,Serbia,1980,Medium,45.007,Southern Europe,Europe,44.03017332,20.80259395
+688,Serbia,1975,Medium,56.835,Southern Europe,Europe,44.03017332,20.80259395
+690,Seychelles,2020,Medium,13.833,Sub-Saharan Africa,Africa,-4.651257344,55.46250801
+690,Seychelles,2015,Medium,14.376,Sub-Saharan Africa,Africa,-4.651257344,55.46250801
+690,Seychelles,2010,Medium,14.12,Sub-Saharan Africa,Africa,-4.651257344,55.46250801
+690,Seychelles,2005,Medium,13.777999999999999,Sub-Saharan Africa,Africa,-4.651257344,55.46250801
+690,Seychelles,2000,Medium,13.814,Sub-Saharan Africa,Africa,-4.651257344,55.46250801
+690,Seychelles,1995,Medium,15.423,Sub-Saharan Africa,Africa,-4.651257344,55.46250801
+690,Seychelles,1990,Medium,18.474,Sub-Saharan Africa,Africa,-4.651257344,55.46250801
+690,Seychelles,1985,Medium,24.805,Sub-Saharan Africa,Africa,-4.651257344,55.46250801
+690,Seychelles,1980,Medium,39.713,Sub-Saharan Africa,Africa,-4.651257344,55.46250801
+690,Seychelles,1975,Medium,61.188,Sub-Saharan Africa,Africa,-4.651257344,55.46250801
+694,Sierra Leone,2020,Medium,110.369,Sub-Saharan Africa,Africa,8.571898577,-11.77850059
+694,Sierra Leone,2015,Medium,136.64,Sub-Saharan Africa,Africa,8.571898577,-11.77850059
+694,Sierra Leone,2010,Medium,180.00599999999997,Sub-Saharan Africa,Africa,8.571898577,-11.77850059
+694,Sierra Leone,2005,Medium,217.24200000000002,Sub-Saharan Africa,Africa,8.571898577,-11.77850059
+694,Sierra Leone,2000,Medium,247.26,Sub-Saharan Africa,Africa,8.571898577,-11.77850059
+694,Sierra Leone,1995,Medium,259.06,Sub-Saharan Africa,Africa,8.571898577,-11.77850059
+694,Sierra Leone,1990,Medium,265.24,Sub-Saharan Africa,Africa,8.571898577,-11.77850059
+694,Sierra Leone,1985,Medium,276.316,Sub-Saharan Africa,Africa,8.571898577,-11.77850059
+694,Sierra Leone,1980,Medium,294.954,Sub-Saharan Africa,Africa,8.571898577,-11.77850059
+694,Sierra Leone,1975,Medium,318.22700000000003,Sub-Saharan Africa,Africa,8.571898577,-11.77850059
+702,Singapore,2020,Medium,2.01,South-eastern Asia,Asia,1.344965221,103.8094495
+702,Singapore,2015,Medium,2.571,South-eastern Asia,Asia,1.344965221,103.8094495
+702,Singapore,2010,Medium,2.7460000000000004,South-eastern Asia,Asia,1.344965221,103.8094495
+702,Singapore,2005,Medium,3.302,South-eastern Asia,Asia,1.344965221,103.8094495
+702,Singapore,2000,Medium,4.8469999999999995,South-eastern Asia,Asia,1.344965221,103.8094495
+702,Singapore,1995,Medium,6.0489999999999995,South-eastern Asia,Asia,1.344965221,103.8094495
+702,Singapore,1990,Medium,7.063,South-eastern Asia,Asia,1.344965221,103.8094495
+702,Singapore,1985,Medium,11.14,South-eastern Asia,Asia,1.344965221,103.8094495
+702,Singapore,1980,Medium,15.675,South-eastern Asia,Asia,1.344965221,103.8094495
+702,Singapore,1975,Medium,23.846,South-eastern Asia,Asia,1.344965221,103.8094495
+703,Slovakia,2020,Medium,5.685,Eastern Europe,Europe,48.70609262,19.49110883
+703,Slovakia,2015,Medium,6.54,Eastern Europe,Europe,48.70609262,19.49110883
+703,Slovakia,2010,Medium,7.547000000000001,Eastern Europe,Europe,48.70609262,19.49110883
+703,Slovakia,2005,Medium,8.902000000000001,Eastern Europe,Europe,48.70609262,19.49110883
+703,Slovakia,2000,Medium,10.860999999999999,Eastern Europe,Europe,48.70609262,19.49110883
+703,Slovakia,1995,Medium,13.519,Eastern Europe,Europe,48.70609262,19.49110883
+703,Slovakia,1990,Medium,16.165,Eastern Europe,Europe,48.70609262,19.49110883
+703,Slovakia,1985,Medium,20.445999999999998,Eastern Europe,Europe,48.70609262,19.49110883
+703,Slovakia,1980,Medium,25.396,Eastern Europe,Europe,48.70609262,19.49110883
+703,Slovakia,1975,Medium,28.735,Eastern Europe,Europe,48.70609262,19.49110883
+705,Slovenia,2020,Medium,2.202,Southern Europe,Europe,46.123589,14.82836958
+705,Slovenia,2015,Medium,2.84,Southern Europe,Europe,46.123589,14.82836958
+705,Slovenia,2010,Medium,3.952,Southern Europe,Europe,46.123589,14.82836958
+705,Slovenia,2005,Medium,4.862,Southern Europe,Europe,46.123589,14.82836958
+705,Slovenia,2000,Medium,6.028,Southern Europe,Europe,46.123589,14.82836958
+705,Slovenia,1995,Medium,8.831,Southern Europe,Europe,46.123589,14.82836958
+705,Slovenia,1990,Medium,12.15,Southern Europe,Europe,46.123589,14.82836958
+705,Slovenia,1985,Medium,15.75,Southern Europe,Europe,46.123589,14.82836958
+705,Slovenia,1980,Medium,16.241,Southern Europe,Europe,46.123589,14.82836958
+705,Slovenia,1975,Medium,18.585,Southern Europe,Europe,46.123589,14.82836958
+90,Solomon Islands,2020,Medium,20.123,Melanesia,Oceania,-8.823576119,159.6577946
+90,Solomon Islands,2015,Medium,23.781,Melanesia,Oceania,-8.823576119,159.6577946
+90,Solomon Islands,2010,Medium,27.340999999999998,Melanesia,Oceania,-8.823576119,159.6577946
+90,Solomon Islands,2005,Medium,29.44,Melanesia,Oceania,-8.823576119,159.6577946
+90,Solomon Islands,2000,Medium,31.75,Melanesia,Oceania,-8.823576119,159.6577946
+90,Solomon Islands,1995,Medium,35.821999999999996,Melanesia,Oceania,-8.823576119,159.6577946
+90,Solomon Islands,1990,Medium,40.900999999999996,Melanesia,Oceania,-8.823576119,159.6577946
+90,Solomon Islands,1985,Medium,47.989,Melanesia,Oceania,-8.823576119,159.6577946
+90,Solomon Islands,1980,Medium,61.86,Melanesia,Oceania,-8.823576119,159.6577946
+90,Solomon Islands,1975,Medium,87.536,Melanesia,Oceania,-8.823576119,159.6577946
+706,Somalia,2020,Medium,115.06700000000001,Sub-Saharan Africa,Africa,6.070298569,45.86808802
+706,Somalia,2015,Medium,131.204,Sub-Saharan Africa,Africa,6.070298569,45.86808802
+706,Somalia,2010,Medium,146.976,Sub-Saharan Africa,Africa,6.070298569,45.86808802
+706,Somalia,2005,Medium,160.593,Sub-Saharan Africa,Africa,6.070298569,45.86808802
+706,Somalia,2000,Medium,176.168,Sub-Saharan Africa,Africa,6.070298569,45.86808802
+706,Somalia,1995,Medium,221.75099999999998,Sub-Saharan Africa,Africa,6.070298569,45.86808802
+706,Somalia,1990,Medium,210.472,Sub-Saharan Africa,Africa,6.070298569,45.86808802
+706,Somalia,1985,Medium,219.00900000000001,Sub-Saharan Africa,Africa,6.070298569,45.86808802
+706,Somalia,1980,Medium,234.94299999999998,Sub-Saharan Africa,Africa,6.070298569,45.86808802
+706,Somalia,1975,Medium,253.003,Sub-Saharan Africa,Africa,6.070298569,45.86808802
+710,South Africa,2020,Medium,35.451,Sub-Saharan Africa,Africa,-28.99235649,25.09025016
+710,South Africa,2015,Medium,43.218,Sub-Saharan Africa,Africa,-28.99235649,25.09025016
+710,South Africa,2010,Medium,67.092,Sub-Saharan Africa,Africa,-28.99235649,25.09025016
+710,South Africa,2005,Medium,77.45,Sub-Saharan Africa,Africa,-28.99235649,25.09025016
+710,South Africa,2000,Medium,66.439,Sub-Saharan Africa,Africa,-28.99235649,25.09025016
+710,South Africa,1995,Medium,57.39,Sub-Saharan Africa,Africa,-28.99235649,25.09025016
+710,South Africa,1990,Medium,64.23100000000001,Sub-Saharan Africa,Africa,-28.99235649,25.09025016
+710,South Africa,1985,Medium,80.643,Sub-Saharan Africa,Africa,-28.99235649,25.09025016
+710,South Africa,1980,Medium,104.524,Sub-Saharan Africa,Africa,-28.99235649,25.09025016
+710,South Africa,1975,Medium,135.282,Sub-Saharan Africa,Africa,-28.99235649,25.09025016
+728,South Sudan,2020,Medium,98.523,Sub-Saharan Africa,Africa,7.295889595,30.30870192
+728,South Sudan,2015,Medium,100.18299999999999,Sub-Saharan Africa,Africa,7.295889595,30.30870192
+728,South Sudan,2010,Medium,125.54700000000001,Sub-Saharan Africa,Africa,7.295889595,30.30870192
+728,South Sudan,2005,Medium,164.817,Sub-Saharan Africa,Africa,7.295889595,30.30870192
+728,South Sudan,2000,Medium,189.463,Sub-Saharan Africa,Africa,7.295889595,30.30870192
+728,South Sudan,1995,Medium,219.317,Sub-Saharan Africa,Africa,7.295889595,30.30870192
+728,South Sudan,1990,Medium,252.815,Sub-Saharan Africa,Africa,7.295889595,30.30870192
+728,South Sudan,1985,Medium,275.875,Sub-Saharan Africa,Africa,7.295889595,30.30870192
+728,South Sudan,1980,Medium,283.982,Sub-Saharan Africa,Africa,7.295889595,30.30870192
+728,South Sudan,1975,Medium,304.17,Sub-Saharan Africa,Africa,7.295889595,30.30870192
+724,Spain,2020,Medium,2.8480000000000003,Southern Europe,Europe,40.3097875,-3.578125378
+724,Spain,2015,Medium,3.4810000000000003,Southern Europe,Europe,40.3097875,-3.578125378
+724,Spain,2010,Medium,4.123,Southern Europe,Europe,40.3097875,-3.578125378
+724,Spain,2005,Medium,4.953,Southern Europe,Europe,40.3097875,-3.578125378
+724,Spain,2000,Medium,6.1339999999999995,Southern Europe,Europe,40.3097875,-3.578125378
+724,Spain,1995,Medium,8.158,Southern Europe,Europe,40.3097875,-3.578125378
+724,Spain,1990,Medium,10.1,Southern Europe,Europe,40.3097875,-3.578125378
+724,Spain,1985,Medium,12.886,Southern Europe,Europe,40.3097875,-3.578125378
+724,Spain,1980,Medium,18.243,Southern Europe,Europe,40.3097875,-3.578125378
+724,Spain,1975,Medium,26.226,Southern Europe,Europe,40.3097875,-3.578125378
+144,Sri Lanka,2020,Medium,8.594,Southern Asia,Asia,7.617249894,80.70787736
+144,Sri Lanka,2015,Medium,10.062000000000001,Southern Asia,Asia,7.617249894,80.70787736
+144,Sri Lanka,2010,Medium,11.793,Southern Asia,Asia,7.617249894,80.70787736
+144,Sri Lanka,2005,Medium,13.84,Southern Asia,Asia,7.617249894,80.70787736
+144,Sri Lanka,2000,Medium,20.553,Southern Asia,Asia,7.617249894,80.70787736
+144,Sri Lanka,1995,Medium,25.636999999999997,Southern Asia,Asia,7.617249894,80.70787736
+144,Sri Lanka,1990,Medium,32.039,Southern Asia,Asia,7.617249894,80.70787736
+144,Sri Lanka,1985,Medium,40.293,Southern Asia,Asia,7.617249894,80.70787736
+144,Sri Lanka,1980,Medium,50.881,Southern Asia,Asia,7.617249894,80.70787736
+144,Sri Lanka,1975,Medium,64.931,Southern Asia,Asia,7.617249894,80.70787736
+275,State of Palestine,2020,Medium,20.369,Western Asia,Asia,31.99084142,35.30744047
+275,State of Palestine,2015,Medium,22.623,Western Asia,Asia,31.99084142,35.30744047
+275,State of Palestine,2010,Medium,24.801,Western Asia,Asia,31.99084142,35.30744047
+275,State of Palestine,2005,Medium,28.159000000000002,Western Asia,Asia,31.99084142,35.30744047
+275,State of Palestine,2000,Medium,32.843,Western Asia,Asia,31.99084142,35.30744047
+275,State of Palestine,1995,Medium,39.981,Western Asia,Asia,31.99084142,35.30744047
+275,State of Palestine,1990,Medium,51.178999999999995,Western Asia,Asia,31.99084142,35.30744047
+275,State of Palestine,1985,Medium,68.50399999999999,Western Asia,Asia,31.99084142,35.30744047
+275,State of Palestine,1980,Medium,92.807,Western Asia,Asia,31.99084142,35.30744047
+275,State of Palestine,1975,Medium,116.348,Western Asia,Asia,31.99084142,35.30744047
+729,Sudan,2020,Medium,63.961000000000006,Northern Africa,Africa,16.04892872,30.00339118
+729,Sudan,2015,Medium,71.631,Northern Africa,Africa,16.04892872,30.00339118
+729,Sudan,2010,Medium,82.258,Northern Africa,Africa,16.04892872,30.00339118
+729,Sudan,2005,Medium,96.946,Northern Africa,Africa,16.04892872,30.00339118
+729,Sudan,2000,Medium,112.786,Northern Africa,Africa,16.04892872,30.00339118
+729,Sudan,1995,Medium,129.666,Northern Africa,Africa,16.04892872,30.00339118
+729,Sudan,1990,Medium,137.181,Northern Africa,Africa,16.04892872,30.00339118
+729,Sudan,1985,Medium,142.453,Northern Africa,Africa,16.04892872,30.00339118
+729,Sudan,1980,Medium,146.007,Northern Africa,Africa,16.04892872,30.00339118
+729,Sudan,1975,Medium,153.575,Northern Africa,Africa,16.04892872,30.00339118
+740,Suriname,2020,Medium,19.564,Latin America and the Caribbean,Americas,4.125518847,-55.91480138
+740,Suriname,2015,Medium,22.666,Latin America and the Caribbean,Americas,4.125518847,-55.91480138
+740,Suriname,2010,Medium,26.671,Latin America and the Caribbean,Americas,4.125518847,-55.91480138
+740,Suriname,2005,Medium,31.665,Latin America and the Caribbean,Americas,4.125518847,-55.91480138
+740,Suriname,2000,Medium,37.551,Latin America and the Caribbean,Americas,4.125518847,-55.91480138
+740,Suriname,1995,Medium,44.251999999999995,Latin America and the Caribbean,Americas,4.125518847,-55.91480138
+740,Suriname,1990,Medium,50.894,Latin America and the Caribbean,Americas,4.125518847,-55.91480138
+740,Suriname,1985,Medium,57.022,Latin America and the Caribbean,Americas,4.125518847,-55.91480138
+740,Suriname,1980,Medium,63.496,Latin America and the Caribbean,Americas,4.125518847,-55.91480138
+740,Suriname,1975,Medium,70.118,Latin America and the Caribbean,Americas,4.125518847,-55.91480138
+752,Sweden,2020,Medium,2.464,Northern Europe,Europe,62.88018421,16.72425629
+752,Sweden,2015,Medium,2.8960000000000004,Northern Europe,Europe,62.88018421,16.72425629
+752,Sweden,2010,Medium,3.242,Northern Europe,Europe,62.88018421,16.72425629
+752,Sweden,2005,Medium,3.9219999999999997,Northern Europe,Europe,62.88018421,16.72425629
+752,Sweden,2000,Medium,4.292,Northern Europe,Europe,62.88018421,16.72425629
+752,Sweden,1995,Medium,6.032,Northern Europe,Europe,62.88018421,16.72425629
+752,Sweden,1990,Medium,7.287000000000001,Northern Europe,Europe,62.88018421,16.72425629
+752,Sweden,1985,Medium,7.897,Northern Europe,Europe,62.88018421,16.72425629
+752,Sweden,1980,Medium,9.307,Northern Europe,Europe,62.88018421,16.72425629
+752,Sweden,1975,Medium,12.005999999999998,Northern Europe,Europe,62.88018421,16.72425629
+756,Switzerland,2020,Medium,3.7880000000000003,Western Europe,Europe,46.80615952,8.243637777
+756,Switzerland,2015,Medium,4.399,Western Europe,Europe,46.80615952,8.243637777
+756,Switzerland,2010,Medium,4.852,Western Europe,Europe,46.80615952,8.243637777
+756,Switzerland,2005,Medium,5.492000000000001,Western Europe,Europe,46.80615952,8.243637777
+756,Switzerland,2000,Medium,5.895,Western Europe,Europe,46.80615952,8.243637777
+756,Switzerland,1995,Medium,7.494,Western Europe,Europe,46.80615952,8.243637777
+756,Switzerland,1990,Medium,8.7,Western Europe,Europe,46.80615952,8.243637777
+756,Switzerland,1985,Medium,9.78,Western Europe,Europe,46.80615952,8.243637777
+756,Switzerland,1980,Medium,12.027000000000001,Western Europe,Europe,46.80615952,8.243637777
+756,Switzerland,1975,Medium,16.859,Western Europe,Europe,46.80615952,8.243637777
+760,Syrian Arab Republic,2020,Medium,17.772000000000002,Western Asia,Asia,35.01105189,38.51123805
+760,Syrian Arab Republic,2015,Medium,20.677,Western Asia,Asia,35.01105189,38.51123805
+760,Syrian Arab Republic,2010,Medium,17.31,Western Asia,Asia,35.01105189,38.51123805
+760,Syrian Arab Republic,2005,Medium,20.884,Western Asia,Asia,35.01105189,38.51123805
+760,Syrian Arab Republic,2000,Medium,25.186999999999998,Western Asia,Asia,35.01105189,38.51123805
+760,Syrian Arab Republic,1995,Medium,31.673000000000002,Western Asia,Asia,35.01105189,38.51123805
+760,Syrian Arab Republic,1990,Medium,41.489,Western Asia,Asia,35.01105189,38.51123805
+760,Syrian Arab Republic,1985,Medium,55.022,Western Asia,Asia,35.01105189,38.51123805
+760,Syrian Arab Republic,1980,Medium,73.862,Western Asia,Asia,35.01105189,38.51123805
+760,Syrian Arab Republic,1975,Medium,98.464,Western Asia,Asia,35.01105189,38.51123805
+762,Tajikistan,2020,Medium,32.27,Central Asia,Asia,38.52699814,71.04232577
+762,Tajikistan,2015,Medium,37.872,Central Asia,Asia,38.52699814,71.04232577
+762,Tajikistan,2010,Medium,48.955,Central Asia,Asia,38.52699814,71.04232577
+762,Tajikistan,2005,Medium,74.67,Central Asia,Asia,38.52699814,71.04232577
+762,Tajikistan,2000,Medium,106.815,Central Asia,Asia,38.52699814,71.04232577
+762,Tajikistan,1995,Medium,115.641,Central Asia,Asia,38.52699814,71.04232577
+762,Tajikistan,1990,Medium,109.287,Central Asia,Asia,38.52699814,71.04232577
+762,Tajikistan,1985,Medium,130.164,Central Asia,Asia,38.52699814,71.04232577
+762,Tajikistan,1980,Medium,135.701,Central Asia,Asia,38.52699814,71.04232577
+762,Tajikistan,1975,Medium,151.80700000000002,Central Asia,Asia,38.52699814,71.04232577
+764,Thailand,2020,Medium,8.997,South-eastern Asia,Asia,15.15949511,101.020107
+764,Thailand,2015,Medium,11.734000000000002,South-eastern Asia,Asia,15.15949511,101.020107
+764,Thailand,2010,Medium,15.597000000000001,South-eastern Asia,Asia,15.15949511,101.020107
+764,Thailand,2005,Medium,19.613,South-eastern Asia,Asia,15.15949511,101.020107
+764,Thailand,2000,Medium,24.595,South-eastern Asia,Asia,15.15949511,101.020107
+764,Thailand,1995,Medium,31.27,South-eastern Asia,Asia,15.15949511,101.020107
+764,Thailand,1990,Medium,41.505,South-eastern Asia,Asia,15.15949511,101.020107
+764,Thailand,1985,Medium,53.056999999999995,South-eastern Asia,Asia,15.15949511,101.020107
+764,Thailand,1980,Medium,66.757,South-eastern Asia,Asia,15.15949511,101.020107
+764,Thailand,1975,Medium,85.639,South-eastern Asia,Asia,15.15949511,101.020107
+626,Timor-Leste,2020,Medium,46.738,South-eastern Asia,Asia,-8.767718612,126.0420452
+626,Timor-Leste,2015,Medium,56.683,South-eastern Asia,Asia,-8.767718612,126.0420452
+626,Timor-Leste,2010,Medium,67.54899999999999,South-eastern Asia,Asia,-8.767718612,126.0420452
+626,Timor-Leste,2005,Medium,92.064,South-eastern Asia,Asia,-8.767718612,126.0420452
+626,Timor-Leste,2000,Medium,124.723,South-eastern Asia,Asia,-8.767718612,126.0420452
+626,Timor-Leste,1995,Medium,173.761,South-eastern Asia,Asia,-8.767718612,126.0420452
+626,Timor-Leste,1990,Medium,211.172,South-eastern Asia,Asia,-8.767718612,126.0420452
+626,Timor-Leste,1985,Medium,274.496,South-eastern Asia,Asia,-8.767718612,126.0420452
+626,Timor-Leste,1980,Medium,373.66,South-eastern Asia,Asia,-8.767718612,126.0420452
+626,Timor-Leste,1975,Medium,274.242,South-eastern Asia,Asia,-8.767718612,126.0420452
+768,Togo,2020,Medium,75.402,Sub-Saharan Africa,Africa,8.541637601,0.97409513
+768,Togo,2015,Medium,84.42200000000001,Sub-Saharan Africa,Africa,8.541637601,0.97409513
+768,Togo,2010,Medium,97.72,Sub-Saharan Africa,Africa,8.541637601,0.97409513
+768,Togo,2005,Medium,123.631,Sub-Saharan Africa,Africa,8.541637601,0.97409513
+768,Togo,2000,Medium,132.26,Sub-Saharan Africa,Africa,8.541637601,0.97409513
+768,Togo,1995,Medium,141.899,Sub-Saharan Africa,Africa,8.541637601,0.97409513
+768,Togo,1990,Medium,152.732,Sub-Saharan Africa,Africa,8.541637601,0.97409513
+768,Togo,1985,Medium,166.74900000000002,Sub-Saharan Africa,Africa,8.541637601,0.97409513
+768,Togo,1980,Medium,185.86900000000003,Sub-Saharan Africa,Africa,8.541637601,0.97409513
+768,Togo,1975,Medium,208.31900000000002,Sub-Saharan Africa,Africa,8.541637601,0.97409513
+776,Tonga,2020,Medium,15.65,Polynesia,Oceania,-22.92273894,-176.0448464
+776,Tonga,2015,Medium,17.186,Polynesia,Oceania,-22.92273894,-176.0448464
+776,Tonga,2010,Medium,16.768,Polynesia,Oceania,-22.92273894,-176.0448464
+776,Tonga,2005,Medium,16.762,Polynesia,Oceania,-22.92273894,-176.0448464
+776,Tonga,2000,Medium,18.174,Polynesia,Oceania,-22.92273894,-176.0448464
+776,Tonga,1995,Medium,20.266,Polynesia,Oceania,-22.92273894,-176.0448464
+776,Tonga,1990,Medium,23.993000000000002,Polynesia,Oceania,-22.92273894,-176.0448464
+776,Tonga,1985,Medium,27.31,Polynesia,Oceania,-22.92273894,-176.0448464
+776,Tonga,1980,Medium,32.817,Polynesia,Oceania,-22.92273894,-176.0448464
+776,Tonga,1975,Medium,42.481,Polynesia,Oceania,-22.92273894,-176.0448464
+780,Trinidad and Tobago,2020,Medium,25.913,Latin America and the Caribbean,Americas,10.40535665,-61.29228487
+780,Trinidad and Tobago,2015,Medium,29.559,Latin America and the Caribbean,Americas,10.40535665,-61.29228487
+780,Trinidad and Tobago,2010,Medium,32.425,Latin America and the Caribbean,Americas,10.40535665,-61.29228487
+780,Trinidad and Tobago,2005,Medium,32.832,Latin America and the Caribbean,Americas,10.40535665,-61.29228487
+780,Trinidad and Tobago,2000,Medium,32.524,Latin America and the Caribbean,Americas,10.40535665,-61.29228487
+780,Trinidad and Tobago,1995,Medium,32.39,Latin America and the Caribbean,Americas,10.40535665,-61.29228487
+780,Trinidad and Tobago,1990,Medium,33.735,Latin America and the Caribbean,Americas,10.40535665,-61.29228487
+780,Trinidad and Tobago,1985,Medium,37.32,Latin America and the Caribbean,Americas,10.40535665,-61.29228487
+780,Trinidad and Tobago,1980,Medium,42.856,Latin America and the Caribbean,Americas,10.40535665,-61.29228487
+780,Trinidad and Tobago,1975,Medium,48.615,Latin America and the Caribbean,Americas,10.40535665,-61.29228487
+788,Tunisia,2020,Medium,13.453,Northern Africa,Africa,34.10810736,9.557630913
+788,Tunisia,2015,Medium,15.37,Northern Africa,Africa,34.10810736,9.557630913
+788,Tunisia,2010,Medium,19.581,Northern Africa,Africa,34.10810736,9.557630913
+788,Tunisia,2005,Medium,25.563000000000002,Northern Africa,Africa,34.10810736,9.557630913
+788,Tunisia,2000,Medium,32.991,Northern Africa,Africa,34.10810736,9.557630913
+788,Tunisia,1995,Medium,40.553000000000004,Northern Africa,Africa,34.10810736,9.557630913
+788,Tunisia,1990,Medium,56.943000000000005,Northern Africa,Africa,34.10810736,9.557630913
+788,Tunisia,1985,Medium,76.793,Northern Africa,Africa,34.10810736,9.557630913
+788,Tunisia,1980,Medium,115.51799999999999,Northern Africa,Africa,34.10810736,9.557630913
+788,Tunisia,1975,Medium,164.05,Northern Africa,Africa,34.10810736,9.557630913
+792,Turkey,2020,Medium,13.252,Western Asia,Asia,38.91218946,35.69849765
+792,Turkey,2015,Medium,17.445999999999998,Western Asia,Asia,38.91218946,35.69849765
+792,Turkey,2010,Medium,22.997,Western Asia,Asia,38.91218946,35.69849765
+792,Turkey,2005,Medium,34.033,Western Asia,Asia,38.91218946,35.69849765
+792,Turkey,2000,Medium,49.773999999999994,Western Asia,Asia,38.91218946,35.69849765
+792,Turkey,1995,Medium,72.685,Western Asia,Asia,38.91218946,35.69849765
+792,Turkey,1990,Medium,93.13600000000001,Western Asia,Asia,38.91218946,35.69849765
+792,Turkey,1985,Medium,118.037,Western Asia,Asia,38.91218946,35.69849765
+792,Turkey,1980,Medium,147.847,Western Asia,Asia,38.91218946,35.69849765
+792,Turkey,1975,Medium,182.977,Western Asia,Asia,38.91218946,35.69849765
+795,Turkmenistan,2020,Medium,51.428000000000004,Central Asia,Asia,39.12455662,59.38935348
+795,Turkmenistan,2015,Medium,55.827,Central Asia,Asia,39.12455662,59.38935348
+795,Turkmenistan,2010,Medium,65.27600000000001,Central Asia,Asia,39.12455662,59.38935348
+795,Turkmenistan,2005,Medium,75.96600000000001,Central Asia,Asia,39.12455662,59.38935348
+795,Turkmenistan,2000,Medium,83.61399999999999,Central Asia,Asia,39.12455662,59.38935348
+795,Turkmenistan,1995,Medium,95.57600000000001,Central Asia,Asia,39.12455662,59.38935348
+795,Turkmenistan,1990,Medium,99.95299999999999,Central Asia,Asia,39.12455662,59.38935348
+795,Turkmenistan,1985,Medium,111.19,Central Asia,Asia,39.12455662,59.38935348
+795,Turkmenistan,1980,Medium,123.361,Central Asia,Asia,39.12455662,59.38935348
+795,Turkmenistan,1975,Medium,134.442,Central Asia,Asia,39.12455662,59.38935348
+800,Uganda,2020,Medium,62.798,Sub-Saharan Africa,Africa,1.280667326,32.38662225
+800,Uganda,2015,Medium,81.928,Sub-Saharan Africa,Africa,1.280667326,32.38662225
+800,Uganda,2010,Medium,104.262,Sub-Saharan Africa,Africa,1.280667326,32.38662225
+800,Uganda,2005,Medium,123.476,Sub-Saharan Africa,Africa,1.280667326,32.38662225
+800,Uganda,2000,Medium,152.69,Sub-Saharan Africa,Africa,1.280667326,32.38662225
+800,Uganda,1995,Medium,171.19099999999997,Sub-Saharan Africa,Africa,1.280667326,32.38662225
+800,Uganda,1990,Medium,184.016,Sub-Saharan Africa,Africa,1.280667326,32.38662225
+800,Uganda,1985,Medium,184.354,Sub-Saharan Africa,Africa,1.280667326,32.38662225
+800,Uganda,1980,Medium,184.66299999999998,Sub-Saharan Africa,Africa,1.280667326,32.38662225
+800,Uganda,1975,Medium,186.359,Sub-Saharan Africa,Africa,1.280667326,32.38662225
+804,Ukraine,2020,Medium,8.574,Eastern Europe,Europe,49.01900507,31.37809941
+804,Ukraine,2015,Medium,10.390999999999998,Eastern Europe,Europe,49.01900507,31.37809941
+804,Ukraine,2010,Medium,15.1,Eastern Europe,Europe,49.01900507,31.37809941
+804,Ukraine,2005,Medium,18.135,Eastern Europe,Europe,49.01900507,31.37809941
+804,Ukraine,2000,Medium,20.666,Eastern Europe,Europe,49.01900507,31.37809941
+804,Ukraine,1995,Medium,21.021,Eastern Europe,Europe,49.01900507,31.37809941
+804,Ukraine,1990,Medium,22.203000000000003,Eastern Europe,Europe,49.01900507,31.37809941
+804,Ukraine,1985,Medium,25.088,Eastern Europe,Europe,49.01900507,31.37809941
+804,Ukraine,1980,Medium,28.798000000000002,Eastern Europe,Europe,49.01900507,31.37809941
+804,Ukraine,1975,Medium,26.45,Eastern Europe,Europe,49.01900507,31.37809941
+784,United Arab Emirates,2020,Medium,6.43,Western Asia,Asia,23.90525867,54.35072869
+784,United Arab Emirates,2015,Medium,7.575,Western Asia,Asia,23.90525867,54.35072869
+784,United Arab Emirates,2010,Medium,8.987,Western Asia,Asia,23.90525867,54.35072869
+784,United Arab Emirates,2005,Medium,10.466,Western Asia,Asia,23.90525867,54.35072869
+784,United Arab Emirates,2000,Medium,12.140999999999998,Western Asia,Asia,23.90525867,54.35072869
+784,United Arab Emirates,1995,Medium,14.720999999999998,Western Asia,Asia,23.90525867,54.35072869
+784,United Arab Emirates,1990,Medium,19.452,Western Asia,Asia,23.90525867,54.35072869
+784,United Arab Emirates,1985,Medium,28.354,Western Asia,Asia,23.90525867,54.35072869
+784,United Arab Emirates,1980,Medium,46.538000000000004,Western Asia,Asia,23.90525867,54.35072869
+784,United Arab Emirates,1975,Medium,77.747,Western Asia,Asia,23.90525867,54.35072869
+826,United Kingdom,2020,Medium,4.388,Northern Europe,Europe,53.75504855,-2.103843405
+826,United Kingdom,2015,Medium,4.729,Northern Europe,Europe,53.75504855,-2.103843405
+826,United Kingdom,2010,Medium,5.656000000000001,Northern Europe,Europe,53.75504855,-2.103843405
+826,United Kingdom,2005,Medium,6.215,Northern Europe,Europe,53.75504855,-2.103843405
+826,United Kingdom,2000,Medium,6.914,Northern Europe,Europe,53.75504855,-2.103843405
+826,United Kingdom,1995,Medium,7.992000000000001,Northern Europe,Europe,53.75504855,-2.103843405
+826,United Kingdom,1990,Medium,10.627,Northern Europe,Europe,53.75504855,-2.103843405
+826,United Kingdom,1985,Medium,12.388,Northern Europe,Europe,53.75504855,-2.103843405
+826,United Kingdom,1980,Medium,16.067,Northern Europe,Europe,53.75504855,-2.103843405
+826,United Kingdom,1975,Medium,19.789,Northern Europe,Europe,53.75504855,-2.103843405
+834,United Republic of Tanzania,2020,Medium,56.534,Sub-Saharan Africa,Africa,-6.273241244,34.79620168
+834,United Republic of Tanzania,2015,Medium,65.645,Sub-Saharan Africa,Africa,-6.273241244,34.79620168
+834,United Republic of Tanzania,2010,Medium,80.343,Sub-Saharan Africa,Africa,-6.273241244,34.79620168
+834,United Republic of Tanzania,2005,Medium,105.493,Sub-Saharan Africa,Africa,-6.273241244,34.79620168
+834,United Republic of Tanzania,2000,Medium,145.52200000000002,Sub-Saharan Africa,Africa,-6.273241244,34.79620168
+834,United Republic of Tanzania,1995,Medium,164.05900000000003,Sub-Saharan Africa,Africa,-6.273241244,34.79620168
+834,United Republic of Tanzania,1990,Medium,170.925,Sub-Saharan Africa,Africa,-6.273241244,34.79620168
+834,United Republic of Tanzania,1985,Medium,178.706,Sub-Saharan Africa,Africa,-6.273241244,34.79620168
+834,United Republic of Tanzania,1980,Medium,186.062,Sub-Saharan Africa,Africa,-6.273241244,34.79620168
+834,United Republic of Tanzania,1975,Medium,203.685,Sub-Saharan Africa,Africa,-6.273241244,34.79620168
+840,United States of America,2020,Medium,6.841,Northern America,Americas,45.73643438,-112.404207
+840,United States of America,2015,Medium,6.973,Northern America,Americas,45.73643438,-112.404207
+840,United States of America,2010,Medium,7.9239999999999995,Northern America,Americas,45.73643438,-112.404207
+840,United States of America,2005,Medium,8.244,Northern America,Americas,45.73643438,-112.404207
+840,United States of America,2000,Medium,8.863,Northern America,Americas,45.73643438,-112.404207
+840,United States of America,1995,Medium,10.437000000000001,Northern America,Americas,45.73643438,-112.404207
+840,United States of America,1990,Medium,12.295,Northern America,Americas,45.73643438,-112.404207
+840,United States of America,1985,Medium,13.674000000000001,Northern America,Americas,45.73643438,-112.404207
+840,United States of America,1980,Medium,16.717,Northern America,Americas,45.73643438,-112.404207
+840,United States of America,1975,Medium,20.91,Northern America,Americas,45.73643438,-112.404207
+850,United States Virgin Islands,2020,Medium,9.432,Latin America and the Caribbean,Americas,17.39137826,-64.67699419
+850,United States Virgin Islands,2015,Medium,10.376,Latin America and the Caribbean,Americas,17.39137826,-64.67699419
+850,United States Virgin Islands,2010,Medium,12.345,Latin America and the Caribbean,Americas,17.39137826,-64.67699419
+850,United States Virgin Islands,2005,Medium,13.466,Latin America and the Caribbean,Americas,17.39137826,-64.67699419
+850,United States Virgin Islands,2000,Medium,15.243,Latin America and the Caribbean,Americas,17.39137826,-64.67699419
+850,United States Virgin Islands,1995,Medium,17.82,Latin America and the Caribbean,Americas,17.39137826,-64.67699419
+850,United States Virgin Islands,1990,Medium,21.078000000000003,Latin America and the Caribbean,Americas,17.39137826,-64.67699419
+850,United States Virgin Islands,1985,Medium,25.425,Latin America and the Caribbean,Americas,17.39137826,-64.67699419
+850,United States Virgin Islands,1980,Medium,29.682,Latin America and the Caribbean,Americas,17.39137826,-64.67699419
+850,United States Virgin Islands,1975,Medium,35.732,Latin America and the Caribbean,Americas,17.39137826,-64.67699419
+858,Uruguay,2020,Medium,10.345999999999998,Latin America and the Caribbean,Americas,-32.80198719,-56.01417232
+858,Uruguay,2015,Medium,11.894,Latin America and the Caribbean,Americas,-32.80198719,-56.01417232
+858,Uruguay,2010,Medium,13.359000000000002,Latin America and the Caribbean,Americas,-32.80198719,-56.01417232
+858,Uruguay,2005,Medium,17.336,Latin America and the Caribbean,Americas,-32.80198719,-56.01417232
+858,Uruguay,2000,Medium,18.437,Latin America and the Caribbean,Americas,-32.80198719,-56.01417232
+858,Uruguay,1995,Medium,23.090999999999998,Latin America and the Caribbean,Americas,-32.80198719,-56.01417232
+858,Uruguay,1990,Medium,26.044,Latin America and the Caribbean,Americas,-32.80198719,-56.01417232
+858,Uruguay,1985,Medium,37.324,Latin America and the Caribbean,Americas,-32.80198719,-56.01417232
+858,Uruguay,1980,Medium,47.403,Latin America and the Caribbean,Americas,-32.80198719,-56.01417232
+858,Uruguay,1975,Medium,51.648999999999994,Latin America and the Caribbean,Americas,-32.80198719,-56.01417232
+860,Uzbekistan,2020,Medium,25.62,Central Asia,Asia,41.74950759,63.17455249
+860,Uzbekistan,2015,Medium,33.87,Central Asia,Asia,41.74950759,63.17455249
+860,Uzbekistan,2010,Medium,47.868,Central Asia,Asia,41.74950759,63.17455249
+860,Uzbekistan,2005,Medium,58.917,Central Asia,Asia,41.74950759,63.17455249
+860,Uzbekistan,2000,Medium,68.845,Central Asia,Asia,41.74950759,63.17455249
+860,Uzbekistan,1995,Medium,74.123,Central Asia,Asia,41.74950759,63.17455249
+860,Uzbekistan,1990,Medium,85.2,Central Asia,Asia,41.74950759,63.17455249
+860,Uzbekistan,1985,Medium,97.507,Central Asia,Asia,41.74950759,63.17455249
+860,Uzbekistan,1980,Medium,105.54299999999999,Central Asia,Asia,41.74950759,63.17455249
+860,Uzbekistan,1975,Medium,112.939,Central Asia,Asia,41.74950759,63.17455249
+548,Vanuatu,2020,Medium,26.651999999999997,Melanesia,Oceania,-21.04390394,171.2797047
+548,Vanuatu,2015,Medium,29.086,Melanesia,Oceania,-21.04390394,171.2797047
+548,Vanuatu,2010,Medium,28.709,Melanesia,Oceania,-21.04390394,171.2797047
+548,Vanuatu,2005,Medium,28.285,Melanesia,Oceania,-21.04390394,171.2797047
+548,Vanuatu,2000,Medium,30.365,Melanesia,Oceania,-21.04390394,171.2797047
+548,Vanuatu,1995,Medium,32.618,Melanesia,Oceania,-21.04390394,171.2797047
+548,Vanuatu,1990,Medium,40.989,Melanesia,Oceania,-21.04390394,171.2797047
+548,Vanuatu,1985,Medium,57.873000000000005,Melanesia,Oceania,-21.04390394,171.2797047
+548,Vanuatu,1980,Medium,78.70100000000001,Melanesia,Oceania,-21.04390394,171.2797047
+548,Vanuatu,1975,Medium,97.771,Melanesia,Oceania,-21.04390394,171.2797047
+862,Venezuela (Bolivarian Republic of),2020,Medium,30.854,Latin America and the Caribbean,Americas,7.115201972,-66.18367077
+862,Venezuela (Bolivarian Republic of),2015,Medium,17.468,Latin America and the Caribbean,Americas,7.115201972,-66.18367077
+862,Venezuela (Bolivarian Republic of),2010,Medium,17.214000000000002,Latin America and the Caribbean,Americas,7.115201972,-66.18367077
+862,Venezuela (Bolivarian Republic of),2005,Medium,20.086,Latin America and the Caribbean,Americas,7.115201972,-66.18367077
+862,Venezuela (Bolivarian Republic of),2000,Medium,24.109,Latin America and the Caribbean,Americas,7.115201972,-66.18367077
+862,Venezuela (Bolivarian Republic of),1995,Medium,27.515,Latin America and the Caribbean,Americas,7.115201972,-66.18367077
+862,Venezuela (Bolivarian Republic of),1990,Medium,32.964,Latin America and the Caribbean,Americas,7.115201972,-66.18367077
+862,Venezuela (Bolivarian Republic of),1985,Medium,39.762,Latin America and the Caribbean,Americas,7.115201972,-66.18367077
+862,Venezuela (Bolivarian Republic of),1980,Medium,49.288999999999994,Latin America and the Caribbean,Americas,7.115201972,-66.18367077
+862,Venezuela (Bolivarian Republic of),1975,Medium,62.324,Latin America and the Caribbean,Americas,7.115201972,-66.18367077
+704,Viet Nam,2020,Medium,20.936999999999998,South-eastern Asia,Asia,16.64893259,106.3103686
+704,Viet Nam,2015,Medium,22.406,South-eastern Asia,Asia,16.64893259,106.3103686
+704,Viet Nam,2010,Medium,23.761999999999997,South-eastern Asia,Asia,16.64893259,106.3103686
+704,Viet Nam,2005,Medium,29.761,South-eastern Asia,Asia,16.64893259,106.3103686
+704,Viet Nam,2000,Medium,35.89,South-eastern Asia,Asia,16.64893259,106.3103686
+704,Viet Nam,1995,Medium,44.93899999999999,South-eastern Asia,Asia,16.64893259,106.3103686
+704,Viet Nam,1990,Medium,51.153,South-eastern Asia,Asia,16.64893259,106.3103686
+704,Viet Nam,1985,Medium,58.802,South-eastern Asia,Asia,16.64893259,106.3103686
+704,Viet Nam,1980,Medium,66.643,South-eastern Asia,Asia,16.64893259,106.3103686
+704,Viet Nam,1975,Medium,80.153,South-eastern Asia,Asia,16.64893259,106.3103686
+732,Western Sahara,2020,Medium,34.736,Northern Africa,Africa,24.66295331,-13.13425705
+732,Western Sahara,2015,Medium,41.926,Northern Africa,Africa,24.66295331,-13.13425705
+732,Western Sahara,2010,Medium,54.528,Northern Africa,Africa,24.66295331,-13.13425705
+732,Western Sahara,2005,Medium,69.774,Northern Africa,Africa,24.66295331,-13.13425705
+732,Western Sahara,2000,Medium,87.81200000000001,Northern Africa,Africa,24.66295331,-13.13425705
+732,Western Sahara,1995,Medium,105.788,Northern Africa,Africa,24.66295331,-13.13425705
+732,Western Sahara,1990,Medium,124.70299999999999,Northern Africa,Africa,24.66295331,-13.13425705
+732,Western Sahara,1985,Medium,159.738,Northern Africa,Africa,24.66295331,-13.13425705
+732,Western Sahara,1980,Medium,198.958,Northern Africa,Africa,24.66295331,-13.13425705
+732,Western Sahara,1975,Medium,239.207,Northern Africa,Africa,24.66295331,-13.13425705
+887,Yemen,2020,Medium,55.431999999999995,Western Asia,Asia,15.96506363,47.50305348
+887,Yemen,2015,Medium,55.504,Western Asia,Asia,15.96506363,47.50305348
+887,Yemen,2010,Medium,63.528,Western Asia,Asia,15.96506363,47.50305348
+887,Yemen,2005,Medium,83.681,Western Asia,Asia,15.96506363,47.50305348
+887,Yemen,2000,Medium,104.617,Western Asia,Asia,15.96506363,47.50305348
+887,Yemen,1995,Medium,118.256,Western Asia,Asia,15.96506363,47.50305348
+887,Yemen,1990,Medium,138.243,Western Asia,Asia,15.96506363,47.50305348
+887,Yemen,1985,Medium,178.51,Western Asia,Asia,15.96506363,47.50305348
+887,Yemen,1980,Medium,238.347,Western Asia,Asia,15.96506363,47.50305348
+887,Yemen,1975,Medium,296.793,Western Asia,Asia,15.96506363,47.50305348
+894,Zambia,2020,Medium,60.718999999999994,Sub-Saharan Africa,Africa,-13.45369192,27.80039565
+894,Zambia,2015,Medium,73.286,Sub-Saharan Africa,Africa,-13.45369192,27.80039565
+894,Zambia,2010,Medium,95.69200000000001,Sub-Saharan Africa,Africa,-13.45369192,27.80039565
+894,Zambia,2005,Medium,138.498,Sub-Saharan Africa,Africa,-13.45369192,27.80039565
+894,Zambia,2000,Medium,175.56799999999998,Sub-Saharan Africa,Africa,-13.45369192,27.80039565
+894,Zambia,1995,Medium,185.06900000000002,Sub-Saharan Africa,Africa,-13.45369192,27.80039565
+894,Zambia,1990,Medium,178.449,Sub-Saharan Africa,Africa,-13.45369192,27.80039565
+894,Zambia,1985,Medium,161.281,Sub-Saharan Africa,Africa,-13.45369192,27.80039565
+894,Zambia,1980,Medium,155.377,Sub-Saharan Africa,Africa,-13.45369192,27.80039565
+894,Zambia,1975,Medium,168.174,Sub-Saharan Africa,Africa,-13.45369192,27.80039565
+716,Zimbabwe,2020,Medium,51.246,Sub-Saharan Africa,Africa,-19.00126774,29.86951021
+716,Zimbabwe,2015,Medium,70.933,Sub-Saharan Africa,Africa,-19.00126774,29.86951021
+716,Zimbabwe,2010,Medium,96.286,Sub-Saharan Africa,Africa,-19.00126774,29.86951021
+716,Zimbabwe,2005,Medium,99.861,Sub-Saharan Africa,Africa,-19.00126774,29.86951021
+716,Zimbabwe,2000,Medium,101.73,Sub-Saharan Africa,Africa,-19.00126774,29.86951021
+716,Zimbabwe,1995,Medium,87.125,Sub-Saharan Africa,Africa,-19.00126774,29.86951021
+716,Zimbabwe,1990,Medium,76.53399999999999,Sub-Saharan Africa,Africa,-19.00126774,29.86951021
+716,Zimbabwe,1985,Medium,93.084,Sub-Saharan Africa,Africa,-19.00126774,29.86951021
+716,Zimbabwe,1980,Medium,109.176,Sub-Saharan Africa,Africa,-19.00126774,29.86951021
+716,Zimbabwe,1975,Medium,111.20700000000001,Sub-Saharan Africa,Africa,-19.00126774,29.86951021

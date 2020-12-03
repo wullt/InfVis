@@ -195,7 +195,6 @@ To compare the values of different times, another section was added:
 ## Visualization 1
 
 In the first vizualisation, the goal is to show how the u5mr values have decreased over the last 40 years. The data was categorized in the continents.
-To 
 
 ### Colors
 
@@ -225,18 +224,27 @@ magenta|`rgb(152,0,133)`|Oceania
 
 ### Type of plot
 
+To indicate the change over time of the rate in each continent, a line chart with not more than the important data was used.
 
-
->TODO
 
 ![lineplotv0](images/line_plot_continents.PNG)
 
 
 
-### Anotations
+### Anotations & Highlighting
 
-* Rwanda 1994
-* Cambodia 1975-1979
+In this plot, i want to show that the global U5MR has decreased. I added a green rectangle to highlight the change:
+
+![linechart_highlighted](images/linechart_highlighted.png)
+
+
+Under this plot, there will be two map plots. They are referencing the years `1975-1980` and `2015-2020`. To indicate the relation, two gray rectangles were added:
+
+![linechart_final](images/linechart_wg.png)
+
+
+>The genocide in Rwanda, 1994, had an influence to Africa's average. An annotation will be added for this.
+
 
 
 ## Plot 2
