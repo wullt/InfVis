@@ -8,6 +8,21 @@
 
 *Module supervisor: Prof. Dr. Susanne Bleisch*
 
+**Sources**
+
+
+[1]  H. Rosling, A. R. Rönnlund, and O. Rosling, Factfulness: Ten Reasons We’re Wrong About the World--and Why Things Are Better Than You Think. New York: Flatiron Books, 2018.
+
+
+[2]  UNdata, “UNdata | record view | Under-five mortality, for both sexes combined (deaths under age five per 1,000 live births),” Jun. 17, 2019.http://data.un.org/Data.aspx?q=under+five+mortality&d=PopDiv&f=variableID%3a80 (accessed Dec. 03, 2020).
+
+
+[3]  “Rwanda genocide: 100 days of slaughter,” BBC News, Apr. 04, 2019.
+
+
+[4]  “Khmer Rouge: Cambodia’s years of brutality,” BBC News, Nov. 16, 2018.
+
+
 ## Summary
 
 **U5MR** stands for Under 5 Mortality Rate. Typically, an U5MR value describes the number of children who died before the age of Fife years. Children, especially at a young age, are the most vulnerable part of a society. Using the mortality rate at an age under five years, the wealth of a country or a continent can be described. In the past 20 years, the worldwide U5MR was halved. Most people think, that the world is getting worse but it is not. The goal is to show the global increase of wealth.
@@ -23,7 +38,7 @@ Data exploration and preparation
 Vizualisation
 * Python
 * Plotly
-* PowerPoint
+* diagrams.net
 
 ## Dataset
 
@@ -192,7 +207,7 @@ To compare the values of different times, another section was added:
 
 
 
-## Visualization 1
+## Visualization 1 - Linechart
 
 In the first vizualisation, the goal is to show how the u5mr values have decreased over the last 40 years. The data was categorized in the continents.
 
@@ -247,10 +262,142 @@ Under this plot, there will be two map plots. They are referencing the years `19
 
 
 
-## Plot 2
-Geographig distribution and change over time
+## Visualization 2&3 - Maps
+
+Geographig distribution and difference between `1975-1980` and `2015-2020`.
+
+I decided to use a choropleth map. It should contain only countries with more than 90k inhabitants, so Greenland for example will not be on it.
+
+
+### Color and binning
+
+The colors were chosen using [colorbrewer2](https://colorbrewer2.org/#type=sequential&scheme=OrRd&n=7) and decided to use the `OrRd` sequential scale. Since a mortality rate is an important topic and has a negative impact, the red color for high mortality rates seemed suitable. In addition to that is the used scale colorblind friendly. The rgb values are listed below:
+
+```
+"#fef0d9","#fdd49e","#fdbb84","#fc8d59","#ef6548","#d7301f","#990000"
+```
+
+To create bins, i tried different bin sizes. A good compromise were bins with a static size of 50. To limit the number of
+bins, i decided to use a `>300` bin.
+
+The legend was created with diagrams.net and looks as follows:
+
+![seq_legend](images/seq_scale.png)
+
+### GeoJson
+
+To create the map, a `GeoJson` is used. Because the maps are not that big on the infographic, i downloaded a custom file from [geojson-maps.ash.ms](https://geojson-maps.ash.ms/). 
+
+**Link the countries to the `GeoJson`**
+
+The structure of the properties of each country in a `GeoJson` file is as follows:
+
+```json
+"properties": {
+    "scalerank": 1,
+    "featurecla": "Admin-0 country",
+    "labelrank": 2,
+    "sovereignt": "United States of America",
+    "sov_a3": "US1",
+    "adm0_dif": 1,
+    "level": 2,
+    "type": "Country",
+    "admin": "United States of America",
+    "adm0_a3": "USA",
+    "geou_dif": 0,
+    "geounit": "United States of America",
+    "gu_a3": "USA",
+    "su_dif": 0,
+    "subunit": "United States of America",
+    "su_a3": "USA",
+    "brk_diff": 0,
+    "name": "United States",
+    "name_long": "United States",
+    "brk_a3": "USA",
+    "brk_name": "United States",
+    "brk_group": null,
+    "abbrev": "U.S.A.",
+    "postal": "US",
+    "formal_en": "United States of America",
+    "formal_fr": null,
+    "note_adm0": null,
+    "note_brk": null,
+    "name_sort": "United States of America",
+    "name_alt": null,
+    "mapcolor7": 4,
+    "mapcolor8": 5,
+    "mapcolor9": 1,
+    "mapcolor13": 1,
+    "pop_est": 313973000,
+    "gdp_md_est": 15094000,
+    "pop_year": 0,
+    "lastcensus": 2010,
+    "gdp_year": 0,
+    "economy": "1. Developed region: G7",
+    "income_grp": "1. High income: OECD",
+    "wikipedia": 0,
+    "fips_10": null,
+    "iso_a2": "US",
+    "iso_a3": "USA",
+    "iso_n3": "840",
+    "un_a3": "840",
+    "wb_a2": "US",
+    "wb_a3": "USA",
+    "woe_id": -99,
+    "adm0_a3_is": "USA",
+    "adm0_a3_us": "USA",
+    "adm0_a3_un": -99,
+    "adm0_a3_wb": -99,
+    "continent": "North America",
+    "region_un": "Americas",
+    "subregion": "Northern America",
+    "region_wb": "North America",
+    "name_len": 13,
+    "long_len": 13,
+    "abbrev_len": 6,
+    "tiny": -99,
+    "homepart": 1,
+    "filename": "USA.geojson"
+}
+```
+
+The `iso_n3` parameter is the Country code which is included in the downloaded dataset. To link the countries of the dataset to the countries in the `GeoJson`, the parameter has to be set:
+
+```py
+fig = px.choropleth(df, geojson=geojson, color="Value",
+                    color_continuous_scale=cs7,
+                    range_color=[0,300],
+                    locations="CountryCode", featureidkey="properties.iso_n3",hover_name="Country",
+                    projection="mercator"
+                    )
+```
+
+### Projection
+To choose a projection for the map, [this animation](http://bl.ocks.org/syntagmatic/raw/ba569633d51ebec6ec6e/) and, of course the slides of the course, hepled me a lot.
+
+The important factors for this visualization are the scale and the area, so i have chosen the Mercator projection.
+The disadvantage of it is, that the angular accuracy is very low but for the visualization, this does not matter.
+
+The map plots:
+
+
+**1975-1980**
+![1975-1980](images/map_screenshot_cut_1980_clear.png)
+
+**2015-2020**
+![2015-2020](images/map_screenshot_cut_2020.png)
+
+
 
 ## Layout of the info graphic
 
+The layout of the whole poster was done with diagrams.net. 
 
-![layout](images/infvis_layout.png)
+The reading flow should be:
+
+**Title &rarr; Introduction &darr; Line chart &uarr; Annotation Rwanda &darr; Map 1978-1980 &rarr; Map 2015-2020 &darr; Personal reflection &darr; This repository**
+
+
+![infographic](Infographic.png)
+
+
